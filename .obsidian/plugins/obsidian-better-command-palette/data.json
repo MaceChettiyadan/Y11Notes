@@ -1,0 +1,30 @@
+{
+  "closeWithBackspace": true,
+  "showPluginName": true,
+  "fileSearchPrefix": "/",
+  "tagSearchPrefix": "#",
+  "commandSearchHotkey": "p",
+  "fileSearchHotkey": "o",
+  "tagSearchHotkey": "t",
+  "suggestionLimit": 50,
+  "recentAbovePinned": false,
+  "hyperKeyOverride": false,
+  "macros": [
+    {
+      "name": "Push to Github (M)",
+      "commandIds": [
+        "editor:save-file",
+        "obsidian-git:commit",
+        "obsidian-git:push2"
+      ],
+      "delay": 200
+    }
+  ],
+  "hotkeyStyle": "auto",
+  "createNewFileMod": "Mod",
+  "createNewPaneMod": "Shift",
+  "hiddenCommands": [],
+  "hiddenFiles": [],
+  "hiddenTags": [],
+  "fileTypeExclusion": []
+}
