@@ -11,15 +11,11 @@
             "id": "18b08f760a3a1988",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "Compsci/Computer Science - Intro.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -73,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 232.5
   },
   "right": {
     "id": "eab940f49f2c5c33",
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Compsci/Computer Science - Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Compsci/Computer Science - Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Compsci/Computer Science - Intro.md"
               }
             }
           }
@@ -155,7 +151,8 @@
   },
   "active": "18b08f760a3a1988",
   "lastOpenFiles": [
-    "Computer Science - Intro.md",
+    "Untitled.canvas",
+    "Compsci/Computer Science - Intro.md",
     "Poodoo.md"
   ]
 }
