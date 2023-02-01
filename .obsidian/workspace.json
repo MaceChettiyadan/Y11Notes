@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "d.md",
+                "file": "Computer Science - Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "d.md",
+                "file": "Computer Science - Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "d.md",
+                "file": "Computer Science - Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "d.md"
+                "file": "Computer Science - Intro.md"
               }
             }
           }
@@ -151,7 +151,7 @@
   },
   "active": "18b08f760a3a1988",
   "lastOpenFiles": [
-    "d.md",
+    "Computer Science - Intro.md",
     "Poodoo.md"
   ]
 }
