@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "108a8e8bbec4dd56",
+        "id": "1c7a0a37595c5ab2",
         "type": "tabs",
         "children": [
           {
-            "id": "21c3a6bf167500be",
+            "id": "303689b48e0a6672",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,7 +149,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "21c3a6bf167500be",
+  "active": "303689b48e0a6672",
   "lastOpenFiles": [
     "Compsci/Computer Science - Intro.md",
     "Untitled.canvas",

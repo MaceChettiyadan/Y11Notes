@@ -13,7 +13,7 @@ var temp_global = 0 //global
 ```
 
 #### Pseudocode
-- Make sure to include line numbers
+- **Make sure to include line numbers**
 - Used to plan out a program logically (in our mind), breaking down complex programs into step by step logical thingos for human readable
 ###### Data types
 - **For syllabus**
@@ -56,4 +56,5 @@ BEGIN
 	ELSE
 		OUTPUT <= 'The big boy number is the first one'
 	ENDIF
+END
 ```
