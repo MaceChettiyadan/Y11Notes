@@ -1,4 +1,4 @@
-### Dedicated to our lord, Big C, The C, and without a doubt C.
+### Dedicated to our lord, Big C, The C, and without a doubt C, not associated with the language, but a god within himself and himthen upon the hil where the Big C resides..
 #### Variables
 - Are memory addresses in a computer used to store information so that the CPU may use it, for example, $i=0$
 - Variables are temporary. They are usually collected by a garbage collector once their purpose is complete.
@@ -57,4 +57,19 @@ BEGIN
 		OUTPUT <= 'The big boy number is the first one'
 	ENDIF
 END
+```
+###### #3 - Python
+```python
+a = float(input('First: '))
+b = float(input('Second: '))
+c = float(input('Third: '))
+
+if (a > b) and (a > c):
+    print('First is the largest')
+elif (b > a) and (b > c):
+    print('Second is the largest')
+elif (c > a) and (c > b):
+    print('Third is the largest')
+else:
+	print('They are all of equal magnitude from the digit zero.')
 ```
