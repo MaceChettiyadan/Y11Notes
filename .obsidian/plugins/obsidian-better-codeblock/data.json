@@ -3,6 +3,6 @@
   "highLightColor": "#2d82cc20",
   "excludeLangs": [],
   "showLineNumber": true,
-  "showDividingLine": true,
+  "showDividingLine": false,
   "showLangNameInTopRight": true
 }
