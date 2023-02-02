@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "14a25cf95de6ea81",
+        "id": "108a8e8bbec4dd56",
         "type": "tabs",
         "children": [
           {
-            "id": "18b08f760a3a1988",
+            "id": "21c3a6bf167500be",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -149,10 +149,10 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "18b08f760a3a1988",
+  "active": "21c3a6bf167500be",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Compsci/Computer Science - Intro.md",
+    "Untitled.canvas",
     "Poodoo.md"
   ]
 }

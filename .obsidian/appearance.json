@@ -1,4 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Everforest"
+  "cssTheme": "Everforest",
+  "enabledCssSnippets": [
+    "snipps"
+  ]
 }
