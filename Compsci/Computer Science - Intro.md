@@ -1,5 +1,5 @@
-### Dedicated to our lord, Big C.
-###### Variables
+### Dedicated to our lord, Big C, The C, and without a doubt C.
+#### Variables
 - Are memory addresses in a computer used to store information so that the CPU may use it, for example, $i=0$
 - Variables are temporary. They are usually collected by a garbage collector once their purpose is complete.
 	- **Constants** are variables that are immutable - they do not change. For example, $pi=3.14$
@@ -12,20 +12,18 @@ let temp_local = 0 //variable - in js, let makes it local
 var temp_global = 0 //global
 ```
 
-###### Pseudocode
+#### Pseudocode
 - Make sure to include line numbers
 - Used to plan out a program logically (in our mind), breaking down complex programs into step by step logical thingos for human readable
-
-
 ###### Data types
 - **For syllabus**
 	- Int
 	- Float
 	- Str
 	- Boolean
-- Ok but india
 
-### Pseudocode Example
+#### Pseudocode Example
+###### #1
 The 'Wilson' Standard (Y10, Mr Wilson)
 ```python
 BEGIN
@@ -44,4 +42,18 @@ BEGIN
 	Total <= Num1 + Num2
 	Output <= Total
 END
+```
+###### #2
+```python
+BEGIN
+	num1, num2, num3 are float
+	INPUT <= num1, num2, num3
+	READ <= num1, num2, num3
+	IF (num1 > num2) AND (num1 > num3) THEN
+		OUTPUT <= 'The big boy number is the first one'
+	ELSE IF (num2 > num1) AND (num2 > num3) THEN
+		OUTPUT <= 'The big boy number is the second one'
+	ELSE
+		OUTPUT <= 'The big boy number is the first one'
+	ENDIF
 ```
