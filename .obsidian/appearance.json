@@ -2,6 +2,7 @@
   "accentColor": "",
   "cssTheme": "Everforest",
   "enabledCssSnippets": [
-    "snipps"
+    "snipps",
+    "snips"
   ]
 }
