@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/CH1/Homework.md",
+                "file": "Economics/CH1/Powerpoint.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dc32bdbd5bab39cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/SIS in Physics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/CH1/Homework.md",
+                "file": "Physics/SIS in Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/CH1/Homework.md",
+                "file": "Physics/SIS in Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/CH1/Homework.md"
+                "file": "Physics/SIS in Physics.md"
               }
             }
           }
@@ -149,12 +162,13 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "619cbd752f5d89d3",
+  "active": "dc32bdbd5bab39cf",
   "lastOpenFiles": [
+    "Economics/CH1/Powerpoint.md",
     "Economics/CH1/Homework.md",
+    "Untitled.canvas",
     "Compsci/Computer Science - Intro.md",
     "Economics/What is economics (CH1).md",
-    "Untitled.canvas",
     "Poodoo.md"
   ]
 }

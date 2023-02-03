@@ -22,10 +22,16 @@
 ###### Choice
 - Because of scarcity - because of the limited resources, **we must choose between one option or the other**
 	- For example, I have the limited amount of $15 - do i
-		- a) Go to the movies or
+		- a) Go to the movies or   
 		- b) Go to a restaurant?
 - Making choices when confronted by scarcity involves a  **trade-off**
 
 
 #### Types of Resources
 - There are three main types of **resources**, also known as **factors of production**
+	- Natural
+	- Human
+	- Capital
+
+###### Natural Resources
+- The gifts of nature; resources such as air, minerals, water, coal, oil

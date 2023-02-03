@@ -1,7 +1,7 @@
 {
   "strictLineBreaks": true,
   "vimMode": false,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "readableLineLength": false,
   "showFrontmatter": true,
   "rightToLeft": false
