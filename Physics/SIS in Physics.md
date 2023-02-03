@@ -10,3 +10,8 @@
 
 ##### Uncertainty & Error
 - 3 Classes
+	- **Measurement error** - unavoidable, property of the measuring instrument
+		- Absolute Error - of the instrument, $= \frac{1}{2}$ of the smalles unit of scale on the instrument - e.g. 30cm ruler with millimeter increments = 0.5mm. So whatever value you get would be $n\pm 0.5mm$
+		- Percentage Error - this is $$=(\frac{absolute \space error}{measurement}*100)\%$$
+	- **Systematic error** - affect the results such that all measurements are skewed away from some ideal value sought
+	- **Random** - affect the results in a way which, if truly random, tend to cancel each other out 
