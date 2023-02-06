@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/SIS in Physics.md",
+                "file": "Compsci/Computer Science - Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7eaaff1c96be1311",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compsci/Computer Science - Intro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/SIS in Physics.md",
+                "file": "Compsci/Computer Science - Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/SIS in Physics.md",
+                "file": "Compsci/Computer Science - Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/SIS in Physics.md"
+                "file": "Compsci/Computer Science - Intro.md"
               }
             }
           }
@@ -162,12 +174,14 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "dc32bdbd5bab39cf",
+  "active": "7eaaff1c96be1311",
   "lastOpenFiles": [
+    "Compsci/Selection - 1.md",
+    "Compsci/Computer Science - Intro.md",
+    "Physics/SIS in Physics.md",
     "Economics/CH1/Powerpoint.md",
     "Economics/CH1/Homework.md",
     "Untitled.canvas",
-    "Compsci/Computer Science - Intro.md",
     "Economics/What is economics (CH1).md",
     "Poodoo.md"
   ]

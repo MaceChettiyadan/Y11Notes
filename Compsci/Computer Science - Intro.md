@@ -22,10 +22,15 @@ var temp_global = 0 //global
 	- Str
 	- Boolean
 
+##### Types of operators
+- Arithmetic - + * -*
+- Conditional/relational - > < == !=
+- Logical -  and or not
+
 #### Pseudocode Example
 ###### #1
 The 'Wilson' Standard (Y10, Mr Wilson)
-```python
+```pseudocode
 BEGIN
 	INPUT(num1)
 	INPUT(num2)
@@ -34,7 +39,7 @@ BEGIN
 END
 ```
 The 'Chilson' Standard (Y11, Mr Chillapa)
-```python
+```pseudocode
 BEGIN
 	Num1, Num2, Total are float
 	INPUT <= Num1, Num2
@@ -44,7 +49,7 @@ BEGIN
 END
 ```
 ###### #2
-```python
+```pseudocode
 BEGIN
 	num1, num2, num3 are float
 	INPUT <= num1, num2, num3
@@ -59,7 +64,7 @@ BEGIN
 END
 ```
 ###### #3 - Python
-```python
+```pseudocode
 a = float(input('First: '))
 b = float(input('Second: '))
 c = float(input('Third: '))
