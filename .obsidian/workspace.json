@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compsci/Selection - 1.md",
+                "file": "Compsci/Computer Science - Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a3dd03539513d14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compsci/Jankies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compsci/Selection - 1.md",
+                "file": "Compsci/Jankies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compsci/Selection - 1.md",
+                "file": "Compsci/Jankies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compsci/Selection - 1.md"
+                "file": "Compsci/Jankies.md"
               }
             }
           }
@@ -149,7 +162,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "4a920a71a9ef2481",
+  "active": "9a3dd03539513d14",
   "lastOpenFiles": [
     "Compsci/Computer Science - Intro.md",
     "Compsci/Selection - 1.md",
