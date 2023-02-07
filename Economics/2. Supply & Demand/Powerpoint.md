@@ -1,16 +1,19 @@
 ### Demand
 - **Demand** is the quantity of a good or service that consumers are **willing** and **able** to buy at each **price** in a particular point in **time**
+
 ###### The law of demand
 - There is an inverse relationship between the price of a product and the quantity of the product demanded, due to;
 	- **Substitution** effect - when a product increases in price, consumers subsititute for a cheaper good
 	- **Income** effect - when a product becomes more expensive, it takes up a larger portion of a consumers' income and so the consumer has less to spend on other goods
 		- The **purchasing power** of income is reduced
+
 ###### The relationship between indvidual and market demand schedules and curves
 - The **demand curve** is downward sloping, labelled 'D'. X-axis is labelled as quantity, and the Y-axis as price.
 - The **individual demand curve** is;
 	- The demand curve for an individual consumer
 - The **market demand curve** is;
 	- The curve obtained from the horizontal summation of individual demand curves (i.e the average basically)
+
 ###### Factors impacting demand
 
 ###### The effect of changes in price on quantity demanded
@@ -18,6 +21,7 @@
 	- Expansion in demand = decrease in price
 	- Contraction in demand = increase in price
 	- Label points $P_{1,}D_1$ and $P_2,D_2$, etc.
+
 ###### The effect of changes in non-price factors on quantity demanded
 - **Shift** - the quantity demanded of the good changes at every price due to **non-price** factors
 	- Rightward shift = increase in demand

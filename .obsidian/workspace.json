@@ -11,24 +11,15 @@
             "id": "065d79b058a172a4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "c077d3cc4be55dc3",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/2. Supply & Demand/Powerpoint.md",
+                "file": "Economics/1. Introduction/Homework.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/2. Supply & Demand/Powerpoint.md",
+                "file": "Economics/1. Introduction/Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/2. Supply & Demand/Powerpoint.md",
+                "file": "Economics/1. Introduction/Homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/2. Supply & Demand/Powerpoint.md"
+                "file": "Economics/1. Introduction/Homework.md"
               }
             }
           }
@@ -158,17 +149,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "c077d3cc4be55dc3",
+  "active": "065d79b058a172a4",
   "lastOpenFiles": [
-    "Physics/SIS & Error in Physics.md",
-    "Economics/2. Supply & Demand/Powerpoint.md",
+    "Economics/1. Introduction/Powerpoint.md",
     "Economics/1. Introduction/Homework.md",
+    "Economics/2. Supply & Demand/Powerpoint.md",
+    "Physics/SIS & Error in Physics.md",
     "Compsci/Selection - IF.md",
     "Compsci/Selection- IF-THEN-ELSE.md",
     "Economics/Demand & Supply.md",
     "Compsci/Jankies.md",
     "Compsci/Computer Science - Intro.md",
-    "Economics/1. Introduction/Powerpoint.md",
     "Untitled.canvas"
   ]
 }
