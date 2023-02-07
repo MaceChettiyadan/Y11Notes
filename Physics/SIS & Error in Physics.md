@@ -6,7 +6,7 @@
 	- A property of the instrument itself
 	- We use experimental preceision - how far apart from average experimental value
 - **Reliable**  - when additional trials give a consistent result
-- **Validity** occurs when every variable is controlled as you intend it - no other variable is having an impact on our experiment other than the deliberate experimentation of the independant bariable and the resulting response of the dependant variable.
+- **Validity** occurs when every variable is controlled as you intend it - no other variable is having an impact on our experiment other than the deliberate experimentation of the independant bariable and the resultingx response of the dependant variable.
 
 ##### Uncertainty & Error
 - 3 Classes
@@ -15,3 +15,11 @@
 		- Percentage Error - this is $$=(\frac{absolute \space error}{measurement}*100)\%$$
 	- **Systematic error** - affect the results such that all measurements are skewed away from some ideal value sought
 	- **Random** - affect the results in a way which, if truly random, tend to cancel each other out 
+
+###### Examples
+1. $10cm - 0.5\%$
+2. $15cm - 0.\overline{3}\%$
+3. $21cm - 0.24\%$
+
+
+

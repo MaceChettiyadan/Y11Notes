@@ -11,6 +11,7 @@
 	- How to produce?
 	- For whom to produce?
 - In doing so, economics is a **social science**
+- Wants are unlimited, recurring, complimentary (iphone -> airpods), specific to a person, location and time, and have varying levels of importance
 
 ###### Scarcity
 - Anything that has a **price** is **scarce**.
@@ -35,3 +36,10 @@
 
 ###### Natural Resources
 - The gifts of nature; resources such as air, minerals, water, coal, oil
+
+
+###### Micro and Macroeconomics
+- The subject matter of economics is divided into micro and macroeconomics
+- **Macro**economics deals with the economic problem from society's point of view
+	- It is concerned with the performance of the whole economy
+- **Micro**economics deals withe conomics from an individual point of view - referring to a small perspective
