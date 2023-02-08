@@ -29,8 +29,7 @@
 	- The diagram is centered on a dot
 - **Vector diagrams** show the resolved vectors acting in a situation
 	- Must use arrows (same for FBD)
-	- Must have the same vector quantity
-	- On each side
+	- Must have the same vector quantity on each side
 	- Must be resolved
 	- Define own compass direction (for relevant questions)
 	- Head to Tail
