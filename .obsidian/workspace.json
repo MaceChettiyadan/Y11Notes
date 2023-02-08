@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Vectors & Scalars.md",
+                "file": "Compsci/Computer Science - Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e56a53169099e8f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compsci/Binary & Hexadecimal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Vectors & Scalars.md",
+                "file": "Compsci/Binary & Hexadecimal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Vectors & Scalars.md",
+                "file": "Compsci/Binary & Hexadecimal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Vectors & Scalars.md"
+                "file": "Compsci/Binary & Hexadecimal.md"
               }
             }
           }
@@ -163,17 +175,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88381b84c9176d27",
+  "active": "e56a53169099e8f0",
   "lastOpenFiles": [
+    "Compsci/Computer Science - Intro.md",
+    "Compsci/Selection - IF.md",
+    "Compsci/ExamJanks™️.md",
+    "Compsci/Selection- IF-THEN-ELSE.md",
+    "Physics/Vectors & Scalars.md",
     "Physics/SIS & Error in Physics.md",
     "Economics/1. Introduction/Homework.md",
     "Economics/1. Introduction/Powerpoint.md",
     "Economics/2. Supply & Demand/Powerpoint.md",
-    "Compsci/Selection - IF.md",
-    "Compsci/Selection- IF-THEN-ELSE.md",
-    "Economics/Demand & Supply.md",
-    "Compsci/Jankies.md",
-    "Compsci/Computer Science - Intro.md",
-    "Untitled.canvas"
+    "Economics/Demand & Supply.md"
   ]
 }

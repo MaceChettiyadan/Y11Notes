@@ -1,6 +1,5 @@
 ### Problem
 - Draw the flowchart and then write the code for a program that will add 3 numbers entered by the user and then determine if the sum of the numbers is greater than 15. If it is, the prgram will display a relevant message.
-
 ```pseudocode
 BEGIN
 	INPUT(num1) //entering first, second, third numbers by user

@@ -1,4 +1,3 @@
-### Dedicated to our lord, Big C, The C, and without a doubt C, not associated with the language, but a god within himself and himthen upon the hil where the Big C resides..
 #### Variables
 - Are memory addresses in a computer used to store information so that the CPU may use it, for example, $i=0$
 - Variables are temporary. They are usually collected by a garbage collector once their purpose is complete.
