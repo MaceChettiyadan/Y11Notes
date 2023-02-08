@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/1. Introduction/Homework.md",
+                "file": "Physics/SIS & Error in Physics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88381b84c9176d27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Vectors & Scalars.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/1. Introduction/Homework.md",
+                "file": "Physics/Vectors & Scalars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/1. Introduction/Homework.md",
+                "file": "Physics/Vectors & Scalars.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/1. Introduction/Homework.md"
+                "file": "Physics/Vectors & Scalars.md"
               }
             }
           }
@@ -146,15 +159,16 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "065d79b058a172a4",
+  "active": "88381b84c9176d27",
   "lastOpenFiles": [
-    "Economics/1. Introduction/Powerpoint.md",
-    "Economics/1. Introduction/Homework.md",
-    "Economics/2. Supply & Demand/Powerpoint.md",
     "Physics/SIS & Error in Physics.md",
+    "Economics/1. Introduction/Homework.md",
+    "Economics/1. Introduction/Powerpoint.md",
+    "Economics/2. Supply & Demand/Powerpoint.md",
     "Compsci/Selection - IF.md",
     "Compsci/Selection- IF-THEN-ELSE.md",
     "Economics/Demand & Supply.md",
