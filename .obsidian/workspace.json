@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compsci/Binary & Hexadecimal.md",
+                "file": "Compsci/Computer Science - Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compsci/Binary & Hexadecimal.md",
+                "file": "Compsci/Computer Science - Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compsci/Binary & Hexadecimal.md",
+                "file": "Compsci/Computer Science - Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compsci/Binary & Hexadecimal.md"
+                "file": "Compsci/Computer Science - Intro.md"
               }
             }
           }
@@ -177,6 +177,7 @@
   },
   "active": "e56a53169099e8f0",
   "lastOpenFiles": [
+    "Compsci/Binary & Hexadecimal.md",
     "Compsci/Computer Science - Intro.md",
     "Compsci/Selection - IF.md",
     "Compsci/ExamJanks™️.md",
@@ -185,7 +186,6 @@
     "Physics/SIS & Error in Physics.md",
     "Economics/1. Introduction/Homework.md",
     "Economics/1. Introduction/Powerpoint.md",
-    "Economics/2. Supply & Demand/Powerpoint.md",
-    "Economics/Demand & Supply.md"
+    "Economics/2. Supply & Demand/Powerpoint.md"
   ]
 }
