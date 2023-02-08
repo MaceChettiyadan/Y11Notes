@@ -33,3 +33,4 @@
 	- On each side
 	- Must be resolved
 	- Define own compass direction (for relevant questions)
+	- Head to Tail
