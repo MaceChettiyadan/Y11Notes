@@ -1,0 +1,58 @@
+#### Introduction
+- Proofs demonstrate the absolute truth of a statement, and should aim to achieve three things
+	- Correctness
+	- Clarity
+	- Simplicity
+- In proving statements, we should know some basic algebraic representations
+	- `Even numbers - ` *$2m$ for some $m \in \mathbb{Z}$*
+	- `Odd numbers` - *$2m + 1$ for some $m \in \mathbb{Z}$*
+	- `Divisible by `$a$ -  *$am$ for some $m \in \mathbb{Z}$*
+	- `Perfect Square` - *There exists* $a^2$ *for some* $a \in \mathbb{Z}$
+	- `Prime` - *There does not exist* $ab$ *for some* $a,b \in \mathbb{Z}$ *and* $a,b>1$
+- There are different ways to prove a statement, these are discussed below 
+
+#### Direct Proof
+##### Reasoning
+- Direct proofs are in response to conditional statements, for example
+	- `If it is raining, then the grass is wet`
+	- In the form `If P is true, then Q is true`
+	- This is mathematically represented $P \implies Q$ (`P` implies `Q`)
+		- `P` is the hypothesis, and `Q` is the conclusion
+- Not all conditional statements are true.
+
+##### The Proof
+- To give a **direct** proof of a statement $P \implies Q$, we must assume the hypothesis (P) to be true and show the conclusion (Q)
+- **Example**
+	- `If a is odd and b is even, then a + b is odd`
+	- $let \space a = 2n+1 \space for \space some \space n \in \mathbb{Z}$ (we must include for some)
+	- $let \space b=2m \space for \space some \space b \in \mathbb{Z}$ (second definition)
+	- $a+b=2n+1+2m$
+	- $=2(n+m)+1$; this is in the odd form ([[#Introduction]]) - we must complete that however by stating $for \space some \space n+m \in \mathbb{Z}$
+	- $\therefore Q.E.D$; from above it is obviously proved, but we should wrap it up - **Q.E.D essentially means** *it is proved, as you can obviously see*
+- There may be more complex examples
+	- These will require **factorisation** and algebraic manipulation, and expanded reasoning
+	- The logic stays the same though
+	- **Knights and Knaves** questions will almost always require the consideration of *all cases*
+
+#### Proof by Contrapositive
+##### Reasoning
+- Sometimes it is difficult to prove $P \implies Q$ through direct proof; consider
+	- `If ` $n^{2}+2n+1$ `is even then ` $n$ `is odd`  
+	- We can't assume `P` ($n^{2}+2n+1$) because it is difficult to define
+	- However we can use the contrapositive
+- **The contrapositive of** $P \implies Q$ is $Q' \implies P'$ (the **opposite things in the opposite order**)
+	- Making something opposite is called **negation** - the negation of $1+1=2$ is $1+1 \not = 2$
+	- For the above, `If ` $n$ `is even then ` $n^{2}+2n+1$ `is odd`
+	- **If the original P => Q is true, it's contrapositive will be**
+		- The above is therefore true and can be directly proved 
+
+##### Proof
+- Let us consider the above; `If ` $n^{2}+2n+1$ `is even then ` $n$ `is odd` 
+	- First, we should negate both sides and flip them - writing the contrapositive
+	- This is `If ` $n$ `is even then ` $n^{2}+2n+1$ `is odd` in the form $P \implies Q$
+	- $let \space n = 2a \space for \space some \space a \in \mathbb{Z}$
+	- $n^{2}+2n+1 = (2a)^{2}+2(2a)+1$
+	- $=4a^2+4a+1$; getting us into even number accounted form
+	- $=2(a^{2}+2a)+1$; it may seem like we are doing little but this puts us in the traditional odd form
+		- $for \space some  \space a^{2}+2a \in \mathbb{Z}$
+	- $\therefore Q.E.D$

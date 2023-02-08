@@ -63,7 +63,7 @@ BEGIN
 END
 ```
 ###### #3 - Python
-```pseudocode
+```python
 a = float(input('First: '))
 b = float(input('Second: '))
 c = float(input('Third: '))
@@ -77,3 +77,4 @@ elif (c > a) and (c > b):
 else:
 	print('They are all of equal magnitude from the digit zero.')
 ```
+
