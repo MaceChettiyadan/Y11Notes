@@ -40,8 +40,18 @@
 			- Subsidies
 			- Quotas
 
-### Examples
+### Example
 ##### The car market
 - Government regulation (luxury car tax) $\rightarrow$ decrease in supply, shifting the supply curve from $S$ to $S_2$ at every price point (this is an ideal #testanswer )
 - Input prices (steel price increases) $\rightarrow$ decrease in supply
 - Technology (better manufacturing) $\rightarrow$ increase in supply
+
+### Questions
+1. Crude oil prices fell below $\$100$ a barrel. This led to unleaded petrol prices to faling $4.6c$ 
+2. Two non price factors are;
+	1. Input prices - the fact that crude oil price decreased directly correlated to unleaded petrol prices
+	2. Government regulation - decreasing taxes could increase supply, shifting the curve to the right.
+3. An increase - this would shift the curve to the right, allowing suppliers to produce more supply at the same price point
+4. For fresh vegetables, petrol is a massive input price, and therefore a non-price factor. A decrease in such an input price would increase supply in the market and allow vegetables to get cheaper. Below, we can see that at Q1, after the shift to the right due to a change in petrol prices, prices for vegetables decreases.
+
+![[Pasted image 20230209104128.png|400]]
