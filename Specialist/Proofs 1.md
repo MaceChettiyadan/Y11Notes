@@ -81,3 +81,25 @@
 	- i.e the contrapositive with less steps
 
 #### Disproving of Statements
+##### Reasoning
+- In general, when **disproving** statements, we only need **one example**
+- There are, however, two types of statements you may have to disprove;
+	- **Universal Quantification** (also known as *for all*).
+		- `For all natural numbers n, 2n > n + 1`
+		- The above statement can only be **proved** by providing an argument concerning all natural numbers *n*
+	- **Existential Quantification** (also known as *there exists*)
+		- `There exists an integer m such that m^2 = 25`
+		- Due to the nature of this statement, we only need one integer *m* to **prove** the statement
+	- Both of these statements involve quantifiers. In order to disprove, we should know [[#Negating Quantifiers]]
+
+##### Negating Quantifiers
+- To negate quantifiers, we just swap 'there exists' and 'for all' and then *negate the rest of the statement*
+	- `For all natural numbers n, 2n > n+1` $\rightarrow$ `There exists natural number n such that 2n < n + 1`
+	- And vice versa.
+
+##### Disproving
+- **Universal Quantifications**
+	- Can be disproved via `counterexample` - this is because it asserts truth without exception.
+- **Existential Quantification**
+	- This is different - because this involves a *there exists* (truth with exceptions), we must prove that there does not exist at all
+		- Due to this, we must prove **the negation to be true** ([[#Negating Quantifiers]])
