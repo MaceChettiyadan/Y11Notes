@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/2. Supply & Demand/Powerpoint - Demand.md",
+                "file": "Economics/2. Supply & Demand/Powerpoint - Supply.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/2. Supply & Demand/Powerpoint - Demand.md",
+                "file": "Economics/2. Supply & Demand/Powerpoint - Supply.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/2. Supply & Demand/Powerpoint - Demand.md"
+                "file": "Economics/2. Supply & Demand/Powerpoint - Supply.md"
               }
             }
           }
@@ -164,10 +163,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bcd05ff7e685b68c",
+  "active": "32e252cf3d52cc55",
   "lastOpenFiles": [
-    "Economics/2. Supply & Demand/Powerpoint - Supply.md",
     "Economics/2. Supply & Demand/Powerpoint - Demand.md",
+    "Economics/2. Supply & Demand/Powerpoint - Supply.md",
     "Compsci/Intro & Revision.md",
     "Economics/1. Introduction/Homework.md",
     "Specialist/Proofs 1.md",

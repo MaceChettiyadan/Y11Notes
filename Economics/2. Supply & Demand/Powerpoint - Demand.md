@@ -2,7 +2,7 @@
 - **Demand** is the quantity of a good or service that consumers are **willing** and **able** to buy at each **price** in a particular point in **time** #testanswer 
 
 ###### The law of demand
-- There is an inverse relationship between the price of a product and the quantity of the product demanded, due to;
+- There is an inverse relationship between the price of a product and the quantity of the product demanded, due to; #testanswer 
 	- **Substitution** effect - when a product increases in price, consumers subsititute for a cheaper good
 	- **Income** effect - when a product becomes more expensive, it takes up a larger portion of a consumers' income and so the consumer has less to spend on other goods
 		- The **purchasing power** of income is reduced
@@ -28,14 +28,14 @@
 	- Leftward shift = decrease in demand
 	- Label curves $D_{1},D_2,...$, shift is diagonal
 - **Examples** that **MUST be remembered** are,
-	- *T*astes and preference (changes in taste and preference towards a product)
-	- *E*xpectations of consumers - consumers may **decrease** consumption $\rightarrow$ **demand** if they are **expecting prices to fall**
-	- *P*rice of related - two relationships
+	- ***T*astes and preference** (changes in taste and preference towards a product)
+	- ***E*xpectations of consumers** - consumers may **decrease** consumption $\rightarrow$ **demand** if they are **expecting prices to fall**
+	- ***P*rice of related** - two relationships
 		- **Substitutes** - for example, green to red apples - if the **price** of a **substitute good increases**, the **demand** of the good **increases** (relatively cheaper)
 		- **Complements** - if the **price** of a **complementary good increases**, the **demand** of the good **decreases** as the two products tend to be purchased together - for example, phones and phone cases
-	- *I*ncome (specifically level of *disposable* income)
+	- ***I*ncome** (specifically level of *disposable* income)
 		- **Normal** goods - As **income increases**, **demand increases** (commonsense)
 		- **Inferior** goods - goods of lower quality - as **income increases**, people move towards **higher quality substitutes** away from the inferior goods, leading to a **decrease** in **demand** 
-	- *D*emographic factors - anything such as age, gender, socioeconomic factors - e.g. an aging population will demand more aged care services
+	- ***D*emographic factors** - anything such as age, gender, socioeconomic factors - e.g. an aging population will demand more aged care services
 	- Acronym is **TEPID**
 - For shifts, you must write at the end *at every single price point* #testanswer 
