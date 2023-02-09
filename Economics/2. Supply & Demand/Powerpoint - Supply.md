@@ -40,9 +40,8 @@
 			- Subsidies
 			- Quotas
 
-
 ### Examples
 ##### The car market
-- Government regulation (luxury car tax) $\rightarrow$ decrease in supply
+- Government regulation (luxury car tax) $\rightarrow$ decrease in supply, shifting the supply curve from $S$ to $S_2$ at every price point (this is an ideal #testanswer )
 - Input prices (steel price increases) $\rightarrow$ decrease in supply
 - Technology (better manufacturing) $\rightarrow$ increase in supply
