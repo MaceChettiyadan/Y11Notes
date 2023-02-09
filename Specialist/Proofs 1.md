@@ -40,11 +40,21 @@
 	- `If ` $n^{2}+2n+1$ `is even then ` $n$ `is odd`  
 	- We can't assume `P` ($n^{2}+2n+1$) because it is difficult to define
 	- However we can use the contrapositive
-- **The contrapositive of** $P \implies Q$ is $Q' \implies P'$ (the **opposite things in the opposite order**)
-	- Making something opposite is called **negation** - the negation of $1+1=2$ is $1+1 \not = 2$
-	- For the above, `If ` $n$ `is even then ` $n^{2}+2n+1$ `is odd`
-	- **If the original P => Q is true, it's contrapositive will be**
-		- The above is therefore true and can be directly proved 
+- **The contrapositive of** $P \implies Q$ is $Q' \implies P'$ (the **negated things in the opposite order**
+
+###### Negation
+- Making something opposite is called **negation** - the negation of $1+1=2$ is $1+1 \not = 2$
+	- We can, however, encounter more difficult negations.
+	- Consider `negation of (6 is divisible by 2 and 3)`
+	- We can use De morgan's laws for this
+		- `not (P and Q) is the same as (not P) or (not Q)`
+		- `not (P or Q) is the same as (not P) and (not Q)`
+	- Therefore the above becomes `6 is not divisible by 2 or 6 is not divisible by 3`
+
+###### Using Negation for the Contrapositive
+- For the above, `If ` $n$ `is even then ` $n^{2}+2n+1$ `is odd`
+- **If the original P => Q is true, it's contrapositive will always be true, and vice versa**
+	- The above is therefore true and can be directly proved 
 
 ##### Proof
 - Let us consider the above; `If ` $n^{2}+2n+1$ `is even then ` $n$ `is odd` 
@@ -56,3 +66,18 @@
 	- $=2(a^{2}+2a)+1$; it may seem like we are doing little but this puts us in the traditional odd form
 		- $for \space some  \space a^{2}+2a \in \mathbb{Z}$
 	- $\therefore Q.E.D$
+
+#### Equivalent Statements
+##### Reasoning
+- Equivalent Statements are given in the form $P \iff Q$
+	- To prove equivalence though, we must first prove a statement **and** [[#The converse]]
+- In written form, $P \iff Q$ is `P is true if and only if Q is true`, for example;
+	- `Your heart is beating if and only if you are alive` (this is an equivalent statement)
+- If a question includes `if and only if`, remember to consider both cases
+	- To indicate the case being proven, write $\implies$ or $\impliedby$
+
+##### The converse
+- If a statement $P \implies Q$ exists, then the converse is simply $Q \implies P$
+	- i.e the contrapositive with less steps
+
+#### Disproving of Statements

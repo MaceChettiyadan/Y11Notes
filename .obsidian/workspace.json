@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Specialist/Proofs.md",
+                "file": "Economics/1. Introduction/Homework.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Specialist/Proofs.md",
+                "file": "Economics/1. Introduction/Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Specialist/Proofs.md",
+                "file": "Economics/1. Introduction/Homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Specialist/Proofs.md"
+                "file": "Economics/1. Introduction/Homework.md"
               }
             }
           }
@@ -165,6 +165,7 @@
   },
   "active": "32e252cf3d52cc55",
   "lastOpenFiles": [
+    "Specialist/Proofs 1.md",
     "Untitled.md",
     "Compsci/Intro & Revision.md",
     "Compsci/Binary & Hexadecimal.md",
@@ -173,7 +174,6 @@
     "Compsci/Selection - IF.md",
     "Compsci/ExamJanks™️.md",
     "Compsci/Selection- IF-THEN-ELSE.md",
-    "Economics/1. Introduction/Homework.md",
-    "Economics/1. Introduction/Powerpoint.md"
+    "Economics/1. Introduction/Homework.md"
   ]
 }
