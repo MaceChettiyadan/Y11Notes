@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ac3301b550b9059c",
+        "id": "3575267c163a54a1",
         "type": "tabs",
         "children": [
           {
-            "id": "bcd05ff7e685b68c",
+            "id": "d902bbcc255403af",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/VegetableSupplyEcon.png"
+                "file": "Compsci/Selection/Selection- IF-THEN-ELSE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f40476e6ee6ac1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compsci/Selection/Selection - CASE.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/VegetableSupplyEcon.png",
+                "file": "Compsci/Selection/Selection - CASE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/VegetableSupplyEcon.png",
+                "file": "Compsci/Selection/Selection - CASE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/VegetableSupplyEcon.png"
+                "file": "Compsci/Selection/Selection - CASE.md"
               }
             }
           }
@@ -148,17 +163,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fd3b1e9c685ac472",
+  "active": "0f40476e6ee6ac1d",
   "lastOpenFiles": [
+    "Compsci/Selection/Selection - IF.md",
+    "Compsci/Selection/Selection- IF-THEN-ELSE.md",
+    "Compsci/Selection/Selection - CASE.md",
     "Economics/2. Supply & Demand/Powerpoint - Supply.md",
     "Economics/2. Supply & Demand/Powerpoint - Demand.md",
     "Images/VegetableSupplyEcon.png",
     "Pasted image 20230209103930.png",
     "Compsci/Intro & Revision.md",
     "Economics/1. Introduction/Homework.md",
-    "Specialist/Proofs 1.md",
-    "Untitled.md",
-    "Compsci/Binary & Hexadecimal.md",
-    "Physics/Vectors & Scalars.md"
+    "Specialist/Proofs 1.md"
   ]
 }
