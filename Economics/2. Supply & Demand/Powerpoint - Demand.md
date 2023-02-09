@@ -1,5 +1,5 @@
 ### Demand
-- **Demand** is the quantity of a good or service that consumers are **willing** and **able** to buy at each **price** in a particular point in **time**
+- **Demand** is the quantity of a good or service that consumers are **willing** and **able** to buy at each **price** in a particular point in **time** #testanswer 
 
 ###### The law of demand
 - There is an inverse relationship between the price of a product and the quantity of the product demanded, due to;
@@ -15,7 +15,7 @@
 	- The curve obtained from the horizontal summation of individual demand curves (i.e the average basically)
 
 ###### Factors impacting demand
-
+- Price and non-price
 ###### The effect of changes in price on quantity demanded
 - **Movement** - a movement *along* the curve occurs when there is a **price change** (increase/decrease)
 	- Expansion in demand = decrease in price
@@ -36,6 +36,6 @@
 	- *I*ncome (specifically level of *disposable* income)
 		- **Normal** goods - As **income increases**, **demand increases** (commonsense)
 		- **Inferior** goods - goods of lower quality - as **income increases**, people move towards **higher quality substitutes** away from the inferior goods, leading to a **decrease** in **demand** 
-	- *D*emographic factors - anything such as age, geneder, socioeconomic factors - e.g. an aging population will demand more aged care services
+	- *D*emographic factors - anything such as age, gender, socioeconomic factors - e.g. an aging population will demand more aged care services
 	- Acronym is **TEPID**
 - For shifts, you must write at the end *at every single price point* #testanswer 
