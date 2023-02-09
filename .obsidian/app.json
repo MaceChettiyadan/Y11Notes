@@ -4,5 +4,6 @@
   "showLineNumber": false,
   "readableLineLength": false,
   "showFrontmatter": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "alwaysUpdateLinks": true
 }

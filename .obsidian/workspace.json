@@ -11,11 +11,9 @@
             "id": "bcd05ff7e685b68c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Economics/2. Supply & Demand/Powerpoint - Supply.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/VegetableSupplyEcon.png"
               }
             }
           }
@@ -69,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 258.5069465637207
   },
   "right": {
     "id": "eab940f49f2c5c33",
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/2. Supply & Demand/Powerpoint - Supply.md",
+                "file": "Images/VegetableSupplyEcon.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/2. Supply & Demand/Powerpoint - Supply.md",
+                "file": "Images/VegetableSupplyEcon.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/2. Supply & Demand/Powerpoint - Supply.md"
+                "file": "Images/VegetableSupplyEcon.png"
               }
             }
           }
@@ -150,12 +148,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bcd05ff7e685b68c",
+  "active": "fd3b1e9c685ac472",
   "lastOpenFiles": [
-    "Economics/2. Supply & Demand/Powerpoint - Demand.md",
-    "Pasted image 20230209104128.png",
-    "Pasted image 20230209103930.png",
     "Economics/2. Supply & Demand/Powerpoint - Supply.md",
+    "Economics/2. Supply & Demand/Powerpoint - Demand.md",
+    "Images/VegetableSupplyEcon.png",
+    "Pasted image 20230209103930.png",
     "Compsci/Intro & Revision.md",
     "Economics/1. Introduction/Homework.md",
     "Specialist/Proofs 1.md",

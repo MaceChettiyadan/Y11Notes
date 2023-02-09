@@ -54,4 +54,4 @@
 3. An increase - this would shift the curve to the right, allowing suppliers to produce more supply at the same price point
 4. For fresh vegetables, petrol is a massive input price, and therefore a non-price factor. A decrease in such an input price would increase supply in the market and allow vegetables to get cheaper. Below, we can see that at Q1, after the shift to the right due to a change in petrol prices, prices for vegetables decreases.
 
-![[Pasted image 20230209104128.png|400]]
+![[VegetableSupplyEcon.png|400]]
