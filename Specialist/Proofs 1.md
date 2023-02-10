@@ -67,7 +67,7 @@
 		- $for \space some  \space a^{2}+2a \in \mathbb{Z}$
 	- $\therefore Q.E.D$
 
-#### Equivalent Statements
+#### Equivalence Proofs
 ##### Reasoning
 - Equivalent Statements are given in the form $P \iff Q$
 	- To prove equivalence though, we must first prove a statement **and** [[#The converse]]
