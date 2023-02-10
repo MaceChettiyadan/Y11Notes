@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d902bbcc255403af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compsci/Selection/Selection- IF-THEN-ELSE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f40476e6ee6ac1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compsci/Selection/Selection - CASE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe10055bedc73415",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/2. Supply & Demand/Powerpoint - Supply.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c938133eebe5eddd",
             "type": "leaf",
             "state": {
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"

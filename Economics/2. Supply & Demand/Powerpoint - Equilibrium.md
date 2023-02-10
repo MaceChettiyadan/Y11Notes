@@ -23,3 +23,13 @@
 - **Both surplus and shortages** occur because prices are either below or above $P_e$. (below for shortage, above for surplus)
 
 ###### Explain the effects of changes in demand and/or supply on market equilibrium, including simultaneous shifts of demand and supply
+- When there is a **one-way** shift in demand/supply there will be a **temporary shortage** or **temporary surplus**
+	- The market will clear, however
+	- **To explain a one-way shift** #testanswer 
+		1. Identify the non-price factor
+		2. Does it lead to an increase/decrease - rightward or leftward shift
+		3. At original price, compare quantity demanded and supplied of new curve
+		4. Identify temporary shortage/surplus
+		5. Action taken to clear the market - by the consumers, or the producers
+		6. Expansion/contraction in demand and supply curves
+		7. The new equilibirium, comparing it to the original
