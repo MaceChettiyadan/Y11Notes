@@ -41,4 +41,5 @@ BEGIN
 		>3000: tax_payable <-- 656 + (60 * (income-2000))
 	ENDCASE
 	OUTPUT(tax_payable)
+END
 ```

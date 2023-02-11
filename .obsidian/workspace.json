@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/2. Supply & Demand/Powerpoint - Equilibrium.md",
+                "file": "Compsci/Iteration/Iteration - FOR.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/2. Supply & Demand/Powerpoint - Equilibrium.md",
+                "file": "Compsci/Iteration/Iteration - FOR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/2. Supply & Demand/Powerpoint - Equilibrium.md",
+                "file": "Compsci/Iteration/Iteration - FOR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/2. Supply & Demand/Powerpoint - Equilibrium.md"
+                "file": "Compsci/Iteration/Iteration - FOR.md"
               }
             }
           }
@@ -152,15 +152,15 @@
   },
   "active": "c938133eebe5eddd",
   "lastOpenFiles": [
-    "Economics/2. Supply & Demand/Powerpoint - Demand.md",
+    "Compsci/Selection/Selection - CASE.md",
+    "Compsci/Selection/Selection- IF-THEN-ELSE.md",
+    "Compsci/Selection/Selection - IF.md",
+    "Compsci/Iteration/Iteration - FOR.md",
     "Economics/2. Supply & Demand/Powerpoint - Equilibrium.md",
+    "Economics/2. Supply & Demand/Powerpoint - Demand.md",
     "Economics/2. Supply & Demand/Powerpoint - Supply.md",
     "Specialist/Proofs 1.md",
-    "Compsci/Iteration/Iteration - FOR.md",
     "Compsci/Iteratio.md",
-    "Compsci/Selection/Selection - CASE.md",
-    "Compsci/Selection/Selection - IF.md",
-    "Compsci/Selection/Selection- IF-THEN-ELSE.md",
     "Images/VegetableSupplyEcon.png"
   ]
 }
