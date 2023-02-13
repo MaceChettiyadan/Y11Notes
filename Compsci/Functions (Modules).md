@@ -12,7 +12,7 @@
 	- This is different from functions, as procedures can return **multiple** values, with **multiple** arguments, unlike functions
 
 
-```
+```pseudocode
 Function Celsius_Convert(temp)
 	farenheit <-- (9/5 * temp) + 32
 	return farenheit
