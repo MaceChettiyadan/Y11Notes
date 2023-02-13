@@ -1,0 +1,3 @@
+- **Functions** are reusable chunks of code that can be referenced throughout the code in order to reduce repetition
+	- **User-defined** functions are for specific tasks
+	- **Inbuilt** functions (reserved namespaces) exist in most languages, i.e `print` in python

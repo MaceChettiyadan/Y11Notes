@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "511e136fdca8636b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compsci/Iteration/Iteration - WHILE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0de4b99d7f6b7b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compsci/Functions (Modules).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compsci/Iteration/Iteration - FOR.md",
+                "file": "Compsci/Functions (Modules).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compsci/Iteration/Iteration - FOR.md",
+                "file": "Compsci/Functions (Modules).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compsci/Iteration/Iteration - FOR.md"
+                "file": "Compsci/Functions (Modules).md"
               }
             }
           }
@@ -150,17 +175,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c938133eebe5eddd",
+  "active": "0de4b99d7f6b7b5f",
   "lastOpenFiles": [
+    "Compsci/Iteration/Iteration - WHILE.md",
+    "Compsci/Iteration/Iteration - FOR.md",
     "Compsci/Selection/Selection - CASE.md",
     "Compsci/Selection/Selection- IF-THEN-ELSE.md",
     "Compsci/Selection/Selection - IF.md",
-    "Compsci/Iteration/Iteration - FOR.md",
     "Economics/2. Supply & Demand/Powerpoint - Equilibrium.md",
     "Economics/2. Supply & Demand/Powerpoint - Demand.md",
     "Economics/2. Supply & Demand/Powerpoint - Supply.md",
     "Specialist/Proofs 1.md",
-    "Compsci/Iteratio.md",
-    "Images/VegetableSupplyEcon.png"
+    "Compsci/Iteratio.md"
   ]
 }
