@@ -10,16 +10,41 @@
 #### Procedures
 - **Procedures** are code blocks which peform many tasks, and can be done many times
 	- This is different from functions, as procedures can return **multiple** values, with **multiple** arguments, unlike functions
-
-
 ```pseudocode
 BEGIN
 	FUNCTION Celsius_Convert(temp)
 		farenheit <-- (9/5 * temp) + 32
 		return farenheit
-	ENDFUNCTION
+	END Celsius_Convert
 
 	INPUT(celsius)
 	OUTPUT(Celsius_Convert(celsius) + " is the degreeslefoul").
+
+END
+```
+
+
+```
+BEGIN
+	array <-- []
+
+	FUNCTION binary_search_recursive(array, n)
+		length <-- len(array)
+		middle = ceil(length / 2)
+		IF array[middle] == n THEN
+			return True
+		ENDIF
+		left = array[:middle]
+		right = array[middle:]
+		return binary_search_recursive(left) and binary_search_recursive(right)
+	END binary_search_recursive
+
+	INPUT(n)
+	ab <-- binary_search_recursive(array, n)
+	IF ab == True THEN
+		OUTPUT("It was found.")
+	ELSE
+		OUTPUT("It was not found.")
+	ENDIF
 END
 ```
