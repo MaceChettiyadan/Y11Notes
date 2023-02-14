@@ -13,7 +13,13 @@
 
 
 ```pseudocode
-Function Celsius_Convert(temp)
-	farenheit <-- (9/5 * temp) + 32
-	return farenheit
+BEGIN
+	FUNCTION Celsius_Convert(temp)
+		farenheit <-- (9/5 * temp) + 32
+		return farenheit
+	ENDFUNCTION
+
+	INPUT(celsius)
+	OUTPUT(Celsius_Convert(celsius) + " is the degreeslefoul").
+END
 ```
