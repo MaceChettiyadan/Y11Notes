@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compsci/Functions (Modules).md",
+                "file": "Physics/Vectors & Scalars.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76ef15e4d74bcf39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Equations of Motion.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compsci/Functions (Modules).md",
+                "file": "Physics/Equations of Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compsci/Functions (Modules).md",
+                "file": "Physics/Equations of Motion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compsci/Functions (Modules).md"
+                "file": "Physics/Equations of Motion.md"
               }
             }
           }
@@ -175,17 +187,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0de4b99d7f6b7b5f",
+  "active": "76ef15e4d74bcf39",
   "lastOpenFiles": [
+    "Physics/Vectors & Scalars.md",
+    "Physics/SIS & Error in Physics.md",
+    "Physics/Equations of Motion.md",
+    "Compsci/Functions (Modules).md",
     "Specialist/Proofs 1.md",
     "Economics/2. Supply & Demand/Powerpoint - Supply.md",
     "Economics/2. Supply & Demand/Powerpoint - Equilibrium.md",
     "Economics/1. Introduction/Powerpoint.md",
     "Compsci/Selection/Selection - IF.md",
-    "Compsci/Functions (Modules).md",
-    "Compsci/Iteration/Iteration - WHILE.md",
-    "Compsci/Iteration/Iteration - FOR.md",
-    "Compsci/Selection/Selection - CASE.md",
-    "Compsci/Selection/Selection- IF-THEN-ELSE.md"
+    "Compsci/Iteration/Iteration - WHILE.md"
   ]
 }

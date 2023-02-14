@@ -22,8 +22,7 @@ BEGIN
 
 END
 ```
-
-
+- **Somewhat jank but whatever binary search (Not even one)**
 ```
 BEGIN
 	array <-- []
