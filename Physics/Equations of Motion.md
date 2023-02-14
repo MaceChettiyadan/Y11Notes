@@ -12,8 +12,8 @@
 - $v=u+at$
 - $s=ut+\frac{1}{2}at^2$
 - $v^2=u^2+2as$
+- $R=u_{H}t$ where $r$ is range.
 - Where,
-
 | Measure           | Symbol |
 | ----------------- | ------ |
 | Displacement      | $s$    |
