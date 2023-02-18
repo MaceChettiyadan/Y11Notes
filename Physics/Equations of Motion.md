@@ -7,11 +7,14 @@
 	- Average over curve
 	- Instantaneous - use tangents.
 
+4:03 3:44 3:06
+
 #### Equations
 - $V=\frac{s}{t}$; however, this is average, so you should write $V_{av}= \frac{s}{t}$
 - $v=u+at$
 - $s=ut+\frac{1}{2}at^2$
 - $v^2=u^2+2as$
+	- 
 - $R=u_{H}t$ where $r$ is range.
 - Where,
 | Measure           | Symbol |
