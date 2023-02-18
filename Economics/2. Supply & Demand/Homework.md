@@ -35,4 +35,5 @@
 		- **Income effect** - higher income $\rightarrow$ more purchasing power
 		- **Substitution effect** - when the price of a substitute increases, the price of the good increases as it becomes more attractive to buyers.
 		- The effects hold true always, as long as all other factors are constant
-[[DemandCurve.svg]]
+![[DemandCurve.svg]]
+

@@ -54,8 +54,19 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "2f12f206f3c9b903",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -142,15 +153,15 @@
   },
   "active": "ced3904957462c4a",
   "lastOpenFiles": [
-    "DemandCurve.svg",
+    "Economics/2. Supply & Demand/Untitled Diagram.svg",
     "Economics/2. Supply & Demand/Homework.md",
+    "Untitled Diagram.svg",
+    "Images/DemandCurve.svg",
     "Economics/2. Supply & Demand/Powerpoint - Demand.md",
     "Economics/1. Introduction/Homework.md",
     "Physics/Equations of Motion.md",
     "Physics/Inclined planes.md",
     "Physics/Force.md",
-    "Physics/Vectors & Scalars.md",
-    "Compsci/Iteration/Iteration - FOR.md",
-    "Compsci/Arrays/Arrays.md"
+    "Physics/Vectors & Scalars.md"
   ]
 }
