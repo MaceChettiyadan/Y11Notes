@@ -27,7 +27,7 @@
 	- Rightward shift = increase in demand
 	- Leftward shift = decrease in demand
 	- Label curves $D_{1},D_2,...$, shift is diagonal
-- **Examples** that **MUST be remembered** are,
+- **Non-Price Factors**,
 	- ***T*astes and preference** (changes in taste and preference towards a product)
 	- ***E*xpectations of consumers** - consumers may **decrease** consumption $\rightarrow$ **demand** if they are **expecting prices to fall**
 	- ***P*rice of related** - two relationships
