@@ -40,7 +40,7 @@
 	- `If ` $n^{2}+2n+1$ `is even then ` $n$ `is odd`  
 	- We can't assume `P` ($n^{2}+2n+1$) because it is difficult to define
 	- However we can use the contrapositive
-- **The contrapositive of** $P \implies Q$ is $Q' \implies P'$ (the **negated things in the opposite order**
+- **The contrapositive of** $P \implies Q$ is $Q' \implies P'$ (the **negated things in the opposite order**)
 
 ###### Negation
 - Making something opposite is called **negation** - the negation of $1+1=2$ is $1+1 \not = 2$
@@ -63,7 +63,7 @@
 	- $let \space n = 2a \space for \space some \space a \in \mathbb{Z}$
 	- $n^{2}+2n+1 = (2a)^{2}+2(2a)+1$
 	- $=4a^2+4a+1$; getting us into even number accounted form
-	- $=2(a^{2}+2a)+1$; it may seem like we are doing little but this puts us in the traditional odd form
+	- $=2(2a^{2}+2a)+1$; it may seem like we are doing little but this puts us in the traditional odd form
 		- $for \space some  \space a^{2}+2a \in \mathbb{Z}$
 	- $\therefore Q.E.D$
 

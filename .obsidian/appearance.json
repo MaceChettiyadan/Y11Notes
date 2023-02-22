@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "snipps",
     "snips"
-  ]
+  ],
+  "baseFontSize": 20
 }
