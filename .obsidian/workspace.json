@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Specialist/Proofs 1.md",
+                "file": "Economics/1. Introduction/Powerpoint.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1e168aa9e3b6d0a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/3. Elasticity/Price Elasticity of Demand.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Specialist/Proofs 1.md",
+                "file": "Economics/3. Elasticity/Price Elasticity of Demand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Specialist/Proofs 1.md",
+                "file": "Economics/3. Elasticity/Price Elasticity of Demand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Specialist/Proofs 1.md"
+                "file": "Economics/3. Elasticity/Price Elasticity of Demand.md"
               }
             }
           }
@@ -163,17 +176,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cf5adfe70ce8d677",
+  "active": "1e168aa9e3b6d0a0",
   "lastOpenFiles": [
+    "Economics/2. Supply & Demand/Powerpoint - Equilibrium.md",
+    "Economics/3. Elasticity/Price Elasticity of Demand.md",
+    "Economics/3. Elasticity",
+    "Economics/1. Introduction/Powerpoint.md",
+    "Economics/2. Supply & Demand/Powerpoint - Demand.md",
     "Physics/Momentum.md",
+    "Specialist/Proofs 1.md",
     "Physics/Equations of Motion.md",
     "Economics/2. Supply & Demand/Powerpoint - Supply.md",
-    "Economics/2. Supply & Demand/Powerpoint - Equilibrium.md",
-    "Economics/2. Supply & Demand/Powerpoint - Demand.md",
     "Physics/Inclined planes.md",
     "Economics/2. Supply & Demand/Homework.md",
     "Untitled.md",
-    "Images/SupplyCurve.svg",
-    "Images/DemandCurve.svg"
+    "Images/SupplyCurve.svg"
   ]
 }
