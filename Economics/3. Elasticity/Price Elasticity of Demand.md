@@ -23,6 +23,8 @@
 	- **Perfectly inelastic** - $Ed = 0$
 		- Quantity demanded remains the same regardless of price
 		- Reflects a market where there is fixed demand regardless of price - usually *needs* such as drugs.
+	- **Unitary Elastic** - $Ed = 1$
+		- Changes in price equal changes in quantity demanded
 
 ###### Explain the determinants of price elasticity of demand
 ###### Distinguish between goods that are price elastic and price inelastic in demand
