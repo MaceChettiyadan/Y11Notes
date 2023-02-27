@@ -12,6 +12,17 @@
 		- Percentage change in quantity demanded $>$ percentage change in price
 		- $|Ed|>1$
 		- These products usually have relatively close substitutes
+	- **Price Inelastic** products are ones where the quantity demanded of the product is relatively unresponsive to changes in price
+		- Percentage change in quantity demanded $<$ percentage change in price
+		- $|Ed|<1$
+		- These products cannot be substituted very well usually
+- $+$ **Special Situations**
+	- **Perfectly elastic** - $Ed=\infty$, i.e changes in price cause an infinity change in quantity demanded
+		- So, if price changes, quantity demanded falls to zero
+		- Reflects a perfectly competitive market
+	- **Perfectly inelastic** - $Ed = 0$
+		- Quantity demanded remains the same regardless of price
+		- Reflects a market where there is fixed demand regardless of price - usually *needs* such as drugs.
 
 ###### Explain the determinants of price elasticity of demand
 ###### Distinguish between goods that are price elastic and price inelastic in demand
