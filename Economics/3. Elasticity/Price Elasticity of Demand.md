@@ -31,12 +31,25 @@
 		- To graph, a vertical line.
 	- **Unitary Elastic** - $Ed = 1$
 		- Changes in price equal changes in quantity demanded
-- **Total Revenue** is $P\times Q$
-	- Graphically, this is the box of $PQ$, with a corner $(0,0)$
-	- From here, we can calculate gains and losses (difference in boxes)
-	- For an inelastic good, price has a direct relationship to total revenue (inc. price = inc. total revenue)
-	- For an elastic good, price has an inverse relationship to total revenue (inc. price = dec. total revenue)
-	- Unitary goods have a constant total revenue
+
+
+
+
+
+
 ###### Explain the determinants of price elasticity of demand
 ###### Distinguish between goods that are price elastic and price inelastic in demand
 ###### Demonstrate and describe the link between price elasticity of demand and total revenue
+- **Total Revenue** is $P\times Q$
+	- Graphically, this is the box of $PQ$, with a corner $(0,0)$
+	- From here, we can calculate gains and losses (difference in boxes)
+	- **Effect of changes in price on total revenue** is dependant on the price elasticity of the product;
+		- For an inelastic good, price has a direct relationship to total revenue (inc. price = inc. total revenue)
+		- For an elastic good, price has an inverse relationship to total revenue (inc. price = dec. total revenue)
+		- Unitary goods have a constant total revenue
+- Depending on elasticity, **tax revenue** and the burden of tax would vary
+	- Tax incidence/burden of the tax: Who bears the majority of the tax
+	- If a good is price inelastic in demand, the amount of tax revenue is higher and the burden of the tax falls more on the consumers
+		- Relatively **small** change in quantity demanded
+	- If a good is price elastic in demand, the amount of tax revenue is lower and the burden of the tax falls more on the producers
+		- Relatively **large** change in quantity demanded

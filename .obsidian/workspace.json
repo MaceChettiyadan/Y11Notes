@@ -42,6 +42,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "07eef7c09067f32e",
+            "type": "leaf",
+            "state": {
+              "type": "diagram-edit",
+              "state": {
+                "file": "Untitled Diagram.svg"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -79,19 +89,9 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "07eef7c09067f32e",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,8 +178,9 @@
   },
   "active": "1e168aa9e3b6d0a0",
   "lastOpenFiles": [
-    "Economics/2. Supply & Demand/Powerpoint - Equilibrium.md",
+    "Untitled Diagram.svg",
     "Economics/3. Elasticity/Price Elasticity of Demand.md",
+    "Economics/2. Supply & Demand/Powerpoint - Equilibrium.md",
     "Economics/3. Elasticity",
     "Economics/1. Introduction/Powerpoint.md",
     "Economics/2. Supply & Demand/Powerpoint - Demand.md",
