@@ -6,7 +6,7 @@
 
 ###### Define the concept, and measurement, of price elasticity of demand
 - **Price elasticity of demand** measures the responsiveness of quantity demanded to changes in price #testanswer 
-	- Can be calculated by Percentage Change (Point Method 1) - $Ed = \frac{\%change \space in \space quantity \space demanded}{\% change \space in \space price}$
+	- Can be calculated by Percentage Change (Point Method 1) - $$Ed = \frac{\%change \space in \space quantity \space demanded}{\% change \space in \space price}$$
 		- Also, the Midpoint Method - $$\frac{(Q_2-Q_1)/[(Q_2+Q_1)/2]}{(P_2-P_1)/[(P_2+P_1)/2]}$$ (it is **wrong** but hmm????)
 		- Point Method 2 $$\frac{\triangle Q}{Q}\times \frac{P}{\triangle P}$$
 - **Two categories**
@@ -31,7 +31,12 @@
 		- To graph, a vertical line.
 	- **Unitary Elastic** - $Ed = 1$
 		- Changes in price equal changes in quantity demanded
-
+- **Total Revenue** is $P\times Q$
+	- Graphically, this is the box of $PQ$, with a corner $(0,0)$
+	- From here, we can calculate gains and losses (difference in boxes)
+	- For an inelastic good, price has a direct relationship to total revenue (inc. price = inc. total revenue)
+	- For an elastic good, price has an inverse relationship to total revenue (inc. price = dec. total revenue)
+	- Unitary goods have a constant total revenue
 ###### Explain the determinants of price elasticity of demand
 ###### Distinguish between goods that are price elastic and price inelastic in demand
 ###### Demonstrate and describe the link between price elasticity of demand and total revenue
