@@ -53,3 +53,7 @@
 		- Relatively **small** change in quantity demanded
 	- If a good is price elastic in demand, the amount of tax revenue is lower and the burden of the tax falls more on the producers
 		- Relatively **large** change in quantity demanded
+
+- **Detailed below is a relatively inelastic product**.
+
+![[Untitled Diagram.svg]]
