@@ -6,8 +6,9 @@
 
 ###### Define the concept, and measurement, of price elasticity of demand
 - **Price elasticity of demand** measures the responsiveness of quantity demanded to changes in price #testanswer 
-	- Can be calculated by Percentage Change (Point Method) - $Ed = \frac{\%change \space in \space quantity \space demanded}{\% change \space in \space price}$
+	- Can be calculated by Percentage Change (Point Method 1) - $Ed = \frac{\%change \space in \space quantity \space demanded}{\% change \space in \space price}$
 		- Also, the Midpoint Method - $$\frac{(Q_2-Q_1)/[(Q_2+Q_1)/2]}{(P_2-P_1)/[(P_2+P_1)/2]}$$ (it is **wrong** but hmm????)
+		- Point Method 2 $$\frac{\triangle Q}{Q}\times \frac{P}{\triangle P}$$
 - **Two categories**
 	- **Price Elastic** products are ones where the quantity demanded of the product is relatively responsive to changes in price
 		- Percentage change in quantity demanded $>$ percentage change in price
