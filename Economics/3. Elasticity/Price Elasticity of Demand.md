@@ -11,6 +11,14 @@
 		- Point Method 2 $$\frac{\triangle Q}{Q}\times \frac{P}{\triangle P}$$
 
 ###### Explain the determinants of price elasticity of demand
+- There are **five main** determinants/factors
+	- The availability of substitutes
+	- Whether the good is a necessity or a luxury
+	- Proportion of income spent
+	- Time period considered
+	- The definition of the market
+
+
 ###### Distinguish between goods that are price elastic and price inelastic in demand
 - **Two categories**
 	- **Price Elastic** products are ones where the quantity demanded of the product is relatively responsive to changes in price
