@@ -63,4 +63,4 @@
 - **Detailed below is a relatively inelastic product**.
 
 ![[InelasticCurve.svg]]
-And again (though without the axis labels...) ![[Untitled Diagram.svg]] 
+And an elastic good (though without the axis labels...) ![[Untitled Diagram.svg]] 
