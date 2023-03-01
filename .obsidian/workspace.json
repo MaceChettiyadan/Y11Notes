@@ -91,6 +91,16 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "5117a81e1c59719f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ],
         "currentTab": 1
