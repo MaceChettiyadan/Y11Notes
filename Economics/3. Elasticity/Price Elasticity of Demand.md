@@ -18,7 +18,6 @@
 	- Time period considered
 	- The definition of the market
 
-
 ###### Distinguish between goods that are price elastic and price inelastic in demand
 - **Two categories**
 	- **Price Elastic** products are ones where the quantity demanded of the product is relatively responsive to changes in price

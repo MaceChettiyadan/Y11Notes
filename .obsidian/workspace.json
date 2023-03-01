@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/3. Elasticity/Price Elasticity of Demand.md",
+                "file": "Economics/2. Supply & Demand/Powerpoint - Demand.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,9 +79,19 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "6dbe039e466c7f07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -101,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/3. Elasticity/Price Elasticity of Demand.md",
+                "file": "Economics/2. Supply & Demand/Powerpoint - Demand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/3. Elasticity/Price Elasticity of Demand.md",
+                "file": "Economics/2. Supply & Demand/Powerpoint - Demand.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/3. Elasticity/Price Elasticity of Demand.md"
+                "file": "Economics/2. Supply & Demand/Powerpoint - Demand.md"
               }
             }
           }
@@ -168,8 +178,8 @@
   },
   "active": "1e168aa9e3b6d0a0",
   "lastOpenFiles": [
-    "Untitled Diagram.svg",
     "Economics/3. Elasticity/Price Elasticity of Demand.md",
+    "Untitled Diagram.svg",
     "Economics/2. Supply & Demand/Powerpoint - Demand.md",
     "Economics/2. Supply & Demand/Powerpoint - Equilibrium.md",
     "Economics/3. Elasticity",
