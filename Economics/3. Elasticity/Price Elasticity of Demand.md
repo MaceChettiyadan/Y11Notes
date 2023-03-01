@@ -62,4 +62,4 @@
 	- **Ideal Response**. Indirect tax will shift the supply curve to the left by the amount of the tax. Tje tax increases price to $P_2$, and increases the price that consumers now pay. Producers are now receiving $P_3$ in revenue. Quantity has fallen to $Q_2$. The tax revenue is $(P_2-P_{3}) \times Q_2$. The conumers bear a higher burden of the tax compared to the producers. There is a relatively small decrease in quantity.
 - **Detailed below is a relatively inelastic product**.
 
-![[Untitled Diagram.svg]]
+![[InelasticCurve.svg]]
