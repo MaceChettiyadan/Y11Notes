@@ -63,3 +63,4 @@
 - **Detailed below is a relatively inelastic product**.
 
 ![[InelasticCurve.svg]]
+And again (though without the axis labels...) ![[Untitled Diagram.svg]] 
