@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "85bdcfda8b5b6f78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Homework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/3. Elasticity/Price Elasticity of Demand.md",
+                "file": "Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/3. Elasticity/Price Elasticity of Demand.md",
+                "file": "Homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/3. Elasticity/Price Elasticity of Demand.md"
+                "file": "Homework.md"
               }
             }
           }
@@ -187,12 +200,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a0977d42ad06c720",
+  "active": "85bdcfda8b5b6f78",
   "lastOpenFiles": [
-    "Images/InelasticCurve.svg",
     "Economics/3. Elasticity/Price Elasticity of Demand.md",
+    "Homework.md",
+    "New Text Document.txt",
     "Economics/1. Introduction/Powerpoint.md",
-    "ElasticDemandCurve.svg",
+    "Images/InelasticCurve.svg",
+    "Images/ElasticDemandCurve.svg",
     "Untitled",
     "Economics/3. Elasticity/Homework.md",
     "Economics/2. Supply & Demand/Powerpoint - Equilibrium.md",
@@ -204,7 +219,6 @@
     "Economics/2. Supply & Demand/Powerpoint - Supply.md",
     "Physics/Inclined planes.md",
     "Economics/2. Supply & Demand/Homework.md",
-    "Untitled.md",
     "Images/SupplyCurve.svg"
   ]
 }
