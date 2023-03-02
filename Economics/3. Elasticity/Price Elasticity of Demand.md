@@ -14,7 +14,7 @@
 - There are **five main** determinants/factors of **PED**
 	- **The availability of *substitutes*** - if there are substitutes available, a good would be much more elastic
 	- **Whether the good is a *necessity* or a *luxury*** - necessities would be inelastic, while luxuries would be elastic
-	- **Proportion of income spent** - cheaper goods tend to be inelastic and unresponsive to price change, so higher income spent $\rightarrow$ more elastic
+	- **Proportion of income spent** - cheaper gZoods tend to be inelastic and unresponsive to price change, so higher income spent $\rightarrow$ more elastic
 	- **Time period considered** - the more time to **react** to a price change, the more elastic a good gets. For example, for petrol, if the price increases you will likely immediately still need petrol, but in time you could change to other substitutes
 	- **The definition of the market** - Narrower categories (fruits $\rightarrow$ bananas) produce more substitutes, and in this example there are many types of fruits. Narrower markets are more responsive.
 
