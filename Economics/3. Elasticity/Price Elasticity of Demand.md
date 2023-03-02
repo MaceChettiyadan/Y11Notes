@@ -11,12 +11,12 @@
 		- Point Method 2 $$\frac{\triangle Q}{Q}\times \frac{P}{\triangle P}$$
 
 ##### Explain the determinants of price elasticity of demand
-- There are **five main** determinants/factors
-	- The availability of substitutes
-	- Whether the good is a necessity or a luxury
-	- Proportion of income spent
-	- Time period considered
-	- The definition of the market
+- There are **five main** determinants/factors of **PED**
+	- **The availability of *substitutes*** - if there are substitutes available, a good would be much more elastic
+	- **Whether the good is a *necessity* or a *luxury*** - necessities would be inelastic, while luxuries would be elastic
+	- **Proportion of income spent** - cheaper goods tend to be inelastic and unresponsive to price change, so higher income spent $\rightarrow$ more elastic
+	- **Time period considered**
+	- **The definition of the market**
 
 ##### Distinguish between goods that are price elastic and price inelastic in demand
 - **Two categories**
@@ -58,12 +58,12 @@
 	- Tax incidence/burden of the tax: Who bears the majority of the tax
 	- If a good is price inelastic in demand, the amount of tax revenue is higher and the burden of the tax falls more on the consumers
 		- Relatively **small** change in quantity demanded
-		- Think about cigarretes; it is inelastic and people will buy no matter what. The burden then falls on the consumers due to this.
+		- Think about cigarettes; it is inelastic and people will buy no matter what. The burden then falls on the consumers due to this.
 	- If a good is price elastic in demand, the amount of tax revenue is lower and the burden of the tax falls more on the producers
 		- Relatively **large** change in quantity demanded
 - **Sample Question** - What is the impact of a tax on a product that is inelastic in demand?
 	- **My response;** When a tax is levied on an inelastic product, we can observe the supply curve shifting from $S$ to $S_{Tax}$. Because of this, the equilibrium shifts from $(Q_{1,}P_1)$ to $(Q_{2,}P_2)$. In doing so, the price that consumers pay becomes $Q_2$, and the amount that producers receive becomes $P_3$. We can then observe that tax revenue becomes $(P_2-P_{3}) \times Q_2$. The burden of tax is mostly placed on consumers, as the gap from $P_1$ to $P_2$ is greater than that from $P_1$ to $P_3$.
-	- **Ideal Response**. Indirect tax will shift the supply curve to the left by the amount of the tax. Tje tax increases price to $P_2$, and increases the price that consumers now pay. Producers are now receiving $P_3$ in revenue. Quantity has fallen to $Q_2$. The tax revenue is $(P_2-P_{3}) \times Q_2$. The conumers bear a higher burden of the tax compared to the producers. There is a relatively small decrease in quantity.
+	- **Ideal Response**. *Indirect* tax will shift the supply curve to the left by the amount of the tax. Tje tax increases price to $P_2$, and increases the price that consumers now pay. Producers are now receiving $P_3$ in revenue. Quantity has fallen to $Q_2$. The tax revenue is $(P_2-P_{3}) \times Q_2$. The conumers bear a higher burden of the tax compared to the producers. There is a relatively small decrease in quantity.
 - **Detailed below is a relatively inelastic product**.
 
 ![[InelasticCurve.svg]]
