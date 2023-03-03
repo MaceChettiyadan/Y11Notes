@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/3. Elasticity/Powerpoint - Price Elasticity of Demand.md",
+                "file": "Economics/3. Elasticity/Powerpoint - PED.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/3. Elasticity/Powerpoint - Price Elasticity of Demand.md",
+                "file": "Economics/3. Elasticity/Powerpoint - PED.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/3. Elasticity/Powerpoint - Price Elasticity of Demand.md",
+                "file": "Economics/3. Elasticity/Homework.md",
                 "mode": "source",
                 "source": false
               }
@@ -147,13 +147,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/3. Elasticity/Powerpoint - Price Elasticity of Demand.md",
+                "file": "Economics/3. Elasticity/Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/3. Elasticity/Powerpoint - Price Elasticity of Demand.md",
+                "file": "Economics/3. Elasticity/Homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/3. Elasticity/Powerpoint - Price Elasticity of Demand.md"
+                "file": "Economics/3. Elasticity/Homework.md"
               }
             }
           }
@@ -214,9 +214,9 @@
   },
   "active": "9de0123c9b49aaf8",
   "lastOpenFiles": [
-    "Economics/3. Elasticity/Homework.md",
-    "Economics/3. Elasticity/Powerpoint - Price Elasticity of Demand.md",
     "Homework.md",
+    "Economics/3. Elasticity/Homework.md",
+    "Economics/3. Elasticity/Powerpoint - PED.md",
     "New Text Document.txt",
     "Economics/1. Introduction/Powerpoint.md",
     "Images/InelasticCurve.svg",
