@@ -6,7 +6,7 @@
 	- A property of the instrument itself
 	- We use experimental precision - how far apart from average experimental value
 - **Reliable**  - when additional trials give a consistent result
-- **Validity** occurs when every variable is controlled as you intend it - no other variable is having an impact on our experiment other than the deliberate experimentation of the independant bariable and the resultingx response of the dependant variable.
+- **Validity** occurs when every variable is controlled as you intend it - no other variable is having an impact on our experiment other than the deliberate experimentation of the independant bariable and the resulting response of the dependant variable.
 
 ##### Uncertainty & Error
 - 3 Classes
