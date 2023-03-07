@@ -10,4 +10,10 @@
 | Perfectly Elastic   | $Ed=\infty$                | A small change in price will lead to a complete drop in QS or increase. Many close substitutes.                                                                              |
 
 ##### The distinction between goods that are price elastic and price inelastic in supply
-##### Determinens of PES
+##### Determinants of PES
+- **Time**
+	- Similar to demand; in the short run, goods will be priced inelastic because ***they won't be responsive***.
+	- In the long run, there is more time for firms to respond to price changes
+- **Nature of the industry**
+	- What kind of industry it is (wow!). A market that produces pencils can easily change production, whereas in a market for agriculture, there is heavy time taken for producttion.
+- **Ability to store inventories**
