@@ -10,6 +10,7 @@
 | Perfectly Elastic   | $Ed=\infty$                | A small change in price will lead to a complete drop in QS or increase. Many close substitutes.                                                                              |
 
 ##### The distinction between goods that are price elastic and price inelastic in supply
+- Basically demand but supply'd
 ##### Determinants of PES
 - **Time**
 	- Similar to demand; in the short run, goods will be priced inelastic because ***they won't be responsive***.
@@ -17,3 +18,15 @@
 - **Nature of the industry**
 	- What kind of industry it is (wow!). A market that produces pencils can easily change production, whereas in a market for agriculture, there is heavy time taken for producttion.
 - **Ability to store inventories**
+	- If a business is able to easily store inventories, then it is going to more responsive and elastic in supply
+
+## Significance of Price Elasticity
+- Significant to **firms**
+	- Monopoly/Market power - setting prices to influence $TR$
+	- Price Discrimination: To maximise $TR$
+- Significant to **households**
+	- Can control demand if aware of elasticity and influence on prices
+- Significant to **Government**
+	- Tax Incidence
+	- Inelastic - greater incidence on consumers, greater tax revenue
+	- Elastic - lesser incidence on consumers, lower tax revenue
