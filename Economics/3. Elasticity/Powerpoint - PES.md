@@ -1,7 +1,6 @@
 ##### The concept of PES
 - Defined as *The responsiveness of quantity supplied to a change in price* #testanswer 
 - Has the exact same formula, except quantity supplied, not demanded.
-
 | **Elasticity**      | **Elasticity coefficient** | **Interpretation of Elasticity Coefficient**                                   |
 | ------------------- | -------------------------- | ------------------------------------------------------------------------------ |
 | Elastic             | $E>1$                      | Percentage change in QS is greater than the percentage change in price. Relatively close substitutes         |
