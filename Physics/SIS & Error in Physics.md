@@ -26,7 +26,6 @@
 2. $15cm - 0.\overline{3}\%$
 3. $21cm - 0.24\%$
 
-
 ###### Desk Example
 1. Width is 61 with 3 measurements
 2. Length is 296 with 8 measurements
@@ -42,3 +41,12 @@ Percentage error of depth is 10%
 
 Total area measured: 18056 cm^2 with 0.39% error
 Total volume measured: 45140 cm^3 with 10.39% error
+
+$s=\frac{1}{2} at^{2}$
+
+$v=\frac{s}{t}$
+$a=\frac{v}{t}$
+
+$a=\frac{\frac{s}{t}}{t}$
+
+$s=at^2$
