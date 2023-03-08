@@ -1,6 +1,6 @@
 - Formula - $p=mv$
 	- Momentum is a vector quantity
-	- Measured in $Kg \space m\space s^{-1}$
+	- Measured in $kg \space m\space s^{-1}$
 	- Is a **conserved quantity**
 - **Conservation of momentum**
 	- $\sum\limits P$ before = $\sum\limits P$ after.
@@ -18,3 +18,8 @@
 
 ##### Energy
 - Anything that is not matter is energy
+
+#### Rate of change of momentum
+- Is measured in $kg \space m\space s^{-2}$ which is actually just $N$
+- **Impulse**, on the other hand is measured in $Ns$ - Newton seconds, not seconds per newton?
+	- It is formulated $F\triangle t=m(v-u)$
