@@ -23,3 +23,6 @@
 - Is measured in $kg \space m\space s^{-2}$ which is actually just $N$
 - **Impulse**, on the other hand is measured in $Ns$ - Newton seconds, not seconds per newton?
 	- It is formulated $F\triangle t=m(v-u)$
+	- Because $F=ma$, and $a=\frac{\triangle v}{\triangle t}$
+	- $F\triangle t=m \triangle v$
+	- then, $F\triangle t=m(v-u)$
