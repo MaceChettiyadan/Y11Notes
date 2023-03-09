@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "81bb60aa8e211c17",
+        "id": "ae1b8b0ab6c17f7b",
         "type": "tabs",
         "children": [
           {
-            "id": "1e168aa9e3b6d0a0",
+            "id": "0fb8cd1b06e8e48e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/SIS & Error in Physics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "28e828ea0d8d8f6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Momentum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4567efdfa7ee3639",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/2. Supply & Demand/Powerpoint - Demand.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0977d42ad06c720",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/3. Elasticity/Powerpoint - PED.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85bdcfda8b5b6f78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/3. Elasticity/Homework.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9de0123c9b49aaf8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/2. Supply & Demand/Powerpoint - Supply.md",
-                "mode": "source",
+                "file": "Economics/2. Supply & Demand/Homework.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#testanswer path:Economics",
+                "query": "tag:#testanswer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Momentum.md",
+                "file": "Economics/2. Supply & Demand/Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Momentum.md",
+                "file": "Economics/2. Supply & Demand/Homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Momentum.md"
+                "file": "Economics/2. Supply & Demand/Homework.md"
               }
             }
           }
@@ -207,35 +146,35 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "markdown-importer:Open format converter": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
+      "markdown-importer:Open format converter": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "28e828ea0d8d8f6a",
+  "active": "0fb8cd1b06e8e48e",
   "lastOpenFiles": [
+    "Economics/2. Supply & Demand/Powerpoint - Equilibrium.md",
+    "Economics/2. Supply & Demand/Powerpoint - Demand.md",
+    "Economics/3. Elasticity/Powerpoint - PED.md",
+    "Economics/3. Elasticity/Homework.md",
+    "Homework.md",
+    "Economics/2. Supply & Demand/Homework.md",
+    "Economics/2. Supply & Demand/Powerpoint - Supply.md",
     "Economics/3. Elasticity/Powerpoint - PES.md",
+    "Physics/Momentum.md",
+    "Economics/1. Introduction/Powerpoint.md",
+    "Physics/SIS & Error in Physics.md",
     "Images/DemandCurve.svg",
     "Images/ElasticDemandCurve.svg",
     "Images/InelasticCurve.svg",
     "Images/ShortageDiagramEcon.png",
     "Images/SupplyCurve.svg",
     "Images/VegetableSupplyEcon.png",
-    "Economics/3. Elasticity/Homework.md",
-    "Economics/3. Elasticity/Powerpoint - PED.md",
-    "Physics/SIS & Error in Physics.md",
-    "Physics/Momentum.md",
     "Physics/Equations of Motion.md",
-    "Economics/1. Introduction/Powerpoint.md",
-    "Economics/2. Supply & Demand/Powerpoint - Supply.md",
-    "Homework.md",
     "New Text Document.txt",
     "Untitled",
-    "Economics/2. Supply & Demand/Powerpoint - Equilibrium.md",
-    "Economics/2. Supply & Demand/Powerpoint - Demand.md",
     "Economics/3. Elasticity",
     "Specialist/Proofs 1.md",
-    "Physics/Inclined planes.md",
-    "Economics/2. Supply & Demand/Homework.md"
+    "Physics/Inclined planes.md"
   ]
 }

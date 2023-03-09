@@ -13,7 +13,7 @@
 - A **shortage** is where quantity demanded exceeds the quantity supplied
 	- Consumers **bid** among themselves for the limited goods so the price of the good increases
 	- In the diagram below, we can see that at $P_2$, Quantity supplied is much lower than demanded, so there is a shortage, away from the eqauilibrium of Pe. **One thing missing from the diagram:** the area of shortage should be indicated
-		- For this **market to clear**, for equilibrium to be achieved again, *Consumers will bid amongst themselves for the limited demand, increasing the price and leading to a contractionary movement along the demand curve. Because of this, there will be an expansionary movement along the supply curve, achieving market equilibrium again.* #testanswer 
+		- For this **market to clear**, for equilibrium to be achieved again, *Consumers will bid amongst themselves for the limited supply, increasing the price and leading to a contractionary movement along the demand curve. Because of this, there will be an expansionary movement along the supply curve, achieving market equilibrium again.* #testanswer 
 
 ![[ShortageDiagramEcon.png|400]]
 

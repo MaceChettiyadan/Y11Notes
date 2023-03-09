@@ -25,4 +25,3 @@
 
 ## Price Elasticity of Supply
 - PES measures the **responsiveness of quantity supplied to a change in price** #testanswer 
-- 

@@ -13,7 +13,7 @@
 
 ###### The effect of changes in price on quantity supplied
 - Price can have either a **contractionary** or **expansionary** effect on the supply curve
-	- This ia a **movement** along the existing supply curve
+	- This is a **movement** along the existing supply curve
 	- **Expansions** are an increase in price
 	- **Contractions** are a decrease in price
 
