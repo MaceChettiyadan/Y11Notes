@@ -16,7 +16,8 @@
 	- This is equal to the $PS+CS$
 	- **Allocative efficiency** is achieved
 
-##### Discuss how over and underproduction in a market can create deadweight loss
+##### Discuss how over and underproduction in a market can create deadweight loss ($DWL$)
 - **Deadweight loss** is a loss in total surplus that is avoidable #testanswer 
 	- The situations we have to deal with are where price is *above* and *below* the equilibrium
 	- A diagram for *above*; it is important to note that $PS$ is not a triangle, but instead the area above the supply curve below P1 ![[TSPGreaterthanE.svg]]
+	- And another, for *below* ![[TSPLessthanE.svg]]

@@ -40,16 +40,6 @@
                 "file": "Images/TSPLessthanE.svg"
               }
             }
-          },
-          {
-            "id": "ce004195612a2064",
-            "type": "leaf",
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "Images/TSPGreaterthanE.svg"
-              }
-            }
           }
         ],
         "currentTab": 2
@@ -186,9 +176,9 @@
   },
   "active": "83b2f73ae28fb9e9",
   "lastOpenFiles": [
-    "Images/TSPGreaterthanE.svg",
-    "Images/TSPLessthanE.svg",
     "Economics/4. Market Efficiency/Powerpoint - Market Efficiency.md",
+    "Images/TSPLessthanE.svg",
+    "Images/TSPGreaterthanE.svg",
     "Economics/3. Elasticity/Powerpoint - PES.md",
     "Images/ProducerSurplus.svg",
     "Images/ConsumerSurplus.svg",
