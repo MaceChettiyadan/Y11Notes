@@ -32,12 +32,14 @@
             }
           },
           {
-            "id": "83b2f73ae28fb9e9",
+            "id": "2337b9da530c32db",
             "type": "leaf",
             "state": {
-              "type": "diagram-edit",
+              "type": "markdown",
               "state": {
-                "file": "Images/TSPLessthanE.svg"
+                "file": "Homework.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -109,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/TSPLessthanE.svg",
+                "file": "Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/TSPLessthanE.svg",
+                "file": "Homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/TSPLessthanE.svg"
+                "file": "Homework.md"
               }
             }
           }
@@ -174,8 +176,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "83b2f73ae28fb9e9",
+  "active": "2337b9da530c32db",
   "lastOpenFiles": [
+    "Images/QTYDWL.svg",
     "Economics/4. Market Efficiency/Powerpoint - Market Efficiency.md",
     "Images/TSPLessthanE.svg",
     "Images/TSPGreaterthanE.svg",
@@ -198,7 +201,6 @@
     "Images/InelasticCurve.svg",
     "Images/ShortageDiagramEcon.png",
     "Images/SupplyCurve.svg",
-    "Images/VegetableSupplyEcon.png",
     "Physics/Equations of Motion.md",
     "New Text Document.txt",
     "Untitled",
