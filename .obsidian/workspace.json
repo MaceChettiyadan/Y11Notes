@@ -30,6 +30,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ce004195612a2064",
+            "type": "leaf",
+            "state": {
+              "type": "diagram-edit",
+              "state": {
+                "file": "Images/TSPGreaterthanE.svg"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -166,8 +176,9 @@
   },
   "active": "eeae2f9cb8abbb8d",
   "lastOpenFiles": [
-    "Economics/3. Elasticity/Powerpoint - PES.md",
+    "Images/TSPGreaterthanE.svg",
     "Economics/4. Market Efficiency/Powerpoint - Market Efficiency.md",
+    "Economics/3. Elasticity/Powerpoint - PES.md",
     "Images/ProducerSurplus.svg",
     "Images/ConsumerSurplus.svg",
     "Physics/Momentum.md",
