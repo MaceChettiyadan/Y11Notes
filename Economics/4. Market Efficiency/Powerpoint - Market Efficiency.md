@@ -21,3 +21,4 @@
 	- The situations we have to deal with are where price is *above* and *below* the equilibrium
 	- A diagram for *above*; it is important to note that $PS$ is not a triangle, but instead the area above the supply curve below P1 ![[TSPGreaterthanE.svg]]
 	- And another, for *below* ![[TSPLessthanE.svg]]
+- **Also,** when *quantity* is *above* and *below* the equilibrium. Dunno if the second one is correct yet. ![[QTYDWL.svg]] ![[QTYDWLb.svg]]
