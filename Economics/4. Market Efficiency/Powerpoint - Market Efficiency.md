@@ -18,3 +18,5 @@
 
 ##### Discuss how over and underproduction in a market can create deadweight loss
 - **Deadweight loss** is a loss in total surplus that is avoidable #testanswer 
+	- The situations we have to deal with are where price is *above* and *below* the equilibrium
+	- A diagram;
