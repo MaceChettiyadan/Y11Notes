@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "83b2f73ae28fb9e9",
+            "type": "leaf",
+            "state": {
+              "type": "diagram-edit",
+              "state": {
+                "file": "Images/TSPLessthanE.svg"
+              }
+            }
+          },
+          {
             "id": "ce004195612a2064",
             "type": "leaf",
             "state": {
@@ -42,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/4. Market Efficiency/Powerpoint - Market Efficiency.md",
+                "file": "Images/TSPLessthanE.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/4. Market Efficiency/Powerpoint - Market Efficiency.md",
+                "file": "Images/TSPLessthanE.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/4. Market Efficiency/Powerpoint - Market Efficiency.md"
+                "file": "Images/TSPLessthanE.svg"
               }
             }
           }
@@ -174,9 +184,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eeae2f9cb8abbb8d",
+  "active": "83b2f73ae28fb9e9",
   "lastOpenFiles": [
     "Images/TSPGreaterthanE.svg",
+    "Images/TSPLessthanE.svg",
     "Economics/4. Market Efficiency/Powerpoint - Market Efficiency.md",
     "Economics/3. Elasticity/Powerpoint - PES.md",
     "Images/ProducerSurplus.svg",
