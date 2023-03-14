@@ -22,3 +22,25 @@
 	- A diagram for *above*; it is important to note that $PS$ is not a triangle, but instead the area above the supply curve below P1 ![[TSPGreaterthanE.svg]]
 	- And another, for *below* ![[TSPLessthanE.svg]]
 - **Also,** when *quantity* is *above* and *below* the equilibrium. Dunno if the second one is correct yet. ![[QTYDWL.svg]] ![[QTYDWLb.svg]]
+
+##### Demonstrate and explain the effects of a tax and subsidy on a market
+##### Demonstrate and explain the effects of a price ceiling and price floor on a market
+###### Price Ceilings
+- **Price Ceilings** are the highest price that a producer can charge on a good
+- Is usually *below* the equilibrium price
+- Intended to keep prices affordable for majority of the population
+- **Need for rationing process** to regulate demand, but this could lead to a **black market**
+
+###### Price Floors
+- **Minimum Price** that a producer can charge on a good
+- Is usually *above* the equilibrium price
+- Designed to ensure that there is a minimum income received by producers
+- However, this could result in *informal illegal markets* where workers are paid less than the minimum wage.
+
+**To explain either,**
+1. Original Pe and Qe
+2. Implement price ceiling or floor
+3. New price and Quantity
+4. Compare Qs and Qd $\rightarrow$ shortage/surplus
+5. CS/PS/TS/DWL
+	- Talk about changes in CS/PS/TS, then talk about loss in efficiency i.e DWL.
