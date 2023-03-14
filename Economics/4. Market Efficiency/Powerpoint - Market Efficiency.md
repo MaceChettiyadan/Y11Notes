@@ -32,6 +32,13 @@
 	- Reduces quantity while increasing price
 	- Tax incidence depends on the elasticity of the good/service
 	- Creates a DWL
+**To explain either,**
+1. Original P/Qty
+2. Implement government policy
+3. New price/quantity
+4. Tax Revenue
+5. CS/PS/TS/DWL
+6. Conclusion on efficiency
 
 ###### Direct tax
 - e.g. **income tax**
