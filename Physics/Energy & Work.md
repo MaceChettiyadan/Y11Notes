@@ -1,0 +1,13 @@
+#### Energy
+- Is the **ability to do work**, measured in $Joules \space (J)$
+	- Work, then, is measured in joules too. It is the change in energy of an object, so basically $\Delta E$
+	- This is $F_s$
+	- 
+- **Energy** is a *conserved quantity*. Then, *Energy can neither be created nor destroyed, though it can be transferred or transformed.*
+	- Transfer = type of energy is unchanged
+	- Transform = one type of energy becomes another type
+- We're only really interested in two types of energy;
+	- Mechanical energy i.e kinetic and gravitational potential, 
+		- Kinetic: $E_x=\frac{1}{2}mv^2$. This is a **scalar**
+		- Gravitational Potential: $E_p=mgh$. This is
+		- Applied Force: $F_{s}=Nm$
