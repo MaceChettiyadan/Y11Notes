@@ -28,6 +28,10 @@
 	- Can aid in the redistribution of income
 	- To correct externalities
 	- To earn revenue
+- **Impact of tax**
+	- Reduces quantity while increasing price
+	- Tax incidence depends on the elasticity of the good/service
+	- Creates a DWL
 
 ###### Direct tax
 - e.g. **income tax**
