@@ -11,3 +11,4 @@
 		- Kinetic: $E_x=\frac{1}{2}mv^2$. This is a **scalar**
 		- Gravitational Potential: $E_p=mgh$. This is
 		- Applied Force: $F_{s}=Nm$
+	- For objects in motion (inc. stationary), it is assumed that their total mechanical enery (TME) = $E_{x}+E_{p}$ will be constant for that object.
