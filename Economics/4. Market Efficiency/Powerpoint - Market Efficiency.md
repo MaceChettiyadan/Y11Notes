@@ -24,6 +24,18 @@
 - **Also,** when *quantity* is *above* and *below* the equilibrium. Dunno if the second one is correct yet. ![[QTYDWL.svg]] ![[QTYDWLb.svg]]
 
 ##### Demonstrate and explain the effects of a tax and subsidy on a market
+- **Why do governments tax** if it introduces inefficiency?
+	- Can aid in the redistribution of income
+	- To correct externalities
+	- To earn revenue
+
+###### Direct tax
+- e.g. **income tax**
+###### Indirect tax
+- Consumers do not pay the tax directly, but are affected through changes in the price of the good or service
+	- **Specific tax**: the tac is a fixed amount or is a set sum of money per unit
+	- **Ad Valorem** tax: Where the tax is a percentage of the value of the diagram, e.g. GST
+
 ##### Demonstrate and explain the effects of a price ceiling and price floor on a market
 ###### Price Ceilings
 - **Price Ceilings** are the highest price that a producer can charge on a good
