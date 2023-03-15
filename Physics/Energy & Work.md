@@ -22,3 +22,6 @@
 	- **So,** the gravitational potential energy at the start is equal to the kinetic energy at the end.
 	- $mgh=\frac{1}{2}mv^2$ $\therefore v=\sqrt{2gh}=5.56m \space s^{-1}$. 
 	- Now we have the horizontal and vertical vector components, so we can determine the resultant, which is **the final velocity.**
+
+#### Power
+- Is $\frac{work}{time}$ i.e the rate at which work is done.
