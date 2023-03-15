@@ -2,7 +2,6 @@
 - Is the **ability to do work**, measured in $Joules \space (J)$
 	- Work, then, is measured in joules too. It is the change in energy of an object, so basically $\Delta E$
 	- This is $F_s$
-	- 
 - **Energy** is a *conserved quantity*. Then, *Energy can neither be created nor destroyed, though it can be transferred or transformed.*
 	- Transfer = type of energy is unchanged
 	- Transform = one type of energy becomes another type
