@@ -12,4 +12,5 @@
 		- $6.95m s^{-1}$
 	- Show by calculation whether the collision was elastic or inelastic. Justify your answer.
 		- It is inelastic. To prove, $TKE_{1} \not= TKE_2$
-		- $TKE_1=\frac{1}{2}24.2\times 6.66^2$
+		- $TKE_1=\frac{1}{2}24.2\times 6.66^2=536$
+		- $TKE_2=\frac{1}{2}8.47 \times (-7.77)^2$
