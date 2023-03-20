@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bcf8e1b0d3cbee7b",
+        "id": "37985b0052e00ef8",
         "type": "tabs",
         "children": [
           {
-            "id": "e8d4fb83eb7b9881",
+            "id": "f525f2c25e45543b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Energy & Work.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac20db592e4791c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Collisions.md",
+                "file": "Homework.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Collisions.md",
+                "file": "Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Collisions.md",
+                "file": "Homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Collisions.md"
+                "file": "Homework.md"
               }
             }
           }
@@ -164,32 +151,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac20db592e4791c2",
+  "active": "f525f2c25e45543b",
   "lastOpenFiles": [
     "Physics/Energy & Work.md",
-    "Physics/Force.md",
+    "Physics/Equations of Motion.md",
     "Physics/Collisions.md",
-    "Physics/Vectors & Scalars.md",
-    "Physics/SIS & Error in Physics.md",
-    "Images/VegetableSupplyEcon.png",
-    "Images/TSPLessthanE.svg",
-    "Images/TSPGreaterthanE.svg",
-    "Images/SupplyCurve.svg",
-    "Images/QTYDWLb.svg",
+    "Physics/Force.md",
+    "Physics/Momentum.md",
+    "Images/RentNYC.svg",
     "Images/ProducerSurplus.svg",
+    "Images/QTYDWL.svg",
+    "Images/ElasticDemandCurve.svg",
     "Images/InelasticCurve.svg",
     "Images/DemandCurve.svg",
-    "Images/ConsumerSurplus.svg",
-    "Physics/Equations of Motion.md",
+    "Images/QTYDWLb.svg",
+    "Images/ShortageDiagramEcon.png",
+    "Images/SupplyCurve.svg",
+    "Images/TaxiMarket.svg",
+    "Physics/Vectors & Scalars.md",
+    "Physics/SIS & Error in Physics.md",
     "Physics/Inclined planes.md",
-    "Physics/Momentum.md",
     "Compsci/Binary & Hexadecimal.md",
     "Compsci/ExamJanks™️.md",
     "Economics/4. Market Efficiency/Homework.md",
     "Homework.md",
     "Specialist/Proofs 1.md",
     "Economics/4. Market Efficiency/Powerpoint - Market Efficiency.md",
-    "Images/ElasticDemandCurve.svg",
     "Economics/3. Elasticity/Powerpoint - PED.md",
     "Economics/3. Elasticity/Powerpoint - PES.md",
     "Economics/4. Market Efficiency",

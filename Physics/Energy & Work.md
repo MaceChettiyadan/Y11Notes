@@ -24,3 +24,5 @@
 
 #### Power
 - Is $\frac{work}{time}$ i.e the rate at which work is done.
+
+$$\frac{n!}{(n-a-b-…-x)!\times ab…x \times c_2!c_3!…}$$
