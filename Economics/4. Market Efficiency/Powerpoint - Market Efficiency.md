@@ -1,4 +1,5 @@
 ##### Explain the concepts of consumer surplus, producer surplus, total surplus and deadweight loss
+- **Efficiency** is the production of goods that society wants at the lowest possible price.
 ###### The *consumer* surplus ($CS$)
 - **Consumer Surplus** is the difference between what a consumer is prepared to pay and what they actually pay in the market #testanswer 
 - **Marginal Benefit** is the extra benefit from consuming one extra unit of the good or service
