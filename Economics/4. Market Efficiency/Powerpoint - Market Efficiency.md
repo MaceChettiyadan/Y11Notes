@@ -54,6 +54,8 @@
 - The **aim** is to encourage production of goods with positive externalities
 	- Allow the producer to export more
 	- Aid expansion of the firm
+- **Impact of subsidies**
+	- DWL as part of government expenditure on the subsidy is not translated into either consumer of producer surplus
 
 ##### Demonstrate and explain the effects of a price ceiling and price floor on a market
 ###### Price Ceilings
