@@ -50,12 +50,14 @@
 		- **Ad Valorem** tax: Where the tax is a percentage of the value of the diagram, e.g. GST
 
 ###### Subsidies
-- A payment by the government to a firm to reduce production costs and increase output #testanswer t
+- A payment by the government to a firm to reduce production costs and increase output #testanswer 
 - The **aim** is to encourage production of goods with positive externalities
 	- Allow the producer to export more
 	- Aid expansion of the firm
 - **Impact of subsidies**
 	- DWL as part of government expenditure on the subsidy is not translated into either consumer of producer surplus
+- **Case Study: ***CORN***
+	- 
 
 ##### Demonstrate and explain the effects of a price ceiling and price floor on a market
 ###### Price Ceilings
@@ -63,7 +65,7 @@
 - Is usually *below* the equilibrium price
 - Intended to keep prices affordable for majority of the population
 - **Need for rationing process** to regulate demand, but this could lead to a **black market**
-
+ 
 ###### Price Floors
 - **Minimum Price** that a producer can charge on a good
 - Is usually *above* the equilibrium price
