@@ -10,7 +10,7 @@
 		- Kinetic: $E_x=\frac{1}{2}mv^2$. This is a **scalar**
 		- Gravitational Potential: $E_p=mgh$. This is
 		- Applied Force: $F_{s}=Nm$
-	- For objects in motion (inc. stationary), it is assumed that their total mechanical enery (TME) = $E_{x}+E_{p}$ will be constant for that object.
+	- For objects in motion (inc. stationary), it is assumed that their total mechanical energy (TME) = $E_{x}+E_{p}$ will be constant for that object.
 
 ###### Question
 - A bird realises it is a flightless bird and plummets to the ground. What is its final velocity as it hits the ground? It has a mass of $15.4kg$ and falls from a height of $1.58m$. It was "flying" at a speed of $3.44m\space s^{-1}$
