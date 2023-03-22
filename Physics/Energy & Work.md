@@ -18,7 +18,7 @@
 - Construct a vector diagram
 	- We know energy is conserved, so both things need to add up in both states.
 	- There is *no initial kinetic energy* and *no gravitational potential energy* in the end
-	- **So,** the gravitational potential energy at the start is equal to the kinetic energy at the end.
+	- **So,** the gravitational potential energy at the start is equal to the kinetic energy at the end. 
 	- $mgh=\frac{1}{2}mv^2$ $\therefore v=\sqrt{2gh}=5.56m \space s^{-1}$. 
 	- Now we have the horizontal and vertical vector components, so we can determine the resultant, which is **the final velocity.**
 
