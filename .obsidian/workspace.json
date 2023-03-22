@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/4. Market Efficiency/Powerpoint - Market Efficiency.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14d3a5b3df16339c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Waves.md",
+                "file": "Physics/Energy & Work.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,6 +59,16 @@
             "id": "89d50846ac61be81",
             "type": "leaf",
             "state": {
+              "type": "diagram-edit",
+              "state": {
+                "file": "Untitled Diagram 1.svg"
+              }
+            }
+          },
+          {
+            "id": "bb9ca833be182a30",
+            "type": "leaf",
+            "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
@@ -79,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -99,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Waves.md",
+                "file": "Physics/Energy & Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Waves.md",
+                "file": "Physics/Energy & Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Waves.md"
+                "file": "Physics/Energy & Work.md"
               }
             }
           }
@@ -147,7 +144,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,10 +161,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "14d3a5b3df16339c",
+  "active": "f525f2c25e45543b",
   "lastOpenFiles": [
-    "Economics/4. Market Efficiency/Powerpoint - Market Efficiency.md",
+    "Physics/Vectors & Scalars.md",
     "Physics/Waves.md",
+    "Untitled Diagram 1.svg",
+    "Images/RentNYC.svg",
+    "Images/Tax.svg",
+    "Images/QTYDWLb.svg",
+    "Images/SupplyCurve.svg",
+    "Images/TaxiMarket.svg",
+    "Images/QTYDWL.svg",
+    "Images/LabourMarket.svg",
+    "Economics/4. Market Efficiency/Powerpoint - Market Efficiency.md",
     "Untitled Diagram.svg",
     "Homework.md",
     "Physics/Energy & Work.md",
@@ -174,16 +181,7 @@
     "Physics/Collisions.md",
     "Physics/Force.md",
     "Physics/Momentum.md",
-    "Images/RentNYC.svg",
     "Images/ProducerSurplus.svg",
-    "Images/QTYDWL.svg",
-    "Images/ElasticDemandCurve.svg",
-    "Images/InelasticCurve.svg",
-    "Images/DemandCurve.svg",
-    "Images/QTYDWLb.svg",
-    "Images/ShortageDiagramEcon.png",
-    "Images/SupplyCurve.svg",
-    "Physics/Vectors & Scalars.md",
     "Physics/SIS & Error in Physics.md",
     "Physics/Inclined planes.md",
     "Compsci/Binary & Hexadecimal.md",
