@@ -12,7 +12,7 @@
 - 3 Classes
 	- **Measurement error** - unavoidable, property of the measuring instrument
 		- Absolute Error - of the instrument, $= \frac{1}{2}$ of the smallest unit of scale on the instrument - e.g. 30cm ruler with millimeter increments = 0.5mm. So whatever value you get would be $n\pm 0.5mm$
-		- Percentage Error - this is $$=(\frac{absolute \space error}{measurement}*100)\%$$
+		- Percentage Error - this is $$=(\dfrac{absolute \space error}{measurement}*100)\%$$
 		- However, what if we had multiple measurements stacked together?
 			- **If adding/subtracting measurements** 
 				- Add **absolute** errors (don't subtract, just add - more measurements $\implies$ more error)

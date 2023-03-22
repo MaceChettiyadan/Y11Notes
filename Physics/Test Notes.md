@@ -12,10 +12,10 @@
 - **A** - Acceleration
 - **T** - Time
 - The equations;
-	- $v=\frac{s}{t}$
+	- $v=\dfrac{s}{t}$
 	- $v^2=u^2+2as$
-	- $s=ut+\frac{1}{2}at^2$
-	- $a=\frac{v-u}{t}$
+	- $s=ut+\dfrac{1}{2}at^2$
+	- $a=\dfrac{v-u}{t}$
 	- $v=u+at$
 
 ##### Newton's Three Laws

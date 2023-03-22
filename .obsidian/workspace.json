@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Waves.md",
+                "file": "Physics/SIS & Error in Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Waves.md",
+                "file": "Physics/SIS & Error in Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Waves.md",
+                "file": "Physics/SIS & Error in Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Waves.md"
+                "file": "Physics/SIS & Error in Physics.md"
               }
             }
           }
@@ -151,15 +151,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb9ca833be182a30",
+  "active": "f525f2c25e45543b",
   "lastOpenFiles": [
-    "WaveGraph.svg",
-    "Physics/Waves.md",
-    "Untitled Diagram.svg",
-    "Physics/Vectors & Scalars.md",
-    "Physics/Test Notes.md",
-    "Physics/SIS & Error in Physics.md",
     "Physics/Momentum.md",
+    "Physics/SIS & Error in Physics.md",
+    "Physics/Test Notes.md",
+    "Physics/Vectors & Scalars.md",
+    "Physics/Waves.md",
+    "Specialist/Proofs 1.md",
+    "WaveGraph.svg",
+    "Untitled Diagram.svg",
     "Physics/Inclined planes.md",
     "Physics/Force.md",
     "Physics/Equations of Motion.md",
@@ -178,7 +179,6 @@
     "Compsci/Binary & Hexadecimal.md",
     "Compsci/ExamJanks™️.md",
     "Economics/4. Market Efficiency/Homework.md",
-    "Specialist/Proofs 1.md",
     "Economics/3. Elasticity/Powerpoint - PED.md",
     "Economics/3. Elasticity/Powerpoint - PES.md",
     "Economics/4. Market Efficiency",
