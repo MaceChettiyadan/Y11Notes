@@ -13,21 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Inclined planes.md",
+                "file": "Physics/Waves.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "637916267578d502",
+            "id": "89d50846ac61be81",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diagram-edit",
               "state": {
-                "file": "Physics/Test Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled Diagram 1.svg"
               }
             }
           }
@@ -69,16 +67,6 @@
             }
           },
           {
-            "id": "89d50846ac61be81",
-            "type": "leaf",
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "Untitled Diagram 1.svg"
-              }
-            }
-          },
-          {
             "id": "bb9ca833be182a30",
             "type": "leaf",
             "state": {
@@ -89,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -109,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Test Notes.md",
+                "file": "Untitled Diagram 1.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Test Notes.md",
+                "file": "Untitled Diagram 1.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Test Notes.md"
+                "file": "Untitled Diagram 1.svg"
               }
             }
           }
@@ -174,19 +162,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "637916267578d502",
+  "active": "89d50846ac61be81",
   "lastOpenFiles": [
-    "Physics/Inclined planes.md",
-    "Physics/Test Notes.md",
-    "Physics/Momentum.md",
-    "Physics/SIS & Error in Physics.md",
+    "Untitled Diagram 1.svg",
+    "Physics/Waves.md",
+    "Untitled Diagram.svg",
     "Physics/Vectors & Scalars.md",
+    "Physics/Test Notes.md",
+    "Physics/SIS & Error in Physics.md",
+    "Physics/Momentum.md",
+    "Physics/Inclined planes.md",
     "Physics/Force.md",
     "Physics/Equations of Motion.md",
     "Physics/Energy & Work.md",
     "Physics/Collisions.md",
-    "Physics/Waves.md",
-    "Untitled Diagram 1.svg",
     "Images/RentNYC.svg",
     "Images/Tax.svg",
     "Images/QTYDWLb.svg",
@@ -195,7 +184,6 @@
     "Images/QTYDWL.svg",
     "Images/LabourMarket.svg",
     "Economics/4. Market Efficiency/Powerpoint - Market Efficiency.md",
-    "Untitled Diagram.svg",
     "Homework.md",
     "Images/ProducerSurplus.svg",
     "Compsci/Binary & Hexadecimal.md",
