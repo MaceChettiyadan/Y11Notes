@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "89d50846ac61be81",
-            "type": "leaf",
-            "state": {
-              "type": "diagram-edit",
-              "state": {
-                "file": "Untitled Diagram 1.svg"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Diagram 1.svg",
+                "file": "Physics/Waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Diagram 1.svg",
+                "file": "Physics/Waves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Diagram 1.svg"
+                "file": "Physics/Waves.md"
               }
             }
           }
@@ -162,9 +151,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89d50846ac61be81",
+  "active": "bb9ca833be182a30",
   "lastOpenFiles": [
-    "Untitled Diagram 1.svg",
+    "WaveGraph.svg",
     "Physics/Waves.md",
     "Untitled Diagram.svg",
     "Physics/Vectors & Scalars.md",

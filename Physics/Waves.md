@@ -5,3 +5,6 @@
 - The **direction** of displacement of particles in the media
 	- *Transverse* waves - perpendicular to the direction of propogation
 	- *Longitudinal* waves - parallel to the direction of propogation
+
+- Below, Amplitude (A) is the max displacement of a particle in the medium from the mean/ medium position (x-axis). For a displacement-distance graph, the time between two consecutive *in phase* points gives the wavelength of the wave. Period (T) is the time it takes for a single wave to pass a given point. Wavelength is the distance between two consecutive in-phase points.
+![[WaveGraph.svg]]
