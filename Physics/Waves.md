@@ -8,4 +8,5 @@
 
 - Below, Amplitude (A) is the max displacement of a particle in the medium from the mean/ medium position (x-axis). For a displacement-distance graph, the time between two consecutive *in phase* points gives the wavelength of the wave. Period (T) is the time it takes for a single wave to pass a given point. Wavelength is the distance between two consecutive in-phase points.
 - *Frequency* cannot be directly gotten from a wave graph $\downarrow$, $P=\dfrac{1}{f}$
+- $V=\lambda f=\dfrac{\lambda}{T}$ where $V$ is speed in $m\space s^{-1}$, $\lambda$ is wavelength in metres, and $T$ is period in seconds, and $f$ is the drequency in $s^{-1}, Hz$
 ![[WaveGraph.svg]]

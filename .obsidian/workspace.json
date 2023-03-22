@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/SIS & Error in Physics.md",
+                "file": "Physics/Waves.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/SIS & Error in Physics.md",
+                "file": "Physics/Waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/SIS & Error in Physics.md",
+                "file": "Physics/Waves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/SIS & Error in Physics.md"
+                "file": "Physics/Waves.md"
               }
             }
           }
@@ -153,8 +153,8 @@
   },
   "active": "f525f2c25e45543b",
   "lastOpenFiles": [
-    "Physics/Momentum.md",
     "Physics/SIS & Error in Physics.md",
+    "Physics/Momentum.md",
     "Physics/Test Notes.md",
     "Physics/Vectors & Scalars.md",
     "Physics/Waves.md",
