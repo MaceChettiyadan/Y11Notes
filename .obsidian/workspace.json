@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/4. Market Efficiency/Homework.md",
+                "file": "Compsci/Iteration/Iteration - WHILE.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#testanswer path:Physics",
+                "query": "efficiency",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/4. Market Efficiency/Homework.md",
+                "file": "Compsci/Iteration/Iteration - WHILE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/4. Market Efficiency/Homework.md",
+                "file": "Compsci/Iteration/Iteration - WHILE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/4. Market Efficiency/Homework.md"
+                "file": "Compsci/Iteration/Iteration - WHILE.md"
               }
             }
           }
@@ -151,16 +151,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bb9ca833be182a30",
+  "active": "f525f2c25e45543b",
   "lastOpenFiles": [
+    "Physics/Waves.md",
     "Economics/4. Market Efficiency/Powerpoint - Market Efficiency.md",
-    "Physics/Energy & Work.md",
+    "Economics/4. Market Efficiency/Homework.md",
+    "Physics/Vectors & Scalars.md",
+    "Physics/Test Notes.md",
     "Physics/Collisions.md",
+    "Physics/Energy & Work.md",
     "Physics/Momentum.md",
     "Physics/SIS & Error in Physics.md",
-    "Physics/Test Notes.md",
-    "Physics/Vectors & Scalars.md",
-    "Physics/Waves.md",
     "Specialist/Proofs 1.md",
     "WaveGraph.svg",
     "Untitled Diagram.svg",
@@ -178,7 +179,6 @@
     "Images/ProducerSurplus.svg",
     "Compsci/Binary & Hexadecimal.md",
     "Compsci/ExamJanks™️.md",
-    "Economics/4. Market Efficiency/Homework.md",
     "Economics/3. Elasticity/Powerpoint - PED.md",
     "Economics/3. Elasticity/Powerpoint - PES.md",
     "Economics/4. Market Efficiency",
