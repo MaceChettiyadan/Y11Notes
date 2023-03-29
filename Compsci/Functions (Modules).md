@@ -27,7 +27,7 @@ END
 BEGIN
 	array <-- []
 
-	FUNCTION binary_search_recursive(array, n)
+		FUNCTION binary_search_recursive(array, n)
 		length <-- len(array)
 		middle = ceil(length / 2)
 		IF array[middle] == n THEN

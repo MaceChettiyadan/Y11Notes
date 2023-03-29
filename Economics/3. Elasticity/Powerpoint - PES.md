@@ -30,3 +30,7 @@
 	- Tax Incidence
 	- Inelastic - greater incidence on consumers, greater tax revenue
 	- Elastic - lesser incidence on consumers, lower tax revenue
+
+
+$$Ed=\frac{\Delta Q}{Q}\times \frac{P}{\Delta P},$$ $$Ed=\frac{percentage \space \Delta Q}{percentage \space \Delta P}$$
+
