@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/3. Elasticity/Powerpoint - PES.md",
+                "file": "Economics/3. Elasticity/Powerpoint - PED.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec6bcd1c6426952d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/3. Elasticity/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/3. Elasticity/Powerpoint - PES.md",
+                "file": "Economics/3. Elasticity/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/3. Elasticity/Powerpoint - PES.md",
+                "file": "Economics/3. Elasticity/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/3. Elasticity/Powerpoint - PES.md"
+                "file": "Economics/3. Elasticity/Untitled.md"
               }
             }
           }
@@ -151,9 +164,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f525f2c25e45543b",
+  "active": "ec6bcd1c6426952d",
   "lastOpenFiles": [
     "Economics/3. Elasticity/Powerpoint - PED.md",
+    "Economics/3. Elasticity/Untitled.md",
+    "Economics/3. Elasticity/Powerpoint - PES.md",
     "Compsci/Functions (Modules).md",
     "Compsci/Intro & Revision.md",
     "Compsci/Iteration/Iteration - WHILE.md",
@@ -183,13 +198,11 @@
     "Images/ProducerSurplus.svg",
     "Compsci/Binary & Hexadecimal.md",
     "Compsci/ExamJanks™️.md",
-    "Economics/3. Elasticity/Powerpoint - PES.md",
     "Economics/4. Market Efficiency",
     "Economics/1. Introduction/Powerpoint.md",
     "Economics/2. Supply & Demand/Homework.md",
     "Economics/2. Supply & Demand/Powerpoint - Equilibrium.md",
     "Economics/2. Supply & Demand/Powerpoint - Demand.md",
-    "Economics/3. Elasticity/Homework.md",
     "New Text Document.txt",
     "Untitled",
     "Economics/3. Elasticity"
