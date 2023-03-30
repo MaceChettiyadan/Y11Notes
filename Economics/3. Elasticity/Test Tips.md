@@ -7,4 +7,4 @@
 
 #### Diagrams
 - Diagrams $2 \times n$
-- 
+- Discussion/Explanations - rest of the marks
