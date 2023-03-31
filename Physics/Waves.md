@@ -12,4 +12,4 @@
 ![[WaveGraph.svg]]
 
 #### Wave Behaviours
-- **Reflection** - when energy is incident upon a surface, or a boundry between two different media
+- **Reflection** - when energy is incident upon a surface, or a boundry between two different media, then some/all of the energy rebounds back into the original medium.
