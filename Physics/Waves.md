@@ -10,3 +10,6 @@
 - *Frequency* cannot be directly gotten from a wave graph $\downarrow$, $T=\dfrac{1}{f}$
 - $V=\lambda f=\dfrac{\lambda}{T}$ where $V$ is speed in $m\space s^{-1}$, $\lambda$ is wavelength in metres, and $T$ is period in seconds, and $f$ is the frequency in $s^{-1}, Hz$
 ![[WaveGraph.svg]]
+
+#### Wave Behaviours
+- **Reflection** - when energy is incident upon a surface, or a boundry between two different media
