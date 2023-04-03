@@ -12,6 +12,15 @@
 - Are **non-rival** *and* **excludable**
 	- Gyms, Concerts
 
+##### Merit & Demerit Goods
+###### Merit Goods
+- Goods that are produced that have large external benefits for society
+	- Goods that will be underprovided in the economy if the product is left in the market
+###### Demerit Goods
+- Goods that are produced that have large external costs for society
+	- Goods that will be overprovided if left in the market
+- Are private goods as they are both rivary and exclusive
+
 #### Describe the public goods and the free rider effect
 ##### Public Goods
 - **Non-rival** *and* **Non-excludable**
@@ -33,6 +42,6 @@
 - Occurs as the resource is readily available and there are no restrictions on consumption
 - However, once consumed the resource is not availble to any other party, leading to depletion of the resource.
 
-#### Discuss the policy options to reduce market failure ...
+#### Discuss the policy options to reduce market failure associated with [[#Public Goods]] and [[#Common Property Resources]]
 - **Common Property Goods**: Enforce restrictions on consumption - e.g. fishing limits, no-fishing xones, fishing licenses, etc.
 - **Public Goods**: Create ownership of the resource, e.g. fees for public transport, fines for damaging public property
