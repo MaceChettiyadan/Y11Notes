@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/3. Elasticity/Powerpoint - PED.md",
+                "file": "Economics/3. Elasticity/PPT - PED.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7327f7d275ccd7a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Market Failure/PPT - Causes of Market Failure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Waves.md",
+                "file": "Economics/Market Failure/PPT - Causes of Market Failure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Waves.md",
+                "file": "Economics/Market Failure/PPT - Causes of Market Failure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Waves.md"
+                "file": "Economics/Market Failure/PPT - Causes of Market Failure.md"
               }
             }
           }
@@ -164,16 +176,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ec6bcd1c6426952d",
+  "active": "7327f7d275ccd7a9",
   "lastOpenFiles": [
-    "Economics/4. Market Efficiency/Powerpoint - Market Efficiency.md",
-    "Economics/3. Elasticity/Powerpoint - PED.md",
+    "Economics/4. Market Efficiency/PPT - Market Efficiency.md",
+    "Economics/Market Failure/PPT - Causes of Market Failure.md",
+    "Physics/Waves.md",
+    "Economics/Market Failure",
+    "Economics/3. Elasticity/PPT - PED.md",
     "Economics/3. Elasticity/Test Tips.md",
-    "Economics/3. Elasticity/Powerpoint - PES.md",
+    "Economics/3. Elasticity/PPT - PES.md",
     "Compsci/Functions (Modules).md",
     "Compsci/Intro & Revision.md",
     "Compsci/Iteration/Iteration - WHILE.md",
-    "Physics/Waves.md",
     "Economics/4. Market Efficiency/Homework.md",
     "Physics/Vectors & Scalars.md",
     "Physics/Test Notes.md",
@@ -199,10 +213,9 @@
     "Compsci/Binary & Hexadecimal.md",
     "Compsci/ExamJanks™️.md",
     "Economics/4. Market Efficiency",
-    "Economics/1. Introduction/Powerpoint.md",
+    "Economics/1. Introduction/PPT.md",
     "Economics/2. Supply & Demand/Homework.md",
-    "Economics/2. Supply & Demand/Powerpoint - Equilibrium.md",
-    "Economics/2. Supply & Demand/Powerpoint - Demand.md",
+    "Economics/2. Supply & Demand/PPT - Equilibrium.md",
     "New Text Document.txt",
     "Untitled",
     "Economics/3. Elasticity"

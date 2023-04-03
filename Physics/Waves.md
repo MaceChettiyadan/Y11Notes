@@ -12,4 +12,8 @@
 ![[WaveGraph.svg]]
 
 #### Wave Behaviours
+##### Reflection
 - **Reflection** - when energy is incident upon a surface, or a boundry between two different media, then some/all of the energy rebounds back into the original medium.
+- Wavelength and speed will remain constant if there is a reflectin. Frequency is always constant
+- The ***law of reflection*** states that the angle of reflection is equal to the angle of incidence.
+- 

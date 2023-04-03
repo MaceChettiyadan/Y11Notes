@@ -34,7 +34,7 @@
 	- Opportunity cost is therefore the value of this other choice - the value of the next best alternative foregone
 - The **PPF** is one of many [[#Economic Models]] which describes opportunity cost
 - The PPF can also illustrate economic growth through shifts right and left
-	- For more, visit [[Economics/1. Introduction/Powerpoint]]
+	- For more, visit [[PPT]]
 
 
 #### Types of Resources

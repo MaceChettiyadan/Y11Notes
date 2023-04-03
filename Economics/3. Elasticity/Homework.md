@@ -13,10 +13,10 @@
 
 #### PED and TR/TE
 - PED is important in that it has a link with **total revenue** and **total expenditure** - $TR(TE)=P\times Q$
-	- Graphs in [[Powerpoint - PED]] demonstrate this correlation
+	- Graphs in [[PPT - PED]] demonstrate this correlation
 	- Firms will use elasticity to price discriminate between customers - depending on whether their demand is elastic or inelastic
 - **Along a linear curve**, PED changes - the top half is elastic, while the bottom is inelastic. The midpoint has an $Ed=1$.
-- Again as noted in [[Powerpoint - PED]], there are five main determinants of PED
+- Again as noted in [[PPT - PED]], there are five main determinants of PED
 	- Availability of Substitutes
 	- Whether the good is a necessity or a luxury
 	- Definition of the market

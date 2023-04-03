@@ -31,7 +31,7 @@
 #### Demand Side
 - Demand refers to the buying intentions of customers.
 	- This is not a want; wants are desired but demands are desires characterised by an ability to actually buy.
-	- Demand is governed by the law of demand, which is discussed in the [[Powerpoint - Demand#The law of demand]].
+	- Demand is governed by the law of demand, which is discussed in the [[PPT - Demand#The law of demand]].
 		- **Income effect** - higher income $\rightarrow$ more purchasing power
 		- **Substitution effect** - when the price of a substitute increases, the price of the good increases as it becomes more attractive to buyers.
 		- The effects hold true always, as long as all other factors are constant
@@ -40,12 +40,12 @@
 ###### Changes in the Demand Curve
 - There are two changes
 	- **Shifts** - a shift of the whole curve left or right (a decrease or increase) caused by a **non-price factor**
-		- These factors are listed in [[Powerpoint - Demand#The effect of changes in non-price factors on quantity demanded]]
+		- These factors are listed in [[PPT - Demand#The effect of changes in non-price factors on quantity demanded]]
 	- **Movements** - a movement along the curve caused by a **change in price**
 
 #### Supply Side
 - Represents the sellres or producers side of the market.
-	- More is on [[Powerpoint - Supply#The law of supply]]
+	- More is on [[PPT - Supply#The law of supply]]
 - Rational, self-interested suppliers prefer to sell their output at a higher price than a lower one in order to maximise gain
 - Below, a supply curve is charted.
 ![[SupplyCurve.svg]]
@@ -53,7 +53,7 @@
 ###### Changes in the Supply Curve
 - There are once again two changes
 	- **Shifts** - a shift of the whole curve left or right (a decrease or increase) caused by a **non-price factor**
-		- These factors are listed in [[Powerpoint - Supply#The effect of changes in non-price factors on quantity supplied]]
+		- These factors are listed in [[PPT - Supply#The effect of changes in non-price factors on quantity supplied]]
 	- **Movements** - a movement along the curve caused by a **change in price**
 
 
