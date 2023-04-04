@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/Market Failure/PPT - Causes of Market Failure.md",
+                "file": "Physics/Waves.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c02c303927c6d2f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/Market Failure/Homework.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Market Failure/PPT - Causes of Market Failure.md",
+                "file": "Economics/Market Failure/Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Market Failure/PPT - Causes of Market Failure.md",
+                "file": "Economics/Market Failure/Homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Market Failure/PPT - Causes of Market Failure.md"
+                "file": "Economics/Market Failure/Homework.md"
               }
             }
           }
@@ -151,11 +164,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7327f7d275ccd7a9",
+  "active": "c02c303927c6d2f7",
   "lastOpenFiles": [
-    "Economics/4. Market Efficiency/PPT - Market Efficiency.md",
     "Economics/Market Failure/PPT - Causes of Market Failure.md",
+    "Economics/Market Failure/Homework.md",
+    "Untitled.md",
     "Physics/Waves.md",
+    "Physics/Equations of Motion.md",
+    "Economics/4. Market Efficiency/PPT - Market Efficiency.md",
     "Economics/Market Failure",
     "Economics/3. Elasticity/PPT - PED.md",
     "Economics/3. Elasticity/Test Tips.md",
@@ -175,7 +191,6 @@
     "Untitled Diagram.svg",
     "Physics/Inclined planes.md",
     "Physics/Force.md",
-    "Physics/Equations of Motion.md",
     "Images/RentNYC.svg",
     "Images/Tax.svg",
     "Images/QTYDWLb.svg",
@@ -189,8 +204,6 @@
     "Compsci/ExamJanks™️.md",
     "Economics/4. Market Efficiency",
     "Economics/1. Introduction/PPT.md",
-    "Economics/2. Supply & Demand/Homework.md",
-    "Economics/2. Supply & Demand/PPT - Equilibrium.md",
     "New Text Document.txt",
     "Untitled",
     "Economics/3. Elasticity"
