@@ -12,5 +12,9 @@
 - **Freeware**
 	- You do not need to pay but google holds rights, you cannot modify or change 
 - **Shareware**
-	- 
+	- Trialware for a paid product
 - **Proprietary**
+	- Private, paid and not open source
+	- Two types:
+		- **Off-the-shelf**
+		- **Exclusively** developed for organisations
