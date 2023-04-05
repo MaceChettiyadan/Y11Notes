@@ -7,7 +7,9 @@
 - Exists.
 
 #### Licencing
-- Open source
-- Freeware
-- Shareware
-- Proprietary
+- **Open source**
+	- Linux
+- **Freeware**
+	- You do not need to pay but google holds rights, you cannot modify or change 
+- **Shareware**
+- **Proprietary**
