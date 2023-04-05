@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4d5e327296a381ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compsci/Ethics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/Market Failure/Homework.md",
+                "file": "Compsci/Ethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/Market Failure/Homework.md",
+                "file": "Compsci/Ethics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/Market Failure/Homework.md"
+                "file": "Compsci/Ethics.md"
               }
             }
           }
@@ -164,10 +176,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c02c303927c6d2f7",
+  "active": "4d5e327296a381ec",
   "lastOpenFiles": [
-    "Economics/Market Failure/PPT - Causes of Market Failure.md",
     "Economics/Market Failure/Homework.md",
+    "Compsci/Ethics.md",
+    "Economics/Market Failure/PPT - Causes of Market Failure.md",
     "Untitled.md",
     "Physics/Waves.md",
     "Physics/Equations of Motion.md",
@@ -203,7 +216,6 @@
     "Compsci/Binary & Hexadecimal.md",
     "Compsci/ExamJanks™️.md",
     "Economics/4. Market Efficiency",
-    "Economics/1. Introduction/PPT.md",
     "New Text Document.txt",
     "Untitled",
     "Economics/3. Elasticity"
