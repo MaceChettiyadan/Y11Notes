@@ -8,8 +8,9 @@
 
 #### Licencing
 - **Open source**
-	- Linux
+	- Linux.
 - **Freeware**
 	- You do not need to pay but google holds rights, you cannot modify or change 
 - **Shareware**
+	- 
 - **Proprietary**
