@@ -5,3 +5,9 @@
 
 #### Plagiarism
 - Exists.
+
+#### Licencing
+- Open source
+- Freeware
+- Shareware
+- Proprietary
