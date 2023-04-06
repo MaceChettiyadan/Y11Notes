@@ -32,8 +32,7 @@
 
 ##### Transport Layer
 - Physical connections and transports between networks and devices.
-- UTP
-- Fiber
+- [[#Cables]]
 
 ##### Internet Layer
 - IPv4, IPv6
@@ -58,4 +57,15 @@
 
 
 # Cables
-- **UTP** - Unshielded Twister Pair
+- **UTP** - Unshielded Twisted Pair
+- **STP** - Shielded Twister Pair
+- **Fiber**
+
+| Type of Cable               | Description | Advantages | Disadvantages    |
+| --------------------------- | ----------- | ---------- | --- |
+| UTP                         |             |            |     |
+| STP                         |             |            |     |
+| Fiber - Multi Mode          |             |            |     |
+| Fiber - Single Mode         |             |            |     |
+| Wireless/Microwave/Cellular |             |            |     |
+|                             |             |            |     |
