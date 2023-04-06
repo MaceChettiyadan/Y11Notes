@@ -16,4 +16,9 @@
 - **Reflection** - when energy is incident upon a surface, or a boundry between two different media, then some/all of the energy rebounds back into the original medium.
 - Wavelength and speed will remain constant if there is a reflectin. Frequency is always constant
 - The ***law of reflection*** states that the angle of reflection is equal to the angle of incidence.
-- 
+
+##### Echoes
+- The **reflection** of *sound* from a hard surface.
+- How long before hearing sound/how long before it hits the wall are the questions that will be asked
+	- Need to consider speed of sound in air at $25\degree$ as $346m s^{-1}$ (its on the data sheet)
+	-  Knowing the distance from the wall, we can figure it out.
