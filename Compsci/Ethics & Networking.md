@@ -32,6 +32,8 @@
 
 ##### Transport Layer
 - Physical connections and transports between networks and devices.
+- UTP
+- Fiber
 
 ##### Internet Layer
 - IPv4, IPv6
@@ -53,3 +55,7 @@
 	- *addresses* for each *device*, analagous to mobile phone numbers
 - IPv4 vs IPv6 - 6 offers more security
 	- This is because of coincidence, but dont mention that in a test.
+
+
+# Cables
+- **UTP** - Unshielded Twister Pair
