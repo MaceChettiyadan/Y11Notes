@@ -1,8 +1,9 @@
 # Networking
-#### 1988 Copyright Law
+#### 1962 Copyright Law
 - There is nothing to write here
 - Copyright given by default
 	- **80** years after *death* the work becomes public domain
+- **1988** introduced the privacy act
 
 #### Plagiarism
 - Exists.
@@ -30,6 +31,7 @@
 - NICs (network interface cards)
 
 ##### Transport Layer
+- Physical connections and transports between networks and devices.
 
 ##### Internet Layer
 - IPv4, IPv6
@@ -39,3 +41,15 @@
 - HTTP/HTTPS
 - Browser, delivers information
 	- Also FTP, SMTP, etc.
+
+# IP addresses
+## Subnet Masks
+- Splits the IP address into two
+	- Identify host computer/device
+	- Identify network it belongs to
+
+## IP address
+- IP addresses
+	- *addresses* for each *device*, analagous to mobile phone numbers
+- IPv4 vs IPv6 - 6 offers more security
+	- This is because of coincidence, but dont mention that in a test.
