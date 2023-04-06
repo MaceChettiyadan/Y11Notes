@@ -28,3 +28,7 @@
 - When a wave enters a new medium  at an angle other than $90\degree$, then it will change direction
 - Velocity ($v$) changes
 	- Since $f$ cannot change, then to change $v$, $\lambda$ must change (wavelength will change)
+- **Light** decreases in speed with increasing density of the medium
+- **Sound** increases in speed with increasing density of the medium
+- *If entering a FASTER medium,* then the refracted ray bends away from the normal, and if entering a *SLOWER* medium, the refracter bay bends towards the normal
+	- The normal is the perpendicular line that can be made with the surface (this is why the wave does not change direction if it enters perpendicular to the medium)
