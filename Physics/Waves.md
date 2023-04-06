@@ -8,6 +8,7 @@
 
 - Below, Amplitude (A) is the max displacement of a particle in the medium from the mean/ medium position (x-axis). For a displacement-distance graph, the time between two consecutive *in phase* points gives the wavelength of the wave. Period (T) is the time it takes for a single wave to pass a given point. Wavelength is the distance between two consecutive in-phase points.
 - *Frequency* cannot be directly gotten from a wave graph $\downarrow$, $T=\dfrac{1}{f}$
+	- ****FREQUENCY*** is a fundamental property of the wave that **CANNOT** change.
 - $V=\lambda f=\dfrac{\lambda}{T}$ where $V$ is speed in $m\space s^{-1}$, $\lambda$ is wavelength in metres, and $T$ is period in seconds, and $f$ is the frequency in $s^{-1}, Hz$
 ![[WaveGraph.svg]]
 
@@ -17,8 +18,12 @@
 - Wavelength and speed will remain constant if there is a reflectin. Frequency is always constant
 - The ***law of reflection*** states that the angle of reflection is equal to the angle of incidence.
 
-##### Echoes
+###### Echoes
 - The **reflection** of *sound* from a hard surface.
 - How long before hearing sound/how long before it hits the wall are the questions that will be asked
 	- Need to consider speed of sound in air at $25\degree$ as $346m s^{-1}$ (its on the data sheet)
-	-  Knowing the distance from the wall, we can figure it out.
+	-  Knowing the distance from the wall, we can figure out how long to get to wall ($\frac{s}{v}$) and how long to hear the echo ($2\frac{s}{v}$)
+
+##### Refraction
+- When a wave enters a new medium  at an angle other than $90\degree$, then it will change direction
+- Speed changes, so since $f$ cannot change, then to change $v$, $\lambda$ must change (wavelength will change)
