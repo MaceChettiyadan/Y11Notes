@@ -1,3 +1,4 @@
+# Networking
 #### 1988 Copyright Law
 - There is nothing to write here
 - Copyright given by default
@@ -17,4 +18,24 @@
 	- Private, paid and not open source
 	- Two types:
 		- **Off-the-shelf**
-		- **Exclusively** developed for organisations
+		- **Exclusively** developed for 
+
+# Networking
+## TCP/IP
+- Transmission Control Protocol and Internet Protocol
+- Composed of **four** layers
+
+##### Network Layer
+- Physical components
+- NICs (network interface cards)
+
+##### Transport Layer
+
+##### Internet Layer
+- IPv4, IPv6
+- ARP
+
+##### Application Layer
+- HTTP/HTTPS
+- Browser, delivers information
+	- Also FTP, SMTP, etc.

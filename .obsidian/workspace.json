@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compsci/Ethics.md",
+                "file": "Economics/Market Failure/Homework.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.50152587890625
+    "width": 290.5
   },
   "right": {
     "id": "eab940f49f2c5c33",
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compsci/Ethics.md",
+                "file": "Economics/Market Failure/Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compsci/Ethics.md",
+                "file": "Economics/Market Failure/Homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compsci/Ethics.md"
+                "file": "Economics/Market Failure/Homework.md"
               }
             }
           }
@@ -178,8 +178,8 @@
   },
   "active": "4d5e327296a381ec",
   "lastOpenFiles": [
+    "Compsci/Ethics & Networking.md",
     "Economics/Market Failure/Homework.md",
-    "Compsci/Ethics.md",
     "Economics/Market Failure/PPT - Causes of Market Failure.md",
     "Untitled.md",
     "Physics/Waves.md",
