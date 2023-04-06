@@ -15,7 +15,7 @@
 #### Wave Behaviours
 ##### Reflection
 - **Reflection** - when energy is incident upon a surface, or a boundry between two different media, then some/all of the energy rebounds back into the original medium.
-- Wavelength and speed will remain constant if there is a reflectin. Frequency is always constant
+- Wavelength and speed will remain constant if there is a reflection. Frequency is always constant
 - The ***law of reflection*** states that the angle of reflection is equal to the angle of incidence.
 
 ###### Echoes
@@ -26,4 +26,5 @@
 
 ##### Refraction
 - When a wave enters a new medium  at an angle other than $90\degree$, then it will change direction
-- Speed changes, so since $f$ cannot change, then to change $v$, $\lambda$ must change (wavelength will change)
+- Velocity ($v$) changes
+	- Since $f$ cannot change, then to change $v$, $\lambda$ must change (wavelength will change)
