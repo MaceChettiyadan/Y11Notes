@@ -1,7 +1,7 @@
 ## Market Power
 #### Define the concept of market failure
 - Market failure is the situation defined by the inefficient distribution of goods and services in the free market
-- 
+
 #### Outline the characteristics of an imperfectly competitive market
 - A market that is competitive is characterised by
 	- A relatively **large number of firms**
