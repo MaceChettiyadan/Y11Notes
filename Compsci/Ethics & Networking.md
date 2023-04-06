@@ -61,11 +61,14 @@
 - **STP** - Shielded Twister Pair
 - **Fiber**
 
-| Type of Cable               | Description | Advantages | Disadvantages    |
-| --------------------------- | ----------- | ---------- | --- |
-| UTP                         |             |            |     |
-| STP                         |             |            |     |
-| Fiber - Multi Mode          |             |            |     |
-| Fiber - Single Mode         |             |            |     |
-| Wireless/Microwave/Cellular |             |            |     |
-|                             |             |            |     |
+| Type of Cable               | Description | Advantages | Disadvantages |
+| --------------------------- | ----------- | ---------- | ------------- |
+| UTP                         |             |            |               |
+| STP                         |             |            |               |
+| Fiber - Multi Mode          |             |            |               |
+| Fiber - Single Mode         |             |            |               |
+| Wireless/Microwave/Cellular |             |            |               |
+
+Hub vs Switch
+Hub is old school, compare to walkie talkie radios - connect to one channel, it broadcasts to every device
+Switch - mobile network, unique addresses, more secure, more privacy, less packet collisions
