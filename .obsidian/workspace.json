@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Waves.md",
+                "file": "Economics/5. Market Failure/PPT - Exernalities.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Waves.md",
+                "file": "Economics/5. Market Failure/PPT - Exernalities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Waves.md",
+                "file": "Economics/5. Market Failure/PPT - Exernalities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Waves.md"
+                "file": "Economics/5. Market Failure/PPT - Exernalities.md"
               }
             }
           }
@@ -166,14 +166,15 @@
   },
   "active": "c02c303927c6d2f7",
   "lastOpenFiles": [
-    "Economics/Market Failure/Homework.md",
-    "Compsci/Ethics & Networking.md",
-    "Economics/Market Failure/PPT - Causes of Market Failure.md",
-    "Untitled.md",
+    "Economics/5. Market Failure/PPT - Causes of Market Failure.md",
+    "Economics/5. Market Failure/Homework.md",
+    "Economics/5. Market Failure/PPT - Exernalities.md",
     "Physics/Waves.md",
+    "Compsci/Ethics & Networking.md",
+    "Untitled.md",
     "Physics/Equations of Motion.md",
     "Economics/4. Market Efficiency/PPT - Market Efficiency.md",
-    "Economics/Market Failure",
+    "Economics/5. Market Failure",
     "Economics/3. Elasticity/PPT - PED.md",
     "Economics/3. Elasticity/Test Tips.md",
     "Economics/3. Elasticity/PPT - PES.md",
@@ -202,7 +203,6 @@
     "Homework.md",
     "Images/ProducerSurplus.svg",
     "Compsci/Binary & Hexadecimal.md",
-    "Compsci/ExamJanks™️.md",
     "Economics/4. Market Efficiency",
     "New Text Document.txt",
     "Untitled",

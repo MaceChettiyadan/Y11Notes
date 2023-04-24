@@ -45,3 +45,5 @@
 #### Discuss the policy options to reduce market failure associated with [[#Public Goods]] and [[#Common Property Resources]]
 - **Common Property Goods**: Enforce restrictions on consumption - e.g. fishing limits, no-fishing xones, fishing licenses, etc.
 - **Public Goods**: Create ownership of the resource, e.g. fees for public transport, fines for damaging public property
+
+
