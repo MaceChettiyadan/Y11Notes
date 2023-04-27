@@ -19,7 +19,7 @@
 	- Market quantity is greater than optimal quantity
 	- Market price is less than optimal price
 - Results in *deadweight loss*
-- Two types
+- Two types: a [[#Negative Production Externality]] and a [[#Negative Consumption Externality]]
 
 ###### Negative Production Externality
 - Where the *marginal social cost* of production is higher than the *marginal private cost*
