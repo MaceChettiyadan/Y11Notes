@@ -34,3 +34,5 @@
 	- The **normal** is the **perpendicular line that can be made with the surface** (this is why the wave does not change direction if it enters perpendicular to the medium)
 
 #### Diffraction
+- *Radiate*: Point source emitting things
+- Occurs when waves either pass through a gap or around an obstacle and the wave fronts are deformed (bend). IF $\lambda \geq d$ where $\lambda$ = wavelength and $d=$ size of gap
