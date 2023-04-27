@@ -75,3 +75,14 @@ Switch - mobile network, unique addresses, more secure, more privacy, less packe
 
 
 Ring Bus Tree Star Mesh
+
+nbn
+modem
+internet
+words
+
+|     | ***Layers*** | ***Devi***    |     |
+| --- | ------------ | --- | --- |
+| --- | ---          |     |     |
+| --- |              |     |     |
+ce  
