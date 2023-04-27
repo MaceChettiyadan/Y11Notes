@@ -13,5 +13,12 @@
 - Externalities cause market failure if the **price mechanism** does not take into account the **social costs** and benefits of production and consumption
 
 #### The distinction between  positive and negative externalities
+##### Negative Externalities
+- Occurs when production and/or consumption creates an **external cost**
+- Causes overconsumption/production
+	- Market quantity is greater than optimal quantity
+	- Market price is less than optimal price
+- Results in deadweight loss
+
 #### How an externality can influence market efficiency i.e. a deadweight loss
 #### Policy options to correct for externalities, including the use of taxes and subsidies
