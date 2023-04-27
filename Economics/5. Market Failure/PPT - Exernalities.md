@@ -39,7 +39,20 @@
 	- Alcoholism
 
 ##### Positive Externalities
+- External benefits of consumption or production for third parties
+	- Causes under consumption or under production
+	- Results in a DWL
 
+###### Positive Consumption Externality
+- Where the *marginal social benefit* of consumption is higher than the *marginal private benefit*
+- Examples include
+	- Flu vaccines
+	- Education
+
+###### Positive Production Externality
+- Where the *marginal social cost* of production is lower than the *marginal private cost*
+- Examples include
+	- Lower transport costs for local firms following construction of new roads
 
 #### How an externality can influence market efficiency i.e. a deadweight loss
 #### Policy options to correct for externalities, including the use of taxes and subsidies
