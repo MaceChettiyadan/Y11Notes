@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Waves.md",
+                "file": "Compsci/Ethics & Networking.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Waves.md",
+                "file": "Compsci/Ethics & Networking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Waves.md",
+                "file": "Compsci/Ethics & Networking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Waves.md"
+                "file": "Compsci/Ethics & Networking.md"
               }
             }
           }
@@ -166,8 +166,8 @@
   },
   "active": "c02c303927c6d2f7",
   "lastOpenFiles": [
-    "Compsci/Ethics & Networking.md",
     "Physics/Waves.md",
+    "Compsci/Ethics & Networking.md",
     "Economics/5. Market Failure/PPT - Exernalities.md",
     "Economics/5. Market Failure/PPT - Causes of Market Failure.md",
     "Economics/5. Market Failure/Homework.md",

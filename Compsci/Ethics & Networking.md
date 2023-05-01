@@ -74,15 +74,9 @@ Hub is old school, compare to walkie talkie radios - connect to one channel, it 
 Switch - mobile network, unique addresses, more secure, more privacy, less packet collisions
 
 
-Ring Bus Tree Star Mesh
-
-nbn
-modem
-internet
-words
-
-|     | ***Layers*** | ***Devi***    |     |
-| --- | ------------ | --- | --- |
-| --- | ---          |     |     |
-| --- |              |     |     |
-ce  
+###### IPv4 vs IPv6
+###### What is bandwidth?
+###### UTP vs Fibre Optic
+###### TCP/IP Protocol
+- Each layer with a short desc
+- Devices that fall into each layer
