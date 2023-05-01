@@ -75,6 +75,8 @@ Switch - mobile network, unique addresses, more secure, more privacy, less packe
 
 
 ###### IPv4 vs IPv6
+- Different formats. v6 can hold more addresses, as it is 128 bits compared to the v4 standard 64 bits.
+
 ###### What is bandwidth?
 ###### UTP vs Fibre Optic
 ###### TCP/IP Protocol
