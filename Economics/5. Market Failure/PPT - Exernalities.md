@@ -56,3 +56,9 @@
 
 #### How an externality can influence market efficiency i.e. a deadweight loss
 #### Policy options to correct for externalities, including the use of taxes and subsidies
+- **Two** types
+	- [[#Regulation/Legislation]] set by the government
+	- [[#Market Based Approaches]] - taxes and subsidies
+
+##### Regulation/Legislation
+##### Market Based Approaches

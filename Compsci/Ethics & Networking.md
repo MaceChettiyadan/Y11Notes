@@ -78,9 +78,12 @@ Switch - mobile network, unique addresses, more secure, more privacy, less packe
 - Different formats. v6 can hold more addresses, as it is 128 bits compared to the v4 standard 64 bits.
 
 ###### What is bandwidth?
-
+- 
+- 
 
 ###### UTP vs Fibre Optic
+- 
+
 ###### TCP/IP Protocol
 - Each layer with a short desc
 - Devices that fall into each layer
