@@ -61,4 +61,15 @@
 	- [[#Market Based Approaches]] - taxes and subsidies
 
 ##### Regulation/Legislation
+###### Negative Production Externality
+- Regulations can forbid the dumping of pollutants to the environment
+	- Limit the amount of pollutants usinga  maximum amount
+	- Limit the quantity of output to producers
+	- Require technologies (methods of production) to reduce emissions
+
+######
+
 ##### Market Based Approaches
+###### Negative Production Externality
+- Imposing a tax on per unit of production or pollutant emission
+- Internalise the external cost (recognition)
