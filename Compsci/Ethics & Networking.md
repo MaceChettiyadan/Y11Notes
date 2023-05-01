@@ -80,3 +80,4 @@ Switch - mobile network, unique addresses, more secure, more privacy, less packe
 ###### TCP/IP Protocol
 - Each layer with a short desc
 - Devices that fall into each layer
+###### Cisco Network Diagrams how?
