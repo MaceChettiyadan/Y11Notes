@@ -3,9 +3,11 @@
 - **Supply**: private costs of production
 - **MPC** (Marginal Private Cost): costs to producers of producing one more unit of a good
 - **MSC**: costs to society of producing one more unit of a good
+	- $MSC=MPC+MEC$ where $MEC=$ marginal external costs
 - **MPB**: Benefits to consumers from consuming one more unit of a good
 - **MSB**: benefits to society from consuming one more unit of a good
 - When MPC=MSC and MPB=MSB, socially optimal equilibrium is achieved.
+- ***WHEN*** $MPC=MSC=MPB=MSB$, ***allocative efficiency*** is achieved
 
 ##### Exernalities
 - Occur when the production or consumption of a good/service cause external costs and/or external benefits
@@ -73,3 +75,9 @@
 ###### Negative Production Externality
 - Imposing a tax on per unit of production or pollutant emission
 - Internalise the external cost (recognition)
+
+
+
+## Notes on Research
+- make sure to explain/define what the thingos are, mpc msc whatevs
+- 
