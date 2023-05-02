@@ -69,15 +69,24 @@
 	- Limit the quantity of output to producers
 	- Require technologies (methods of production) to reduce emissions
 
-######
+###### Negative Consumption Externality
+- Prevent consumer activities such as legal restrictions to smoking (public areas)
+- Reduce demand towards $MSB$
+	- Quantity lowered to $Q_o$ and price to $P_o$
 
 ##### Market Based Approaches
 ###### Negative Production Externality
 - Imposing a tax on per unit of production or pollutant emission
 - Internalise the external cost (recognition)
 
+###### Negative Consumption Externality
+- Impose indirect tax the size of the external cost
+- The impact of the tax is passed onto consumers as a higher price they now have to burden
+- Quantity drops to $Q_o$ and price increases to $P_c$
+
 
 
 ## Notes on Research
 - make sure to explain/define what the thingos are, mpc msc whatevs
-- 
+- don't contradict yourself and make sure all information is correct
+- like 15 references
