@@ -108,6 +108,10 @@
 - Direct Provision to increase consumption e.g. education and healthcare
 - Supply increases the size of government provision
 - Quantity falls to $Q_o$ and price to $P_c$
+- **Subsidies**
+	- Government can provide subsidies to producers to lower the cost and hence lower the price for consumers 
+	- Subsidy used to internalize the external benefit
+	- Quantity higher at Qo and price lower at pc
 
 
 ## Notes on Research
