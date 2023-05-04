@@ -104,6 +104,11 @@
 - MSC=MPC+subsidy
 - Quantity increases to $Q_o$ and price falls to $P_o$
 
+###### Positive Consumption Externality
+- Direct Provision to increase consumption e.g. education and healthcare
+- Supply increases the size of government provision
+- Quantity falls to $Q_o$ and price to $P_c$
+
 
 ## Notes on Research
 - make sure to explain/define what the thingos are, mpc msc whatevs
