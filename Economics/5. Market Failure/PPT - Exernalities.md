@@ -57,6 +57,8 @@
 	- Lower transport costs for local firms following construction of new roads
 
 #### How an externality can influence market efficiency i.e. a deadweight loss
+
+
 #### Policy options to correct for externalities, including the use of taxes and subsidies
 - **Two** types
 	- [[#Regulation/Legislation]] set by the government
@@ -74,6 +76,13 @@
 - Reduce demand towards $MSB$
 	- Quantity lowered to $Q_o$ and price to $P_o$
 
+###### Positive Production Externality
+- Direct government provision;
+	- coming out of government funds
+- $MPC$ shifts towards $MSC$
+- Quantity increases to $Q_o$ and price decreases to $P_o$
+
+
 ##### Market Based Approaches
 ###### Negative Production Externality
 - Imposing a tax on per unit of production or pollutant emission
@@ -84,6 +93,10 @@
 - The impact of the tax is passed onto consumers as a higher price they now have to burden
 - Quantity drops to $Q_o$ and price increases to $P_c$
 
+###### Positive Production Externality
+- Government can provide subsidies the size of the external cost (internalise)
+- MSC=MPC+subsidy
+- Quantity increases to $Q_o$ and price falls to $P_o$
 
 
 ## Notes on Research
