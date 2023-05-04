@@ -82,6 +82,12 @@
 - $MPC$ shifts towards $MSC$
 - Quantity increases to $Q_o$ and price decreases to $P_o$
 
+###### Positive Consumption Externality
+- **Legislation**: used to increase consumption e.g. compulsory ages to education
+- **Advertising**: used to increase consumption e.g. public advertisement for education
+- Demand increases from MPB to MSB
+- Quantity increases to $Q_o$ and price increases to $P_o$
+
 
 ##### Market Based Approaches
 ###### Negative Production Externality
@@ -94,7 +100,7 @@
 - Quantity drops to $Q_o$ and price increases to $P_c$
 
 ###### Positive Production Externality
-- Government can provide subsidies the size of the external benefit (internalise)
+- Government can provide subsidies the size of the external benefit   (internalise)
 - MSC=MPC+subsidy
 - Quantity increases to $Q_o$ and price falls to $P_o$
 
