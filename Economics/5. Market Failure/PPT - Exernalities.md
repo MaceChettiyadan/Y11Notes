@@ -94,7 +94,7 @@
 - Quantity drops to $Q_o$ and price increases to $P_c$
 
 ###### Positive Production Externality
-- Government can provide subsidies the size of the external cost (internalise)
+- Government can provide subsidies the size of the external benefit (internalise)
 - MSC=MPC+subsidy
 - Quantity increases to $Q_o$ and price falls to $P_o$
 
