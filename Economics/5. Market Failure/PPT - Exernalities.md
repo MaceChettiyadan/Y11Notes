@@ -118,3 +118,4 @@
 - make sure to explain/define what the thingos are, mpc msc whatevs
 - don't contradict yourself and make sure all information is correct
 - like 15 references
+- need gov regulation and tax, so both a market based approach and regulation/legislation
