@@ -38,6 +38,9 @@
 - Occurs when waves either pass through a gap or around an obstacle and the wave fronts are deformed (bend). IF $\lambda \geq d$ where $\lambda$ = wavelength and $d=$ size of gap
 - If two crests meet, they constructively interfere to form a crest with an amplitude which is the sum of both amplitude
 
+#### Resonance
+- No calculation questions in the test
+
 
 ###### Conditions for a standing wave
 - Of equal amplitude
