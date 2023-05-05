@@ -41,7 +41,6 @@
 #### Resonance
 - No calculation questions in the test
 
-
 ###### Conditions for a standing wave
 - Of equal amplitude
 - Same frequency
