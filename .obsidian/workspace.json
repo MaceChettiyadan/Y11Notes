@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/5. Market Failure/PPT - Exernalities.md",
+                "file": "Economics/5. Market Failure/PPT - Externalities.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/5. Market Failure/PPT - Exernalities.md",
+                "file": "Economics/5. Market Failure/PPT - Externalities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/5. Market Failure/PPT - Exernalities.md",
+                "file": "Economics/5. Market Failure/PPT - Externalities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/5. Market Failure/PPT - Exernalities.md"
+                "file": "Economics/5. Market Failure/PPT - Externalities.md"
               }
             }
           }
@@ -161,9 +161,9 @@
   },
   "active": "5b4142057189f1d9",
   "lastOpenFiles": [
-    "Physics/Waves.md",
     "Economics/5. Market Failure/PPT - Causes of Market Failure.md",
-    "Economics/5. Market Failure/PPT - Exernalities.md",
+    "Economics/5. Market Failure/PPT - Externalities.md",
+    "Physics/Waves.md",
     "Compsci/ExamJanks™️.md",
     "netlify.toml",
     "home.md",
