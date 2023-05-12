@@ -47,8 +47,11 @@
 	- *Public franchises*: granted by the government to a firm which is to produce or supply a particular good or service
 	- *Tariffs, quotas and other trade restrictions*: limit the quantities of a good that can be imported into a country
 - *Control of essential resources*: monopolies can arise from ownership or control of an essential resource
-	- DeBeers (diamonds)
+	- De Beers (diamonds)
 - *Aggressive tactics*: when existing firms use tactics to discourage new firms from entering the market
+
+##### Anti-competitive behaviour
+- Agreements or arrangements between firms that seek to restrain competition and remove the automatic regulation that competitive markets achieve
 
 #### Explain how market power can influence market efficiency, i.e. a deadweight loss
 #### Discuss the policy options to influence market power, including regulation/legislation
