@@ -59,3 +59,8 @@
 
 #### Explain how market power can influence market efficiency, i.e. a deadweight loss
 #### Discuss the policy options to influence market power, including regulation/legislation
+- There is a DWL due to underproduction.
+- If there is a natural monopoly, it is not in society's interest to break it up into smaller firms
+	- This would result in *higher firms*
+- Governments usually **regulate** natural monopolies to ensure more desirable price and quantity outcomes
+	- Governments also control who enters the market
