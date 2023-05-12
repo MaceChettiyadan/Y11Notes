@@ -1,8 +1,3 @@
-
-
-#### Outline the characteristics of an imperfectly competitive market
-#### Explain the concept and causes of market power
-
 ##### Types of Markets
 - **Perfect Competition**
 	- Large number of buyers and sellers
@@ -54,6 +49,8 @@
 - Agreements or arrangements between firms that seek to restrain competition and remove the automatic regulation that competitive markets achieve
 
 
+#### Outline the characteristics of an imperfectly competitive market
+#### Explain the concept and causes of market power
 - A firm has *market power* if it is able to affect the market price by varying output
 	- Firms in an imperfect market have market power as they are able to do so
 		- E.g. monopolies and oligopolies
