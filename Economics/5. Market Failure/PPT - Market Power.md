@@ -35,6 +35,7 @@
 	- As a result, a large firm can charge a lower price than a smaller firm
 	- This forces smaller firms out of the market, and is $\therefore$ a barrier to entry
 - *Branding*: creation by a firm of a unique image and name of a product
+	- Advertising campaigns that try to influence consumer tastes in favour of the product
 	- Does not lead to monopolies, methods used by oligopoly and monopolistic competition, e.g. crapple.
 
 #### Explain how market power can influence market efficiency, i.e. a deadweight loss
