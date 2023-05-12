@@ -27,6 +27,12 @@
 	- Information is imperfect
 	- Firms are price Setters
 	- E.g. phones and computers
+##### Barriers to Entry
+- *Economies of scale*: permitting lower average costs to be achieved as the firm increases its size
+	- As a result, a large firm can charge a lower price than a smaller firm
+	- This forces smaller firms out of the market, and is $\therefore$ a barrier to entry
+- *Branding*: creation by a firm of a unique image and name of a product
+	- Does not lead to monopolies, methods used by oligopoly and monopolistic competition, e.g. crapple.
 
 #### Explain how market power can influence market efficiency, i.e. a deadweight loss
 #### Discuss the policy options to influence market power, including regulation/legislation
