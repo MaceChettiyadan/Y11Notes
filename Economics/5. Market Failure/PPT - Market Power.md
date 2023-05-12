@@ -2,6 +2,8 @@
 
 #### Outline the characteristics of an imperfectly competitive market
 #### Explain the concept and causes of market power
+
+##### Types of Markets
 - **Perfect Competition**
 	- Large number of buyers and sellers
 	- Firms are price takers (no market powers)
@@ -27,6 +29,7 @@
 	- Information is imperfect
 	- Firms are price Setters
 	- E.g. phones and computers
+
 ##### Barriers to Entry
 - *Economies of scale*: permitting lower average costs to be achieved as the firm increases its size
 	- As a result, a large firm can charge a lower price than a smaller firm
