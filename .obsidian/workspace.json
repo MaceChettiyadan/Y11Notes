@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/5. Market Failure/PPT - Externalities.md",
+                "file": "Economics/5. Market Failure/PPT - Market Power.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/5. Market Failure/PPT - Externalities.md",
+                "file": "Economics/5. Market Failure/PPT - Market Power.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/5. Market Failure/PPT - Externalities.md",
+                "file": "Economics/5. Market Failure/PPT - Market Power.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/5. Market Failure/PPT - Externalities.md"
+                "file": "Economics/5. Market Failure/PPT - Market Power.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "5b4142057189f1d9",
   "lastOpenFiles": [
-    "Economics/5. Market Failure/PPT - Causes of Market Failure.md",
     "Economics/5. Market Failure/PPT - Externalities.md",
+    "Economics/5. Market Failure/PPT - Market Power.md",
+    "Economics/5. Market Failure/PPT - Causes of Market Failure.md",
     "Physics/Waves.md",
     "Compsci/ExamJanks™️.md",
     "netlify.toml",
@@ -190,7 +191,6 @@
     "WaveGraph.svg",
     "Untitled Diagram.svg",
     "Physics/Inclined planes.md",
-    "Physics/Force.md",
     "Images/RentNYC.svg",
     "Images/Tax.svg",
     "Images/QTYDWLb.svg",
