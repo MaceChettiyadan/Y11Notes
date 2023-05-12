@@ -72,3 +72,7 @@
 	- Reduce the incentives for businesses to compete
 	- Limiting the choice and information available to consumers
 - These can be *deregulated* to increase competition
+##### Legislation
+- Put in place to limit anti-competitive behaviours to achieve a greater degree of allocative efficiency
+- **ACCC** aims to protect, strengthen and supplement the way competition works in Australian markets and industries
+	- They enfore the competition and consumer act 2010 and other legislation prommoting competition and fair trading
