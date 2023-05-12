@@ -37,6 +37,15 @@
 - *Branding*: creation by a firm of a unique image and name of a product
 	- Advertising campaigns that try to influence consumer tastes in favour of the product
 	- Does not lead to monopolies, methods used by oligopoly and monopolistic competition, e.g. crapple.
+- ***Legal Barriers***
+	- *Patents*: rights given by the government to a firm that has developed a new product or invention to be its sole producer for a specified period of time
+		- They will have a monopoly during this time
+	- *Licenses*: granted by governments for particular professions or industries
+		- Does not necesserily lead to monopoly, but may prevent competition
+		- Radio, TV.
+	- *Copyright*: Guarantee that an author has the sole rights to print, publish and sell copyrighted work
+	- *Public franchises*: granted by the government to a firm which is to produce or supply a particular good or service
+	- *Tariffs, quotas and other trade restrictions*: limit the quantities of a good that can be imported into a country
 
 #### Explain how market power can influence market efficiency, i.e. a deadweight loss
 #### Discuss the policy options to influence market power, including regulation/legislation
