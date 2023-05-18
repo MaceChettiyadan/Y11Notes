@@ -37,13 +37,15 @@
 - The value $a$ for gravity is $9.8m \space s^{-2}$
 
 ##### Newton’s three Laws of Motion describe the relationship between the force or forces acting on an object, modelled as a point mass, and the motion of the object due to the application of the force or forces
+- Force is measured in $N$; it is a **vector quantity**
+
 1. 
 
 ##### Free body diagrams show the forces and net force acting on objects, from descriptions of real-life situations involving forces acting in one or two dimensions
 - This is an experience thing, just know how to do it.
 
 ##### Momentum is a property of moving objects; it is conserved in a closed system and may be transferred from one object to another when a force acts over a time interval
-- Momentum is conserved in a closed system and a property of moving objects. It is a **vector**
+- Momentum is conserved in a closed system and a property of moving objects. It is a **vector quantity**
 - $p=mv$
 	- mass x velocity
 	- measured by $kg \space m\space s^{-1}$
