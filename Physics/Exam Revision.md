@@ -27,3 +27,6 @@
 - **Acceleration-Time**
 	- Derivative is ***JERK*
 	- Integral is change in velocity
+
+###### Equations
+- When considering *maximum height* problems, there will exist a velocity $0$
