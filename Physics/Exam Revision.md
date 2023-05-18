@@ -45,3 +45,12 @@
 - $p=mv$
 	- mass x velocity
 	- measured by $kg \space m\space s^{-1}$
+- Momentum is *conserved in interactions between objects* and thus  $\sum\limits P$ before = $\sum\limits P$ after.
+
+
+
+## Questions
+(from pearson)
+1. Determine the resultant force when forces of $5.0N$ east and $3.0N$ north act on a tree.
+2. Determine the change in velocity of a ball as it bounces off a wall. The ball approaches at $7.0m\space s^{-1}$ south and rebounds at $6.0m \space s^{-1}$ east. Make sure to include an appropriate vector diagram.
+3. Bob is applying a force of $15.0N$ to a sled on a frictionless surface, using a handle that is angled $50\degree$ to the ground. The sled weighs $7.45kg$. What is its acceleration?
