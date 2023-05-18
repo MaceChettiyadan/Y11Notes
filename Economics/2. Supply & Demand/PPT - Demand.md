@@ -7,7 +7,7 @@
 	- **Income** effect - when a product becomes more expensive, it takes up a larger portion of a consumers' income and so the consumer has less to spend on other goods
 		- The **purchasing power** of income is reduced
 
-###### The relationship between indvidual and market demand schedules and curves
+###### The relationship between individual and market demand schedules and curves
 - The **demand curve** is downward sloping, labelled 'D'. X-axis is labelled as quantity, and the Y-axis as price.
 - The **individual demand curve** is;
 	- The demand curve for an individual consumer

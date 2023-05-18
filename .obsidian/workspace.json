@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compsci/API.md",
+                "file": "Economics/3. Elasticity/PPT - PES.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "efficiency",
+                "query": "factor market",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compsci/API.md",
+                "file": "Economics/3. Elasticity/PPT - PES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compsci/API.md",
+                "file": "Economics/3. Elasticity/PPT - PES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compsci/API.md"
+                "file": "Economics/3. Elasticity/PPT - PES.md"
               }
             }
           }
@@ -161,7 +161,16 @@
   },
   "active": "5b4142057189f1d9",
   "lastOpenFiles": [
+    "Economics/1. Introduction/PPT.md",
+    "Economics/2. Supply & Demand/Homework.md",
+    "Economics/3. Elasticity/PPT - PES.md",
+    "Economics/3. Elasticity/PPT - PED.md",
+    "Economics/3. Elasticity/Test Tips.md",
+    "Economics/3. Elasticity/Homework.md",
+    "Economics/2. Supply & Demand/PPT - Equilibrium.md",
     "Physics/Waves.md",
+    "Economics/2. Supply & Demand/PPT - Supply.md",
+    "Economics/2. Supply & Demand/PPT - Demand.md",
     "Compsci/API.md",
     "Economics/5. Market Failure/PPT - Market Power.md",
     "Economics/5. Market Failure/PPT - Externalities.md",
@@ -176,19 +185,10 @@
     "Physics/Equations of Motion.md",
     "Economics/4. Market Efficiency/PPT - Market Efficiency.md",
     "Economics/5. Market Failure",
-    "Economics/3. Elasticity/PPT - PED.md",
-    "Economics/3. Elasticity/Test Tips.md",
-    "Economics/3. Elasticity/PPT - PES.md",
     "Compsci/Functions (Modules).md",
     "Compsci/Intro & Revision.md",
     "Compsci/Iteration/Iteration - WHILE.md",
     "Economics/4. Market Efficiency/Homework.md",
-    "Physics/Vectors & Scalars.md",
-    "Physics/Test Notes.md",
-    "Physics/Collisions.md",
-    "Physics/Energy & Work.md",
-    "Physics/Momentum.md",
-    "Physics/SIS & Error in Physics.md",
     "WaveGraph.svg",
     "Untitled Diagram.svg",
     "Images/RentNYC.svg",

@@ -16,7 +16,7 @@
 	- Similar to demand; in the short run, goods will be priced inelastic because ***they won't be responsive***.
 	- In the long run, there is more time for firms to respond to price changes
 - **Nature of the industry**
-	- What kind of industry it is (wow!). A market that produces pencils can easily change production, whereas in a market for agriculture, there is heavy time taken for producttion.
+	- What kind of industry it is. A market that produces pencils can easily change production, whereas in a market for agriculture, there is heavy time taken for producttion.
 - **Ability to store inventories**
 	- If a business is able to easily store inventories, then it is going to more responsive and elastic in supply
 
