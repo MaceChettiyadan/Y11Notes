@@ -38,8 +38,8 @@
 
 ##### Newton’s three Laws of Motion describe the relationship between the force or forces acting on an object, modelled as a point mass, and the motion of the object due to the application of the force or forces
 - Force is measured in $N$; it is a **vector quantity**
-
-1. 
+- Laws
+	1. An object will maintain constant velocity unless an unbalanced, external force acts on it
 
 ##### Free body diagrams show the forces and net force acting on objects, from descriptions of real-life situations involving forces acting in one or two dimensions
 - This is an experience thing, just know how to do it.
