@@ -11,12 +11,12 @@
 
 ##### Uniformly accelerated motion is described in terms of relationships between measurable scalar and vector quantities, including displacement, speed, velocity and acceleration —this includes applying SUVAT
 - The quantities:
-	- Displacement is a vector $m$
+	- Displacement is a **vector** $m$
 	- Speed is a scalar $m \space s ^{-1}$
-	- Velocity is a vector $m \space s ^{-1}$
-	- Acceleration is a vector $m \space s ^{-2}$
+	- Velocity is a **vector** $m \space s ^{-1}$
+	- Acceleration is a **vector** $m \space s ^{-2}$
 - Remember, simultaneous may have to be done between the SUVATs
-- The value $a$ for gravity is $9.8m \space s^{-2}$
+
 ##### Representations, including graphs, vectors, and equations of motion, can be used qualitatively and quantitatively to describe and predict linear motion
 - N.B. m/s to km/h is multiplication by 3.6, and vice versa.
 
@@ -32,3 +32,16 @@
 - When considering *maximum height* problems, there will exist a velocity $0$
 - On inclined planes, use the equation $g \space \sin(\theta)$
 	- Remember, mass has no impact on acceleration (though it does on friction, but on inclined plane questions friction is usually discounted)
+
+##### Vertical motion is analysed by assuming the acceleration due to gravity is constant near Earth’s surface
+- The value $a$ for gravity is $9.8m \space s^{-2}$
+
+##### Newton’s three Laws of Motion describe the relationship between the force or forces acting on an object, modelled as a point mass, and the motion of the object due to the application of the force or forces
+
+##### Free body diagrams show the forces and net force acting on objects, from descriptions of real-life situations involving forces acting in one or two dimensions
+
+##### Momentum is a property of moving objects; it is conserved in a closed system and may be transferred from one object to another when a force acts over a time interval
+- Momentum is conserved in a closed system and a property of moving objects. It is a **vector**
+- $p=mv$
+	- mass x velocity
+	- measured by $kg \space m\space s^{-1}$
