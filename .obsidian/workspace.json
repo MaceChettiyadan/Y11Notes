@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Waves.md",
+                "file": "Physics/Exam Revision.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Waves.md",
+                "file": "Physics/Exam Revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Waves.md",
+                "file": "Physics/Exam Revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Waves.md"
+                "file": "Physics/Exam Revision.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "5b4142057189f1d9",
   "lastOpenFiles": [
+    "Physics/Waves.md",
+    "Physics/Exam Revision.md",
     "Economics/4. Market Efficiency/PPT - Market Efficiency.md",
     "Economics/3. Elasticity/PPT - PES.md",
     "Economics/1. Introduction/PPT.md",
@@ -169,7 +171,6 @@
     "Economics/3. Elasticity/Test Tips.md",
     "Economics/3. Elasticity/Homework.md",
     "Economics/2. Supply & Demand/PPT - Equilibrium.md",
-    "Physics/Waves.md",
     "Economics/2. Supply & Demand/PPT - Supply.md",
     "Economics/2. Supply & Demand/PPT - Demand.md",
     "Compsci/API.md",
@@ -188,7 +189,6 @@
     "Compsci/Functions (Modules).md",
     "Compsci/Intro & Revision.md",
     "Compsci/Iteration/Iteration - WHILE.md",
-    "Economics/4. Market Efficiency/Homework.md",
     "WaveGraph.svg",
     "Untitled Diagram.svg",
     "Images/RentNYC.svg",
