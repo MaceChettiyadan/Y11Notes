@@ -1,5 +1,5 @@
 ## Linear Motion
-###### Distinguish between scalar and vector quantities, and add and subtract vectors in one dimension
+##### Distinguish between scalar and vector quantities, and add and subtract vectors in one dimension
 - Scalar quantities have a magnitude, Vectors have both direction and magnitude
 	- Scalar - distance, e.g. $4.57m$
 	- Vector - displacement, e.g. $4.57m \space South$
@@ -9,8 +9,7 @@
 		- As such, this would be $16.6ms^{-1}$ north + $18.7ms^{-1}$ east
 		- Work from there.
 
-
-###### Uniformly accelerated motion is described in terms of relationships between measurable scalar and vector quantities, including displacement, speed, velocity and acceleration —this includes applying SUVAT
+##### Uniformly accelerated motion is described in terms of relationships between measurable scalar and vector quantities, including displacement, speed, velocity and acceleration —this includes applying SUVAT
 - The quantities:
 	- Displacement is a vector $m$
 	- Speed is a scalar $m \space s ^{-1}$
@@ -18,4 +17,13 @@
 	- Acceleration is a vector $m \space s ^{-2}$
 - Remember, simultaneous may have to be done between the SUVATs
 - The value $a$ for gravity is $9.8m \space s^{-2}$
-###### Representations, including graphs, vectors, and equations of motion, can be used qualitatively and quantitatively to describe and predict linear motion
+##### Representations, including graphs, vectors, and equations of motion, can be used qualitatively and quantitatively to describe and predict linear motion
+- N.B. m/s to km/h is multiplication by 3.6, and vice versa.
+
+###### Graphs
+- **Velocity-Time**
+	- Derivative is acceleration
+	- Integral is displacement
+- **Acceleration-Time**
+	- Derivative is ***JERK*
+	- Integral is change in velocity
