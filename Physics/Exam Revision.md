@@ -47,6 +47,8 @@
 	- measured by $kg \space m\space s^{-1}$
 - Momentum is *conserved in interactions between objects* and thus  $\sum\limits P$ before = $\sum\limits P$ after.
 	- Since it involves many vectors, to get direction easily, assign a negative and a positive.
+- *Change in* momentum is **impulse**
+	- $=mv-mu=m(v-u)=m\Delta v$
 
 
 
@@ -57,4 +59,5 @@
 3. Bob is applying a force of $15.0N$ to a sled on a frictionless surface, using a handle that is angled $50\degree$ to the ground. The sled weighs $7.45kg$. What is its acceleration?
 4. A golf ball is dropped onto a concrete floor and strikes the floor at $9.0m \space s^{-1}$. It then rebounds at $7.00m \space s^{-1}$. The contact time with the floor is $35ms$. What is the average acceleration of the ball during its contact with the floor?
 5. A cyclist takes $4.00s$ to slow down at $-3.00m \space s^{-2}$ and completely stop. Calculate the initial velocity of the cyclist.
-6. A $1200kg$ wrecking ball is moving at $2.50m \space s^{-1}$ north towards a $1500kg$ wrecking ball moving at $4.00m \space s^{-1}$ south. Calculate the final velocity of the more massive wrecking ball is the other ball rebounds at $3.50m \space s^{-1}$ south.
+6. A $1200kg$ wrecking ball is moving at $2.50m \space s^{-1}$ north towards a $1500kg$ wrecking ball moving at $4.00m \space s^{-1}$ south. Calculate the final velocity of the more massive wrecking ball if the other ball rebounds at $3.50m \space s^{-1}$ south.
+7. A $65.0g$ pool ball is moving at $0.250m \space s^{-1}$ south towards a cushion and bounces off at $0.200 m \space s^{-1}$ east. Calcualte the impulse on the ball during the change in velocity.
