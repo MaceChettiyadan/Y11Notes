@@ -51,4 +51,3 @@
 	- $I=\frac{P}{A}$ where the units are $W m^{-2}$ or, more familiarly, the logarithmic $dB$ scale.
 - The model assumes no loss in energy
 	- The reason $A$ decreases is because the power is being spread about a larger area; if $A$ stayed the same, there would be an ***INFINITE ENERGY GLITCH*
-- 
