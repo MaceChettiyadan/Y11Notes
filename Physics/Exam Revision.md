@@ -30,3 +30,5 @@
 
 ###### Equations
 - When considering *maximum height* problems, there will exist a velocity $0$
+- On inclined planes, use the equation $g \space \sin(\theta)$
+	- Remember, mass has no impact on acceleration (though it does on friction, but on inclined plane questions friction is usually discounted)
