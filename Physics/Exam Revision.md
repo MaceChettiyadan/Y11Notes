@@ -37,7 +37,7 @@
 - The value $a$ for gravity is $9.8m \space s^{-2}$
 
 ##### Newton’s three Laws of Motion describe the relationship between the force or forces acting on an object, modelled as a point mass, and the motion of the object due to the application of the force or forces
-
+1. 
 
 ##### Free body diagrams show the forces and net force acting on objects, from descriptions of real-life situations involving forces acting in one or two dimensions
 - This is an experience thing, just know how to do it.
@@ -51,6 +51,7 @@
 	- Since it involves many vectors, to get direction easily, assign a negative and a positive.
 - *Change in* momentum is **impulse**
 	- $=mv-mu=m(v-u)=m\Delta v$
+	- Unit is $N s$ (Newton-Seconds) and is a **vector quantity**
 
 
 
