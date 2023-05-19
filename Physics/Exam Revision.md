@@ -37,10 +37,15 @@
 - The value $a$ for gravity is $9.8m \space s^{-2}$
 
 ##### Newton’s three Laws of Motion describe the relationship between the force or forces acting on an object, modelled as a point mass, and the motion of the object due to the application of the force or forces
-- Force is measured in $N$; it is a **vector quantity**
+- Force ($F$) is measured in $N$; it is a **vector quantity**
 - Laws
 	1. An object will maintain constant velocity unless an unbalanced, external force acts on it - informally, 'no force, no acceleration'
-	2. 
+		- *Inertia* is considered to be the resistance to a change in motion of an object.
+		- It is directly related to momentum.
+		- Due to inertia, an object will continue with its motion unless a net force acts on the object.
+	2. $F=ma$
+		- i.e. 'The acceleration of an object is directly proportional to the net force on the object and inversely proportional to the mass of the object'
+		- $F=ma, \space \therefore F=\frac{\Delta p}{\Delta t}$
 
 ##### Free body diagrams show the forces and net force acting on objects, from descriptions of real-life situations involving forces acting in one or two dimensions
 - This is an experience thing, just know how to do it.
@@ -67,3 +72,4 @@
 5. A cyclist takes $4.00s$ to slow down at $-3.00m \space s^{-2}$ and completely stop. Calculate the initial velocity of the cyclist.
 6. A $1200kg$ wrecking ball is moving at $2.50m \space s^{-1}$ north towards a $1500kg$ wrecking ball moving at $4.00m \space s^{-1}$ south. Calculate the final velocity of the more massive wrecking ball if the other ball rebounds at $3.50m \space s^{-1}$ south.
 7. A $65.0g$ pool ball is moving at $0.250m \space s^{-1}$ south towards a cushion and bounces off at $0.200 m \space s^{-1}$ east. Calculate the impulse on the ball during the change in velocity.
+8. Calculate the fnal velocity of a $307g$ fsh that accelerates for $5.20s$ from rest due to a force of $0.250N$ left.
