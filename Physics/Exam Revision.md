@@ -83,8 +83,6 @@
 
 ##### Power is the rate of doing work or transferring energy
 - Measures in **Watts** as a **Scalar**
-- 
-
 
 #### Car Crashes
 ##### Seatbelts
@@ -96,6 +94,7 @@
 ##### Crumple zones, helmets and safety barriers
 - Same as airbags. Increase time, decreasing force.
 
+## Waves
 
 
 ## Questions
