@@ -63,6 +63,13 @@
 	- $=mv-mu=m(v-u)=m\Delta v$
 	- Unit is $N s$ (Newton-Seconds) and is a **vector 
 
+##### Energy is conserved in isolated systems and is transferred from one object to another when a force is applied over a distance; this causes work to be done and changes the kinetic (Ek) and/or potential (Ep) energy of objects
+- Energy is the capacity to cause a change
+- **Kinetic** and **Potential** energy are both types of **Mechanical** energy, measures in **Joules**
+	- Any moving object has kinetic energy. 
+	- Potential energy is the energy of objects relative to one another or in fields.
+- **Work** is the transferring or transforming of energy on an object.
+
 #### Car Crashes
 ##### Seatbelts
 - Due to Newton's first law, if a car suddenly decelerates, then the occupants will stay in motion, flying out the window or hitting it (bad). Seatbelts oppose the inertia of occupants' bodies.
