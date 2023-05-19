@@ -69,9 +69,10 @@
 	- Any moving object has kinetic energy. 
 	- Potential energy is the energy of objects relative to one another or in fields.
 - **Work** is the transferring or transforming of energy on an object.
-	- $W=Fs$
+	- $W=Fs$ or $W=Fs\cos \theta$ where $\theta$ is the angle between $F$ and $s$
 	- It is measured in **Joules** as a **Scalar**
 	- If a force is applied on an object but it does not move ($s=0$), then no work is done on it.
+	- On a **force-displacement** graph, **work** is the integral.
 
 #### Car Crashes
 ##### Seatbelts
