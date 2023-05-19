@@ -75,3 +75,4 @@
 6. A $1200kg$ wrecking ball is moving at $2.50m \space s^{-1}$ north towards a $1500kg$ wrecking ball moving at $4.00m \space s^{-1}$ south. Calculate the final velocity of the more massive wrecking ball if the other ball rebounds at $3.50m \space s^{-1}$ south.
 7. A $65.0g$ pool ball is moving at $0.250m \space s^{-1}$ south towards a cushion and bounces off at $0.200 m \space s^{-1}$ east. Calculate the impulse on the ball during the change in velocity.
 8. Calculate the fnal velocity of a $307g$ fsh that accelerates for $5.20s$ from rest due to a force of $0.250N$ left.
+9. A student drops a $56.0g$ egg onto a table from a height of $60 cm$. Just before it hits the table, the velocity of the egg is $3.43m\space s^{−1}$ down. The egg’s fnal velocity is zero as it smashes on the table. The time it takes for the egg to change its velocity to zero is $3.55ms$.
