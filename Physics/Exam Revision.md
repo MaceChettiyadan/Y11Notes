@@ -46,6 +46,8 @@
 	2. $F=ma$
 		- i.e. 'The acceleration of an object is directly proportional to the net force on the object and inversely proportional to the mass of the object'
 		- $F=ma, \space \therefore F=\frac{\Delta p}{\Delta t}$
+	3. For every action (force), there is an equal and opposite reaction (force).
+
 
 ##### Free body diagrams show the forces and net force acting on objects, from descriptions of real-life situations involving forces acting in one or two dimensions
 - This is an experience thing, just know how to do it.
