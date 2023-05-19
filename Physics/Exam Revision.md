@@ -61,7 +61,17 @@
 	- Since it involves many vectors, to get direction easily, assign a negative and a positive.
 - *Change in* momentum is **impulse**
 	- $=mv-mu=m(v-u)=m\Delta v$
-	- Unit is $N s$ (Newton-Seconds) and is a **vector quantity**
+	- Unit is $N s$ (Newton-Seconds) and is a **vector 
+
+#### Car Crashes
+##### Seatbelts
+- Due to Newton's first law, if a car suddenly decelerates, then the occupants will stay in motion, flying out the window or hitting it (bad). Seatbelts oppose the inertia of occupants' bodies.
+
+##### Airbag
+- As the occupants move forward due to inertia, airbags increase the time that the force is applied. Due to this, impulse is drawn out over a greater period of time and force is minimized.
+
+##### Crumple zones, helmets and safety barriers
+- Same as airbags. Increase time, decreasing force.
 
 
 
