@@ -71,6 +71,7 @@
 	- Potential energy is the energy of objects relative to one another or in fields.
 - **Work** is the transferring or transforming of energy on an object.
 	- $W=Fs$ or $W=Fs\cos \theta$ where $\theta$ is the angle between $F$ and $s$
+		- or $=\frac{1}{2}mv^2-\frac{1}{2}mu^2$
 	- It is measured in **Joules** as a **Scalar**
 	- If a force is applied on an object but it does not move ($s=0$), then no work is done on it.
 	- On a **force-displacement** graph, **work** is the integral.
@@ -97,4 +98,5 @@
 6. A $1200kg$ wrecking ball is moving at $2.50m \space s^{-1}$ north towards a $1500kg$ wrecking ball moving at $4.00m \space s^{-1}$ south. Calculate the final velocity of the more massive wrecking ball if the other ball rebounds at $3.50m \space s^{-1}$ south.
 7. A $65.0g$ pool ball is moving at $0.250m \space s^{-1}$ south towards a cushion and bounces off at $0.200 m \space s^{-1}$ east. Calculate the impulse on the ball during the change in velocity.
 8. Calculate the fnal velocity of a $307g$ fsh that accelerates for $5.20s$ from rest due to a force of $0.250N$ left.
-9. A student drops a $56.0g$ egg onto a table from a height of $60 cm$. Just before it hits the table, the velocity of the egg is $3.43m\space s^{−1}$ down. The egg’s fnal velocity is zero as it smashes on the table. The time it takes for the egg to change its velocity to zero is $3.55ms$.
+9. A student drops a $56.0g$ egg onto a table from a height of $60 cm$. Just before it hits the table, the velocity of the egg is $3.43m\space s^{−1}$ down. The egg’s final velocity is zero as it smashes on the table. The time it takes for the egg to change its velocity to zero is $3.55ms$.
+10. A car with a mass of $1200kg$ is travelling at $90km\space h^{−1}$. Calculate its kinetic energy at this speed.
