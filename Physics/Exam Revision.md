@@ -65,10 +65,13 @@
 
 ##### Energy is conserved in isolated systems and is transferred from one object to another when a force is applied over a distance; this causes work to be done and changes the kinetic (Ek) and/or potential (Ep) energy of objects
 - Energy is the capacity to cause a change
-- **Kinetic** and **Potential** energy are both types of **Mechanical** energy, measures in **Joules**
+- **Kinetic** and **Potential** energy are both types of **Mechanical** energy, measures in **Joules** as a **Scalar**
 	- Any moving object has kinetic energy. 
 	- Potential energy is the energy of objects relative to one another or in fields.
 - **Work** is the transferring or transforming of energy on an object.
+	- $W=Fs$
+	- It is measured in **Joules** as a **Scalar**
+	- If a force is applied on an object but it does not move ($s=0$), then no work is done on it.
 
 #### Car Crashes
 ##### Seatbelts
