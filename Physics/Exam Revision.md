@@ -80,7 +80,11 @@
 
 ##### Collisions may be elastic and inelastic; kinetic energy is conserved in elastic collisions
 - Literally what the objective says.
+
+##### Power is the rate of doing work or transferring energy
+- Measures in **Watts** as a **Scalar**
 - 
+
 
 #### Car Crashes
 ##### Seatbelts
@@ -110,3 +114,4 @@
 12. A $200g$ snooker ball with initial velocity $9.0m\space s^{−1}$ to the right collides with a stationary snooker ball of mass $100g$. After the collision, both balls are moving to the right and the $200g$ ball has a speed of $3.0m\space s^{−1}$. Show calculations to test whether or not the collision is inelastic.
 13. A father picks up his baby from its bed. The baby has a mass of $6.0kg$ and the mattress of the bed is $70cm$ above the ground. When the father holds the baby in his arms, it is $125cm$ off the ground. Calculate the increase in gravitational potential energy of the baby, taking $g$ as $9.80N\space kg^{−1}$ and giving your answer correct to two signifcant fgures.
 14. An arrow with a mass of $35g$ is fred into the air at $80m\space s^{−1}$ from a height of $1.4m$. Calculate the speed of the arrow when it has reached a height of $30m$.
+15. An $800.0kg$ racecar’s engine is capable of generating $120kW$ of power. How long does it take the car to accelerate from $40.0m\space s^{−1}$ to $55.0m\space s^{−1}$?
