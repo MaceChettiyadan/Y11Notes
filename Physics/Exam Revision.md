@@ -69,12 +69,14 @@
 	- Any moving object has kinetic energy. 
 		- $=\frac{1}{2}mv^2$
 	- Potential energy is the energy of objects relative to one another or in fields.
+		- Gravitational potential Energy (GPE) is $mgh$
 - **Work** is the transferring or transforming of energy on an object.
 	- $W=Fs$ or $W=Fs\cos \theta$ where $\theta$ is the angle between $F$ and $s$
 		- or $=\frac{1}{2}mv^2-\frac{1}{2}mu^2$
 	- It is measured in **Joules** as a **Scalar**
 	- If a force is applied on an object but it does not move ($s=0$), then no work is done on it.
 	- On a **force-displacement** graph, **work** is the integral.
+- **Total Mechanical Energy** is the sum of kinetic and GPE energies
 
 ##### Collisions may be elastic and inelastic; kinetic energy is conserved in elastic collisions
 - Literally what the objective says.
@@ -106,3 +108,5 @@
 10. A car with a mass of $1200kg$ is travelling at $90km\space h^{−1}$. Calculate its kinetic energy at this speed.
 11. As a bus with a mass of $10$ tonnes approaches a school it slows from $60km\space h^{−1}$ to $40km\space h^{−1}$. Calculate, to 2 sig figs, the work done by the brakes on the bus and the average force applied by the truck's brakes if it travels $40m$ over deceleration.
 12. A $200g$ snooker ball with initial velocity $9.0m\space s^{−1}$ to the right collides with a stationary snooker ball of mass $100g$. After the collision, both balls are moving to the right and the $200g$ ball has a speed of $3.0m\space s^{−1}$. Show calculations to test whether or not the collision is inelastic.
+13. A father picks up his baby from its bed. The baby has a mass of $6.0kg$ and the mattress of the bed is $70cm$ above the ground. When the father holds the baby in his arms, it is $125cm$ off the ground. Calculate the increase in gravitational potential energy of the baby, taking $g$ as $9.80N\space kg^{−1}$ and giving your answer correct to two signifcant fgures.
+14. An arrow with a mass of $35g$ is fred into the air at $80m\space s^{−1}$ from a height of $1.4m$. Calculate the speed of the arrow when it has reached a height of $30m$.
