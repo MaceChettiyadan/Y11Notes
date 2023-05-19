@@ -67,6 +67,7 @@
 - Energy is the capacity to cause a change
 - **Kinetic** and **Potential** energy are both types of **Mechanical** energy, measures in **Joules** as a **Scalar**
 	- Any moving object has kinetic energy. 
+		- $=\frac{1}{2}mv^2$
 	- Potential energy is the energy of objects relative to one another or in fields.
 - **Work** is the transferring or transforming of energy on an object.
 	- $W=Fs$ or $W=Fs\cos \theta$ where $\theta$ is the angle between $F$ and $s$
