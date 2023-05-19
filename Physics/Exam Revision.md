@@ -78,6 +78,7 @@
 
 ##### Collisions may be elastic and inelastic; kinetic energy is conserved in elastic collisions
 - Literally what the objective says.
+- 
 
 #### Car Crashes
 ##### Seatbelts
@@ -104,3 +105,4 @@
 9. A student drops a $56.0g$ egg onto a table from a height of $60 cm$. Just before it hits the table, the velocity of the egg is $3.43m\space s^{−1}$ down. The egg’s final velocity is zero as it smashes on the table. The time it takes for the egg to change its velocity to zero is $3.55ms$.
 10. A car with a mass of $1200kg$ is travelling at $90km\space h^{−1}$. Calculate its kinetic energy at this speed.
 11. As a bus with a mass of $10$ tonnes approaches a school it slows from $60km\space h^{−1}$ to $40km\space h^{−1}$. Calculate, to 2 sig figs, the work done by the brakes on the bus and the average force applied by the truck's brakes if it travels $40m$ over deceleration.
+12. A $200g$ snooker ball with initial velocity $9.0m\space s^{−1}$ to the right collides with a stationary snooker ball of mass $100g$. After the collision, both balls are moving to the right and the $200g$ ball has a speed of $3.0m\space s^{−1}$. Show calculations to test whether or not the collision is inelastic.
