@@ -76,6 +76,9 @@
 	- If a force is applied on an object but it does not move ($s=0$), then no work is done on it.
 	- On a **force-displacement** graph, **work** is the integral.
 
+##### Collisions may be elastic and inelastic; kinetic energy is conserved in elastic collisions
+- Literally what the objective says.
+
 #### Car Crashes
 ##### Seatbelts
 - Due to Newton's first law, if a car suddenly decelerates, then the occupants will stay in motion, flying out the window or hitting it (bad). Seatbelts oppose the inertia of occupants' bodies.
