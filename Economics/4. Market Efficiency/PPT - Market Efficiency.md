@@ -46,8 +46,8 @@
 	- e.g. **income tax**
 - **Indirect tax**
 	- Consumers do not pay the tax directly, but are affected through changes in the price of the good or service
-		- **Specific tax**: the tac is a fixed amount or is a set sum of money per unit
-		- **Ad Valorem** tax: Where the tax is a percentage of the value of the diagram, e.g. GST
+		- **Specific tax**: the tax is a fixed amount or is a set sum of money per unit
+		- **Ad Valorem** tax: Where the tax is a percentage of the value of the good or service, e.g. GST
 
 ###### Subsidies
 - A payment by the government to a firm to reduce production costs and increase output #testanswer 
