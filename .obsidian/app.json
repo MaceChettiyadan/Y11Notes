@@ -6,5 +6,6 @@
   "showFrontmatter": true,
   "rightToLeft": false,
   "alwaysUpdateLinks": true,
-  "legacyEditor": false
+  "legacyEditor": false,
+  "spellcheck": true
 }
