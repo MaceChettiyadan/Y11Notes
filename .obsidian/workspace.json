@@ -20,24 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "632fb368ef6c2a19",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "55f3fe1e6e54a722",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/5. Market Failure/PPT - Externalities.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
