@@ -429,8 +429,22 @@ A **shortage** is where quantity demanded exceeds the quantity supplied
 ##### Legislation
 - Put in place to limit anti-competitive behaviours to achieve a greater degree of allocative efficiency
 - **ACCC** aims to protect, strengthen and supplement the way competition works in Australian markets and industries
-	- They enfore the competition and consumer act 2010 and other legislation prommoting competition and fair trading
+	- They enforce the competition and consumer act 2010 and other legislation promoting competition and fair trading
 
 ### Market Failure: Externalities
+#### Explain the concept of externalities, i.e. positive and negative externalities
+
+#### Explain the influence of externalities on market efficiency, i.e. a deadweight loss
+
+#### Discuss the policy options to correct for externalities, including the use of taxes and subsidies
+
+### Market Failure: Public Goods and Common Resources
+#### Outline the classification of goods
+
+#### Describe the public goods and the free rider effect
+
+#### Describe common resources and the tragedy of the commons
+
+#### Discuss the policy options to reduce market failure associated with public goods and common resources
 
 ## Unseen Dot Points
