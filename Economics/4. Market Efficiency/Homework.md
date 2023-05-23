@@ -1,6 +1,6 @@
 #### Outline the concept of market efficiency in a perfectly competitive market
 - **Efficiency** means producing the goods that society wants at the lowest possible cost.
-	- An efficient outcome means that it is not possible to ake someone better off without making someone worse off
+	- An efficient outcome means that it is not possible to make someone better off without making someone worse off
 
 #### Explain the concepts of consumer surplus, producer surplus, total surplus and deadweight loss
 ###### Consumer Surplus

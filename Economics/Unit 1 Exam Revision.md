@@ -302,8 +302,10 @@ A **shortage** is where quantity demanded exceeds the quantity supplied
 
 ### Market Efficiency
 #### Outline the concept of market efficiency in a perfectly competitive market
+- **Efficiency** means producing the goods that society wants at the lowest possible cost.
+	- An efficient outcome means that it is not possible to make someone better off without making someone worse off
+
 #### Explain the concepts of consumer surplus, producer surplus, total surplus and deadweight loss
-- **Efficiency** is the production of goods that society wants at the lowest possible price.
 ###### The *consumer* surplus ($CS$)
 - **Consumer Surplus** is the difference between what a consumer is prepared to pay and what they actually pay in the market #testanswer 
 - **Marginal Benefit** is the extra benefit from consuming one extra unit of the good or service
@@ -382,14 +384,52 @@ A **shortage** is where quantity demanded exceeds the quantity supplied
 3. New price and Quantity
 4. Compare Qs and Qd $\rightarrow$ shortage/surplus
 5. CS/PS/TS/DWL
-	- Talk about changes in CS/PS/TS, then talk about loss in efficiency i.e DWL.
+	- Talk about changes in CS/PS/TS, then talk about loss in efficiency i.e. DWL.
 
 ### Market Failure & Power
 #### Define the concept of market failure
+- Market failure is the situation defined by the inefficient distribution of goods and services in the free market
+
 #### Outline the characteristics of an imperfectly competitive market
+- A market that is competitive is characterised by
+	- A relatively **large number of firms**
+	- Firms not having [[#Market Power]]
+	- Firms not **differentiating** their products
+	- No **barriers to entry** - no licences, blocking of resources, etc.
+- However, when these conditions *are not met*, then the market is considered **imperfectly competitive market**.
+	- Synergy, Australia Post
+
+
 #### Explain the concept and causes of market power
+- A firm has **market power** if it can affect the market price by varying its output.
+- Monopoly and oligopoly firms have lots of market power
+- Firms with market power will attempt to maximize profit
+	- In doing so, their priorities may not align with society's, and thus a *socially optimal level of output* may not be produced
+
 #### Explain how market power can influence market efficiency
+- A competitive market (with firms not having market power) will produce where demand equals supply
+	- At the equilibrium, we know $TS$ is maximized, so the market is as efficient as possible
+- In the case of **market power**, quantity will not be at this equilibrium, and thus a deadweight loss is created
+	- This means that *market efficiency is reduced if firms have market power*
+
 #### Discuss the policy options to influence market power, incl. regulation/deregulation and legislation
+##### Regulation
+- There is a DWL due to underproduction.
+- If there is a natural monopoly, it is not in society's interest to break it up into smaller firms
+	- This would result in *higher firms*
+- Governments usually **regulate** natural monopolies to ensure more desirable price and quantity outcomes
+	- Governments also control who enters the market
+##### Deregulation
+- Government regulations that restrict competition include
+	- Limiting the number of businesses
+	- Limiting ability to compete
+	- Reduce the incentives for businesses to compete
+	- Limiting the choice and information available to consumers
+- These can be *deregulated* to increase competition
+##### Legislation
+- Put in place to limit anti-competitive behaviours to achieve a greater degree of allocative efficiency
+- **ACCC** aims to protect, strengthen and supplement the way competition works in Australian markets and industries
+	- They enfore the competition and consumer act 2010 and other legislation prommoting competition and fair trading
 
 ### Market Failure: Externalities
 

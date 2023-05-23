@@ -19,7 +19,7 @@
 
 #### Explain how market power can influence market efficiency
 - A competitive market (with firms not having market power) will produce where demand equals supply
-	- At the equilibirium, we know $TS$ is maximized, so the market is as efficient as possible
+	- At the equilibrium, we know $TS$ is maximized, so the market is as efficient as possible
 - In the case of **market power**, quantity will not be at this equilibrium, and thus a deadweight loss is created
 	- This means that *market efficiency is reduced if firms have market power*
 

@@ -9,9 +9,9 @@
 - When MPC=MSC and MPB=MSB, socially optimal equilibrium is achieved.
 - ***WHEN*** $MPC=MSC=MPB=MSB$, ***allocative efficiency*** is achieved
 
-##### Exernalities
+##### Externalities
 - Occur when the production or consumption of a good/service cause external costs and/or external benefits
-	- *because* Side effects of conomic activity to a third party or unintended consequence of economic activity
+	- *because* Side effects of economic activity to a third party or unintended consequence of economic activity
 - Externalities cause market failure if the **price mechanism** does not take into account the **social costs** and benefits of production and consumption
 
 #### The distinction between  positive and negative externalities
