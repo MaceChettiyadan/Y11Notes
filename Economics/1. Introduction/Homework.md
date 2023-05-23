@@ -63,4 +63,4 @@
 ###### Positive and Normative
 - Beside developing models, **developing theory is known as positive economics** - 'what is' in the economy
 - On the other hand, normative economics is the domain of 'what should be' - largely opinionated
-	- Normative statements incolve a **value judgement** - an opinion that one situation is pererable above another
+	- Normative statements involve a **value judgement** - an opinion that one situation is preferable above another
