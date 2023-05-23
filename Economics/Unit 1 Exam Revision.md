@@ -29,8 +29,9 @@
 - Making choices when confronted by scarcity involves a  **trade-off**
 
 #### Distinguish between microeconomics and macroeconomics
-###### Microeconomics
-- 
+- **Macro**economics deals with the economic problem from society's point of view
+	- It is concerned with the performance of the whole economy
+- **Micro**economics deals with economics from an individual point of view - referring to a small perspective
 
 #### Describe the economic decision-making process
 #### Discuss the importance of economic models
