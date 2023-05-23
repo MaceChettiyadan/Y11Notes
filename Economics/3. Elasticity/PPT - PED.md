@@ -7,14 +7,14 @@
 ##### Define the concept, and measurement, of price elasticity of demand
 - **Price elasticity of demand** measures the responsiveness of quantity demanded to changes in price #testanswer 
 	- Can be calculated by Percentage Change (Point Method 1) - $$Ed = \frac{\%change \space in \space quantity \space demanded}{\% change \space in \space price}$$
-		- Also, the Midpoint Method - $$\frac{(Q_2-Q_1)/[(Q_2+Q_1)/2]}{(P_2-P_1)/[(P_2+P_1)/2]}$$ (it is **wrong** but hmm????)
+		- Also, the Midpoint Method - $$\frac{(Q_2-Q_1)/[(Q_2+Q_1)/2]}{(P_2-P_1)/[(P_2+P_1)/2]}$$
 		- Point Method 2 $$\frac{\triangle Q}{Q}\times \frac{P}{\triangle P}$$
 
 ##### Explain the determinants of price elasticity of demand
 - There are **five main** determinants/factors of **PED**
 	- **The availability of *substitutes*** - if there are substitutes available, a good would be much more elastic
 	- **Whether the good is a *necessity* or a *luxury*** - necessities would be inelastic, while luxuries would be elastic
-	- **Proportion of income spent** - cheaper gZoods tend to be inelastic and unresponsive to price change, so higher income spent $\rightarrow$ more elastic
+	- **Proportion of income spent** - cheaper goods tend to be inelastic and unresponsive to price change, so higher income spent $\rightarrow$ more elastic
 	- **Time period considered** - the more time to **react** to a price change, the more elastic a good gets. For example, for petrol, if the price increases you will likely immediately still need petrol, but in time you could change to other substitutes
 	- **The definition of the market** - Narrower categories (fruits $\rightarrow$ bananas) produce more substitutes, and in this example there are many types of fruits. Narrower markets are more responsive.
 
