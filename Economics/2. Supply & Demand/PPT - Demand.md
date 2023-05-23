@@ -3,7 +3,7 @@
 
 ###### The law of demand
 - There is an inverse relationship between the price of a product and the quantity of the product demanded, due to; #testanswer 
-	- **Substitution** effect - when a product increases in price, consumers subsititute for a cheaper good
+	- **Substitution** effect - when a product increases in price, consumers substitute for a cheaper good
 	- **Income** effect - when a product becomes more expensive, it takes up a larger portion of a consumers' income and so the consumer has less to spend on other goods
 		- The **purchasing power** of income is reduced
 

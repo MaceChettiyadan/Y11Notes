@@ -8,6 +8,24 @@
         "type": "tabs",
         "children": [
           {
+            "id": "540df63ae63836ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/2. Supply & Demand/PPT - Supply.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d34f9901886e9ed6",
+        "type": "tabs",
+        "children": [
+          {
             "id": "5b4142057189f1d9",
             "type": "leaf",
             "state": {
@@ -18,21 +36,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "540df63ae63836ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economics/Unit 1 Exam Revision.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,16 +177,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "540df63ae63836ee",
+  "active": "5b4142057189f1d9",
   "lastOpenFiles": [
-    "Economics/1. Introduction/PPT.md",
+    "Economics/2. Supply & Demand/PPT - Supply.md",
     "Economics/Unit 1 Exam Revision.md",
+    "Economics/2. Supply & Demand/PPT - Demand.md",
+    "Economics/1. Introduction/PPT.md",
     "Economics/1. Introduction/Homework.md",
     "Economics/2. Supply & Demand/Homework.md",
     "Economics/3. Elasticity/PPT - PES.md",
     "Physics/Waves.md",
     "Physics/Exam Revision.md",
-    "Economics/2. Supply & Demand/PPT - Demand.md",
     "Economics/5. Market Failure/Homework.md",
     "Economics/4. Market Efficiency/Homework.md",
     "Economics/5. Market Failure/PPT - Causes of Market Failure.md",
@@ -193,7 +199,6 @@
     "Economics/3. Elasticity/Test Tips.md",
     "Economics/3. Elasticity/Homework.md",
     "Economics/2. Supply & Demand/PPT - Equilibrium.md",
-    "Economics/2. Supply & Demand/PPT - Supply.md",
     "Compsci/API.md",
     "Compsci/ExamJanks™️.md",
     "netlify.toml",

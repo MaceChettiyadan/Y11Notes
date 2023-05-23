@@ -89,17 +89,84 @@
 
 ### Demand
 #### Define the Law of Demand
+- There is an inverse relationship between the price of a product and the quantity of the product demanded, due to; #testanswer 
+	- **Substitution** effect - when a product increases in price, consumers substitute for a cheaper good
+	- **Income** effect - when a product becomes more expensive, it takes up a larger portion of a consumers' income and so the consumer has less to spend on other goods
+		- The **purchasing power** of income is reduced
+
 #### Explain the relationship between individual and market demand schedules and curves
+- The **demand curve** is downward sloping, labelled 'D'. X-axis is labelled as quantity, and the Y-axis as price.
+- The **individual demand curve** is;
+	- The demand curve for an individual consumer
+- The **market demand curve** is;
+	- The curve obtained from the horizontal summation of individual demand curves (i.e the average basically)
+
 #### Demonstrate and explain the effect of changes in price on quantity demanded
+- **Movement** - a movement *along* the curve occurs when there is a **price change** (increase/decrease)
+	- Expansion in demand = decrease in price
+	- Contraction in demand = increase in price
+	- Label points $P_{1,}D_1$ and $P_2,D_2$, etc.
+
 #### Discuss the non-price factors affecting demand
+- **Non-Price Factors**,
+	- ***T*astes and preference** (changes in taste and preference towards a product)
+	- ***E*xpectations of consumers** - consumers may **decrease** consumption $\rightarrow$ **demand** if they are **expecting prices to fall**
+	- ***P*rice of related** - two relationships
+		- **Substitutes** - for example, green to red apples - if the **price** of a **substitute good increases**, the **demand** of the good **increases** (relatively cheaper)
+		- **Complements** - if the **price** of a **complementary good increases**, the **demand** of the good **decreases** as the two products tend to be purchased together - for example, phones and phone cases
+	- ***I*ncome** (specifically level of *disposable* income)
+		- **Normal** goods - As **income increases**, **demand increases** (common sense)
+		- **Inferior** goods - goods of lower quality - as **income increases**, people move towards **higher quality substitutes** away from the inferior goods, leading to a **decrease** in **demand** 
+	- ***D*emographic factors** - anything such as age, gender, socioeconomic factors - e.g. an aging population will demand more aged care services
+	- Acronym is **TEPID**
+
 #### Demonstrate and explain the effect of changes in non-price factors on demand
+- **Shift** - the quantity demanded of the good changes at every price due to **non-price** factors
+	- Rightward shift = increase in demand
+	- Leftward shift = decrease in demand
+	- Label curves $D_{1},D_2,...$, shift is diagonal
+- For shifts, you must write at the end *at every single price point* #testanswer 
 
 ### Supply
 #### Define the Law of Supply
+- In most cases, there is a **positive relationship between the price of a good and the quantity supplied** of that good #testanswer 
+	- At **higher prices**, suppliers are willing to produce more as it means they can **earn more profit**
+
 #### Explain the relationship between individual and market supply schedules and curves
+- **Market Supply Curve**
+	- The curve obtained from the horizontal summation of individual supply curves
+- **Individual Supply Curve**
+	- A supply curve relating to an individual producer
+
 #### Demonstrate and explain the effect of changes (in price?) on quantity supplied
+- Price can have either a **contractionary** or **expansionary** effect on the supply curve
+	- This is a **movement** along the existing supply curve
+	- **Expansions** are an increase in price
+	- **Contractions** are a decrease in price
+
 #### Discuss the non-price factors affecting supply
+ **Expectations of Producers**
+		- This is like expected future prices; expected price changes cause suppliers to alter current supply to take advantage of future prices
+- **Technology**
+	- Improvement in technology can reduce production costs, allowing suppliers to produce more at a lower cost
+	- Increase in supply is show as a righward shift of the supply curve
+- **Prices of other goods**
+	- If the price of a related good increases, the supplier can shift production to increase the quantity supplied of the related good
+- **Input prices**
+	- Production costs - if the input prices go down, supply can increase
+	- If input prices go up, supply decreases
+- **Government Regulation**
+	- Government regulations influence the number of suppliers in the market, which increases or decreases market supply
+	- Government regulations can take the form of
+		- Taxes
+		- Tariffs
+		- Subsidies
+		- Quotas
+
 #### Demonstrate and explain the effect of changes in non-price factors on supply
+- This has **shift** effect on the curve, where quantity produced changes at every price point
+	- Rightward shifts $\rightarrow$ **increase** in supply
+	- Leftward shift $\rightarrow$ **decrease** in supply
 
 ### Equilibrium
 #### Outline the concept of market equilibrium
