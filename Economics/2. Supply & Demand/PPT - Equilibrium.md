@@ -32,4 +32,4 @@
 		4. Identify temporary shortage/surplus
 		5. Action taken to clear the market - by the consumers, or the producers
 		6. Expansion/contraction in demand and supply curves
-		7. The new equilibirium, comparing it to the original
+		7. The new equilibrium, comparing it to the original
