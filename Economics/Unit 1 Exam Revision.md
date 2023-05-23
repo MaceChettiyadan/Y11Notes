@@ -12,7 +12,7 @@
 	- How to produce?
 	- For whom to produce?
 - In doing so, economics is a **social science**
-- Wants are unlimited, recurring, complimentary (iphone -> airpods), specific to a person, location and time, and have varying levels of importance
+- Wants are unlimited, recurring, complimentary (iPhone -> Air pods), specific to a person, location and time, and have varying levels of importance
 
 ###### Scarcity
 - Anything that has a **price** is **scarce**.
@@ -34,9 +34,58 @@
 - **Micro**economics deals with economics from an individual point of view - referring to a small perspective
 
 #### Describe the economic decision-making process
+
 #### Discuss the importance of economic models
+- A **simplified** representation of economic reality showing the relationship between certain economic variables
+	- Not inclusive of all detailed; simplified to show key correlations
+- It is assumed that people have **rational self-interest** - that economic decisions are based on a person following a logical process
+	- Rationality is determined as benefit exceeding cost
+	- Price is useful for measuring both
+
+###### Positive and Normative
+- Beside developing models, **developing theory is known as positive economics** - 'what is' in the economy
+- On the other hand, normative economics is the domain of 'what should be' - largely opinionated
+	- Normative statements involve a **value judgement** - an opinion that one situation is preferable above another
+
 #### Demonstrate and explain the Production Possibility Frontier (PPF) Model
+- Used to visualise the opportunity cost of producing one good/service over another. **BEP** is best demonstrated with a PPF. There are three main assumptions;
+	- Resources are fixed
+	- Technology is fixed
+	- Economy produces only 2 goods
+- Each axis are goods
+	- Bowed out curve (realistic)
+	- Straight curve (constant opportunity cost)
+	- Inside curve - inefficient points
+	- Outside - unattainable points
+	- On curve - efficient and attainable
+	- Curve can shift if technology or resources change
+
 #### Discuss the characteristics of a market economy
+- Solves the BEP in a network of separate but interconnected markets
+- **Markets have;**
+	- Buyers (create demand)
+	- Sellers (create supply)
+	- A commodity (that is bought or sold)
+	- Voluntary exchange (between buyers and sellers)
+	- A process, mechanics or arrangement through which buyers and sellers 'meet'
+	- Price (dependant on strength of demand and supply)
+- Two types;
+	- **Product** markets:
+		- Demand is created by consumers or households
+		- Deal in the buying and selling of goods and services
+		- Supply is created by producers and firms
+	- **Factor** markets:
+		- Deal in the buying and selling of factors of production (Land, Labour, Capital, Enterprise)
+		- Demand created by firms
+		- Supply created by households
+
+###### Key features of a market economy
+- Property rights and private ownership
+- Economic freedom (able to choose one's own participation in the economy)
+- Self-interest
+- Competition
+- Moral Hazards (there are consequences of poor decision making)
+- Limited role of government (mainly regulatory)
 
 ### Demand
 #### Define the Law of Demand
