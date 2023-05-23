@@ -20,6 +20,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "632fb368ef6c2a19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55f3fe1e6e54a722",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economics/5. Market Failure/PPT - Causes of Market Failure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,9 +180,9 @@
   "active": "540df63ae63836ee",
   "lastOpenFiles": [
     "Economics/5. Market Failure/PPT - Causes of Market Failure.md",
+    "Economics/Unit 1 Exam Revision.md",
     "Economics/4. Market Efficiency/PPT - Market Efficiency.md",
     "Economics/5. Market Failure/PPT - Externalities.md",
-    "Economics/Unit 1 Exam Revision.md",
     "Economics/4. Market Efficiency/Homework.md",
     "Economics/5. Market Failure/PPT - Market Power.md",
     "Economics/5. Market Failure/Homework.md",

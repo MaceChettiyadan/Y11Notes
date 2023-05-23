@@ -40,10 +40,10 @@
 - Common Property Resources lead to tragedy of commons
 - Refers to the over-consumption of common property resources, e.g. over-fishing
 - Occurs as the resource is readily available and there are no restrictions on consumption
-- However, once consumed the resource is not availble to any other party, leading to depletion of the resource.
+- However, once consumed the resource is not available to any other party, leading to depletion of the resource.
 
 #### Discuss the policy options to reduce market failure associated with [[#Public Goods]] and [[#Common Property Resources]]
-- **Common Property Goods**: Enforce restrictions on consumption - e.g. fishing limits, no-fishing xones, fishing licenses, etc.
+- **Common Property Goods**: Enforce restrictions on consumption - e.g. fishing limits, no-fishing zones, fishing licenses, etc.
 - **Public Goods**: Create ownership of the resource, e.g. fees for public transport, fines for damaging public property
 
 
