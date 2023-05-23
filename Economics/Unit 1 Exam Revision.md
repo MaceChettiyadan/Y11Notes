@@ -222,19 +222,167 @@ A **shortage** is where quantity demanded exceeds the quantity supplied
 	- **Time period considered** - the more time to **react** to a price change, the more elastic a good gets. For example, for petrol, if the price increases you will likely immediately still need petrol, but in time you could change to other substitutes
 	- **The definition of the market** - Narrower categories (fruits $\rightarrow$ bananas) produce more substitutes, and in this example there are many types of fruits. Narrower markets are more responsive.
 #### Distinguish between goods that are price elastic and inelastic in demand
+- **Two categories**
+	- **Price Elastic** products are ones where the *quantity demanded of the product is relatively responsive to changes in price*
+		- Percentage change in quantity demanded $>$ percentage change in price
+		- $|Ed|>1$
+		- These products usually have relatively close substitutes
+		- To graph, a very steep curve
+	- **Price Inelastic** products are ones where the *quantity demanded of the product is relatively unresponsive to changes in price*
+		- Percentage change in quantity demanded $<$ percentage change in price
+		- $|Ed|<1$
+		- These products cannot be substituted very well usually
+		- To graph, a very flat curve
+
+###### Special Situations
+- $+$ **Special Situations**
+	- **Perfectly elastic** - $Ed=\infty$, i.e changes in price cause an *infinity* change in quantity demanded
+		- So, if price changes, quantity demanded falls to *zero*
+		- Reflects a perfectly competitive market
+		- To graph, a full flat curve
+	- **Perfectly inelastic** - $Ed = 0$
+		- Quantity demanded remains the same regardless of price
+		- Reflects a market where there is *fixed demand* regardless of price - usually *needs* such as drugs.
+		- To graph, a vertical line.
+	- **Unitary Elastic** - $Ed = 1$
+		- Changes in price *equal* changes in quantity demanded
+
 #### Demonstrate and describe the link between price elasticity of demand and Total Revenue
+- **Total Revenue** is $P\times Q$
+	- Graphically, this is the box of $PQ$, with a corner $(0,0)$
+	- From here, we can calculate gains and losses (difference in boxes)
+	- **Effect of changes in price on total revenue** is dependant on the price elasticity of the product;
+		- For an inelastic good, *price has a direct relationship* to total revenue (inc. price = inc. total revenue)
+		- For an elastic good, *price has an inverse relationship* to total revenue (inc. price = dec. total revenue)
+		- Unitary goods have a *constant total revenue*
+
+###### Tax Revenue & Elasticity
+- Depending on elasticity, **tax revenue** and the burden of tax would vary
+	- Tax incidence/burden of the tax: Who bears the majority of the tax
+	- If a good is price inelastic in demand, the amount of tax revenue is higher and the burden of the tax falls more on the consumers
+		- Relatively **small** change in quantity demanded
+		- Think about cigarettes; it is inelastic and people will buy no matter what. The burden then falls on the consumers due to this.
+	- If a good is price elastic in demand, the amount of tax revenue is lower and the burden of the tax falls more on the producers
+		- Relatively **large** change in quantity demanded
+
 #### Define the concept of PES
+- Defined as *The responsiveness of quantity supplied to a change in price* #testanswer 
+
 #### Distinguish between goods that are price elastic and inelastic in supply
+| **Elasticity**      | **Elasticity coefficient** | **Interpretation of Elasticity Coefficient**                                   |
+| ------------------- | -------------------------- | ------------------------------------------------------------------------------ |
+| Elastic             | $E>1$                      | Percentage change in QS is greater than the percentage change in price. Relatively close substitutes         |
+| Inelastic           | $E<1$                      | Percentage change in QS is lesser than the percentage change in price. Not many close substitutes          |
+| Unitary             | $E=1$                      | Percentage change in QS is equal to percentage change in price                 |
+| Perfectly Inelastic | $E=0$                      | Percentage change in QS is independant to change in price; it is unresponsive. No substitutes usually. |
+| Perfectly Elastic   | $Ed=\infty$                | A small change in price will lead to a complete drop in QS or increase. Many close substitutes.                                                                              |
+
+#### Explain the determinants of PES
+- **Time**
+	- Similar to demand; in the short run, goods will be priced inelastic because ***they won't be responsive***.
+	- In the long run, there is more time for firms to respond to price changes
+- **Nature of the industry**
+	- What kind of industry it is. A market that produces pencils can easily change production, whereas in a market for agriculture, there is heavy time taken for production.
+- **Ability to store inventories**
+	- If a business is able to easily store inventories, then it is going to more responsive and elastic in supply
+
 #### Discuss the application of PED and PES to markets
+
 #### Analyse the importance of PED and PES for business and government, including tax incidence and Price Discrimination
+- Significant to **firms**
+	- Monopoly/Market power - setting prices to influence $TR$
+	- Price Discrimination: To maximise $TR$
+- Significant to **households**
+	- Can control demand if aware of elasticity and influence on prices
+- Significant to **Government**
+	- Tax Incidence
+	- Inelastic - greater incidence on consumers, greater tax revenue
+	- Elastic - lesser incidence on consumers, lower tax revenue
+
 
 ### Market Efficiency
 #### Outline the concept of market efficiency in a perfectly competitive market
 #### Explain the concepts of consumer surplus, producer surplus, total surplus and deadweight loss
+- **Efficiency** is the production of goods that society wants at the lowest possible price.
+###### The *consumer* surplus ($CS$)
+- **Consumer Surplus** is the difference between what a consumer is prepared to pay and what they actually pay in the market #testanswer 
+- **Marginal Benefit** is the extra benefit from consuming one extra unit of the good or service
+- The demand curve is what the consumer is actually willing and able to pay
+- However, they could actually pay something lower; the difference would be the *consumer surplus*
+![[ConsumerSurplus.svg]]
+
+###### The *producer* surplus ($PS$)
+- This is related to the amount the producer is *willing* to receive.
+	- **Formally**, the difference between what a producer is willing to receive and what they actually receive in a market #testanswer 
+	- **Marginal** cost is the extra opportunity cost of producing one more unit of a good or service
+- The same concept as consumer surplus; the difference is *producer surplus*
+![[ProducerSurplus.svg]]
+- ***Combining both diagrams,*** **total surplus** is the measure of the net benefits to society from the production and consumption of the good #testanswer 
+	- This is equal to the $PS+CS$
+	- **Allocative efficiency** is achieved
+
 #### Outline the efficiency of market equilibrium i.e. maximising total surplus
+
+
 #### Discuss how under and overproduction in a market can result in a deadweight loss
+**Deadweight loss** is a loss in total surplus that is avoidable #testanswer 
+	- The situations we have to deal with are where price is *above* and *below* the equilibrium
+	- A diagram for *above*; it is important to note that $PS$ is not a triangle, but instead the area above the supply curve below P1 ![[TSPGreaterthanE.svg]]
+	- And another, for *below* ![[TSPLessthanE.svg]]
+- **Also,** when *quantity* is *above* and *below* the equilibrium.![[QTYDWL.svg]] ![[QTYDWLb.svg]]
 #### Demonstrate and explain the effects of a tax and subsidy on a market
+###### Tax
+- **Why do governments tax** if it introduces inefficiency?
+	- Can aid in the redistribution of income
+	- To correct externalities
+	- To earn revenue
+- **Impact of tax**
+	- Reduces quantity while increasing price
+	- Tax incidence depends on the elasticity of the good/service
+	- Creates a DWL
+**To explain either,**
+1. Original P/Qty
+2. Implement government policy
+3. New price/quantity
+4. Tax Revenue
+5. CS/PS/TS/DWL
+6. Conclusion on efficiency
+
+-  **Direct tax**
+	- e.g. **income tax**
+- **Indirect tax**
+	- Consumers do not pay the tax directly, but are affected through changes in the price of the good or service
+		- **Specific tax**: the tax is a fixed amount or is a set sum of money per unit
+		- **Ad Valorem** tax: Where the tax is a percentage of the value of the good or service, e.g. GST
+
+###### Subsidies
+- A payment by the government to a firm to reduce production costs and increase output #testanswer 
+- The **aim** is to encourage production of goods with positive externalities
+	- Allow the producer to export more
+	- Aid expansion of the firm
+- **Impact of subsidies**
+	- DWL as part of government expenditure on the subsidy is not translated into either consumer of producer surplus
+
 #### Demonstrate and explain the effects of a price ceiling and price floor on a market
+###### Price Ceilings
+- **Price Ceilings** are the highest price that a producer can charge on a good
+- Is usually *below* the equilibrium price
+- Intended to keep prices affordable for majority of the population
+- **Need for rationing process** to regulate demand, but this could lead to a **black market**
+ 
+###### Price Floors
+- **Minimum Price** that a producer can charge on a good
+- Is usually *above* the equilibrium price
+- Designed to ensure that there is a minimum income received by producers
+- However, this could result in *informal illegal markets* where workers are paid less than the minimum wage.
+
+**To explain either,**
+1. Original Pe and Qe
+2. Implement price ceiling or floor
+3. New price and Quantity
+4. Compare Qs and Qd $\rightarrow$ shortage/surplus
+5. CS/PS/TS/DWL
+	- Talk about changes in CS/PS/TS, then talk about loss in efficiency i.e DWL.
 
 ### Market Failure & Power
 #### Define the concept of market failure
