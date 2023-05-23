@@ -203,7 +203,7 @@ A **shortage** is where quantity demanded exceeds the quantity supplied
 		7. The new equilibrium, comparing it to the original
 - When there is a **simultaneous** shift, things get a bit goofy.
 	- One of the values will always be indeterminate.
-		- Inc. Supply and Dec. Demand: inc. supply will push price down and quantity up, dec. demand will push price down and quantity down.
+		- For example, Inc. Supply and Dec. Demand: inc. supply will push price down and quantity up, dec. demand will push price down and quantity down.
 			- Therefore, quantity is indeterminate (it is being stretched up and down!)
 			- There is a decrease in supply.
 
