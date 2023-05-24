@@ -584,3 +584,81 @@ A **shortage** is where quantity demanded exceeds the quantity supplied
 - **Public Goods**: Create ownership of the resource, e.g. fees for public transport, fines for damaging public property
 
 ## Unseen Dot Points
+- Economics relates to the basic economic problem: limited resources, unlimited wants. Resources are thus relatively scarce, and no matter what there will never be enough.
+- As a result, choice has to be made between resources, which results in opportunity cost - the value of the next best alternative foregone.
+- Microeconomics relates to economics on an individual and producer level, which macroeconomics explores economics on a national level.
+- Economic models are useful in representing a simplified version of reality through the relationship between two variables.
+- An example of an economic model is the PPF, which demonstrates the aforementioned opportunity cost.
+- In a market economy,
+	- there are consumers, producers and goods/services
+	- there are prices
+	- there is a price mechanism
+	- there is private ownership
+
+- the law of demand states that there is an inverse relationship between the price of a good and the quantity demanded of that good
+	- this is due to the income and substitution effect
+		- income effect: as a product becomes more expensive, it takes up a larger portion of a consumers' income and as such the consumer has less to spend on other goods
+		- substitution effect: as price increases, consumers will substitute away to lower priced goods
+- individual demand schedules/curves are for one individual only, whereas market is horizontal summation
+- a change in price will cause a contraction (increase in price) or an expansion (decrease in price) in quantity demanded - this is a moment along the curve
+- There are various non-price factors that affect demand too;
+	- Tastes and preferences
+		- things such as advertising campaigns can impact tastes and preferences towards a good.
+	- Expectations of consumers
+		- if consumers expect prices to fall in the future, they will decrease quantity now to take advantage of those expected future prices
+	- Price of related goods
+		- Substitutes - these are juggled.
+		- Complements - whatever happens to a complement will happen to the good as well
+	- Income
+		- Normal goods - as income rises, as does demand as consumers can afford to demand more
+		- Inferior goods - as income rises, demand does not as consumers will switch away as the good is inferior
+	- Demographic factors
+		- age, population - all impact demand
+
+- the law of supply states that there is a direct relationship between the price of a good and the quantity supplied of it
+	- this is due to the fact that, at a higher price, producers will be willing to sell more to earn more
+- horizontal summation yet again.
+- non-price factors affecting supply include
+	- expected future prices - if they expect future prices to increase, they will decrease supply now
+	- input prices - higher input prices = less supply
+	- technology - better tech = more supply
+	- government regulation - reg up or down
+	- price of related goods - if the price of a related good increases, they can shift supply to that one, decreasing for the current one, to take advantage
+
+- market equilibrium is where qs = qd
+- if qs not equal to qd, usually during shifts, then there will be a surplus or a shortage
+	- to correct for this, producers can lower prices to sell excess stock or consumers can bid up the price, both result in the market clearing
+- for single changes its fine;
+	- for simultaneous. in the extract we will know the magnitude of one is greater than the other, so the effect of that one will be greater and whatever that relates to will not be indeterminate.
+
+- price elasticity of demand relates to the responsiveness of quantity demanded to a change in price
+	- it is measured using the elasticity coefficient, Ed = %change in q/%change in price
+- the determinants of PED are
+	- the availability of substitutes
+		- if there are more substitutes available to switch to, the good will be relatively elastic
+	- time period considered
+		- the more time to react the more elastic
+	- proportion of income spent
+		- if it spends more income its more elastic
+	- definition of the market
+		- broader markets will be more elastic
+	- whether the good is a necessity or a luxury
+		- necessities are inelastic and luxuries are elastic
+- distinguishing
+	- price elastic: ed > 1, consumers are relatively responsive to changes in price, curve is therefore more flat
+	- price inelastic: ed < 1, curve is steep
+	- unitary - 1, normal curve
+	- perfectly are easy
+- TR = PQ
+	- inelastic - an increase in price will lead to a less than proportionate decrease in quantity, therefore TR increases
+	- elastic - an increase in price will lead to a more than proportionate decrease in quantity, therefore TR decreases
+
+PES is the responsiveness of quantity supplied to a change in price
+price elastic - steeper curve, Es > 1
+price inelastic - flatter curve, Es < 1
+unitary Es = 1
+perfectly again
+determinants
+- time period considered - the more time they have to react the better
+- ability to store inventories
+- definition of the market
