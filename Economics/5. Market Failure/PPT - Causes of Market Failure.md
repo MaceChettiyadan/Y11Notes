@@ -19,7 +19,7 @@
 ###### Demerit Goods
 - Goods that are produced that have large external costs for society
 	- Goods that will be overprovided if left in the market
-- Are private goods as they are both rivary and exclusive
+- Are private goods as they are both rivalry and exclusive
 
 #### Describe the public goods and the free rider effect
 ##### Public Goods
