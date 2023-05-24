@@ -660,5 +660,8 @@ unitary Es = 1
 perfectly again
 determinants
 - time period considered - the more time they have to react the better
-- ability to store inventories
-- definition of the market
+- ability to store inventories - pencils vs tractors
+- nature of the industry - agri is more inelastic
+
+tax is interesting
+- on an inelastic good, the burden of tax falls more on the consumers

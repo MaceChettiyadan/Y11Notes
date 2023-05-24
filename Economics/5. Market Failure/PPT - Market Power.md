@@ -54,7 +54,7 @@
 - A firm has *market power* if it is able to affect the market price by varying output
 	- Firms in an imperfect market have market power as they are able to do so
 		- E.g. monopolies and oligopolies
-		- Applies not only to a monopoly, but also to oligopoly. Oligopolistic firms sometimes act together (or collude), usualy illegaly, to acquire monopoly power
+		- Applies not only to a monopoly, but also to oligopoly. Oligopolistic firms sometimes act together (or collude), usually illegally, to acquire monopoly power
 - Caused by their characteristic barriers to entry
 
 #### Explain how market power can influence market efficiency, i.e. a deadweight loss
