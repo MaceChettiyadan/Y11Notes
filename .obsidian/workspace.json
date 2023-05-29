@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "921359a18267af51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Specialist/Proofs 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/!IMPORTANT!.md",
+                "file": "Specialist/Proofs 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/!IMPORTANT!.md",
+                "file": "Specialist/Proofs 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/!IMPORTANT!.md"
+                "file": "Specialist/Proofs 1.md"
               }
             }
           }
@@ -159,10 +172,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "540df63ae63836ee",
+  "active": "921359a18267af51",
   "lastOpenFiles": [
-    "Economics/Unit 1 Exam Revision.md",
+    "home.md",
     "Economics/!IMPORTANT!.md",
+    "Economics/2. Supply & Demand/PPT - Supply.md",
+    "Economics/3. Elasticity/PPT - PES.md",
+    "Economics/Unit 1 Exam Revision.md",
     "Economics/5. Market Failure/PPT - Externalities.md",
     "Economics/5. Market Failure/PPT - Market Power.md",
     "Physics/SIS & Error in Physics.md",
@@ -173,8 +189,6 @@
     "Economics/5. Market Failure/PPT - Causes of Market Failure.md",
     "Economics/4. Market Efficiency/PPT - Market Efficiency.md",
     "Economics/3. Elasticity/Homework.md",
-    "Economics/3. Elasticity/PPT - PES.md",
-    "Economics/2. Supply & Demand/PPT - Supply.md",
     "Economics/2. Supply & Demand/PPT - Demand.md",
     "Compsci/Ethics & Networking.md",
     "Compsci/ExamJanks™️.md",
@@ -187,7 +201,6 @@
     "Economics/3. Elasticity/Test Tips.md",
     "Compsci/API.md",
     "netlify.toml",
-    "home.md",
     "Economics/5. Market Failure",
     "WaveGraph.svg",
     "Untitled Diagram.svg",

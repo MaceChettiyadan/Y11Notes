@@ -94,7 +94,7 @@
 
 ##### Negating Quantifiers
 - To negate quantifiers, we just swap 'there exists' and 'for all' and then *negate the rest of the statement*
-	- `For all natural numbers n, 2n > n+1` $\rightarrow$ `There exists natural number n such that 2n < n + 1`
+	- `For all natural numbers n, 2n > n+1` $\rightarrow$ `There exists natural number n such that 2n =< n + 1`
 	- And vice versa.
 
 ##### Disproving
