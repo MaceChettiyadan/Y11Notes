@@ -42,7 +42,7 @@
 - Defined as the total market value of all final goods and services produced in a country during a period of time (usually a year)
 - Three ways in which it could be measured
 	- Income and earnings approach - income received is added
-	- Expenditure approach - addition of all spending on goods and services
+	- [[#Expenditure Approach]] - addition of all spending on goods and services
 	- Production approach - in which the value of all goods and services produced is calculated
 
 ##### Expenditure Approach
