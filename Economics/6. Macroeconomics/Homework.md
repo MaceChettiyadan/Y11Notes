@@ -36,3 +36,6 @@
 - $\Sigma O = \Sigma Y = \Sigma E$
 	- (output, income and expenditure respectively)
 	- This is known as equilibrium
+- When these requirements are not met (what usually occurs in the real world), disequilibrium is achieved
+
+####
