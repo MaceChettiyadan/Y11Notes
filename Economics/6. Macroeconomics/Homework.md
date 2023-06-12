@@ -30,3 +30,9 @@
 ##### Overseas Sector
 - All households spend some of their income on goods and services imported from overseas.
 	- We relax the assumption that the economy is closed as we export and import through leakages and injections
+
+#### Equilibrium
+- 'One man's spending is another mans income'.
+- $\Sigma O = \Sigma Y = \Sigma E$
+	- (output, income and expenditure respectively)
+	- This is known as equilibrium
