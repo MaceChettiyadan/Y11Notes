@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compsci/CyberSecoority.md",
+                "file": "Physics/Nuclear Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compsci/CyberSecoority.md",
+                "file": "Physics/Nuclear Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compsci/CyberSecoority.md",
+                "file": "Physics/Nuclear Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compsci/CyberSecoority.md"
+                "file": "Physics/Nuclear Physics.md"
               }
             }
           }
@@ -174,9 +174,10 @@
   },
   "active": "921359a18267af51",
   "lastOpenFiles": [
+    "Compsci/CyberSecoority.md",
+    "Physics/Nuclear Physics.md",
     "Economics/6. Macroeconomics/Homework.md",
     "Economics/2. Supply & Demand/Homework.md",
-    "Compsci/CyberSecoority.md",
     "Economics/6. Macroeconomics",
     "Economics/Unit 1 Exam Revision.md",
     "Specialist/Proofs 1.md",
@@ -200,7 +201,6 @@
     "Economics/4. Market Efficiency/Homework.md",
     "Economics/2. Supply & Demand/PPT - Equilibrium.md",
     "Physics/Waves.md",
-    "Physics/Exam Revision.md",
     "netlify.toml",
     "Economics/5. Market Failure",
     "WaveGraph.svg",
