@@ -4,4 +4,4 @@
 - **3** ways to measure
 	- Number of nuclei - however, the decayed nuclides are now nuclides of a different isotope
 	- Mass - but actual mass of entire sample will not change significantly since little actual mass is lost because of the existence of other isotopes
-	- Actually measured disintegrations per second ($DPS$)
+	- Actually measured disintegrations per second ($DPS$ measured in becquerels - $Bq$)

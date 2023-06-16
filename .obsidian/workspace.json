@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2e8875e6fdeb695f",
+        "id": "038a52bae7feaa4f",
         "type": "tabs",
         "children": [
           {
-            "id": "540df63ae63836ee",
+            "id": "778c5ddd91ce73e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/!IMPORTANT!.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "921359a18267af51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Nuclear Physics.md",
+                "file": "Economics/6. Macroeconomics/PPT - Aggregate Expenditure.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "price floor",
+                "query": "tag:#testanswer",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 336.5
   },
   "right": {
     "id": "eab940f49f2c5c33",
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Nuclear Physics.md",
+                "file": "Economics/6. Macroeconomics/PPT - Aggregate Expenditure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Nuclear Physics.md",
+                "file": "Economics/6. Macroeconomics/PPT - Aggregate Expenditure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Nuclear Physics.md"
+                "file": "Economics/6. Macroeconomics/PPT - Aggregate Expenditure.md"
               }
             }
           }
@@ -172,35 +159,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "921359a18267af51",
+  "active": "778c5ddd91ce73e2",
   "lastOpenFiles": [
+    "Economics/6. Macroeconomics/PPT - Aggregate Expenditure.md",
     "Compsci/CyberSecoority.md",
+    "Compsci/Functions (Modules).md",
+    "Compsci/ExamJanks™️.md",
+    "Physics/Waves.md",
+    "Economics/3. Elasticity/PPT - PED.md",
+    "Compsci/Binary & Hexadecimal.md",
+    "Economics/!IMPORTANT!.md",
     "Physics/Nuclear Physics.md",
+    "Physics/Momentum.md",
+    "Economics/2. Supply & Demand/PPT - Demand.md",
+    "Compsci/Ethics & Networking.md",
     "Economics/6. Macroeconomics/Homework.md",
     "Economics/2. Supply & Demand/Homework.md",
     "Economics/6. Macroeconomics",
     "Economics/Unit 1 Exam Revision.md",
     "Specialist/Proofs 1.md",
     "home.md",
-    "Economics/!IMPORTANT!.md",
     "Economics/2. Supply & Demand/PPT - Supply.md",
     "Economics/3. Elasticity/PPT - PES.md",
     "Economics/5. Market Failure/PPT - Externalities.md",
     "Economics/5. Market Failure/PPT - Market Power.md",
     "Physics/SIS & Error in Physics.md",
-    "Economics/3. Elasticity/PPT - PED.md",
     "Economics/1. Introduction/PPT.md",
     "Economics/1. Introduction/Homework.md",
     "Economics/5. Market Failure/Homework.md",
     "Economics/5. Market Failure/PPT - Causes of Market Failure.md",
-    "Economics/4. Market Efficiency/PPT - Market Efficiency.md",
-    "Economics/3. Elasticity/Homework.md",
-    "Economics/2. Supply & Demand/PPT - Demand.md",
-    "Compsci/Ethics & Networking.md",
-    "Compsci/ExamJanks™️.md",
-    "Economics/4. Market Efficiency/Homework.md",
-    "Economics/2. Supply & Demand/PPT - Equilibrium.md",
-    "Physics/Waves.md",
     "netlify.toml",
     "Economics/5. Market Failure",
     "WaveGraph.svg",
