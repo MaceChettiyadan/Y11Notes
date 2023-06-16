@@ -13,3 +13,4 @@
 - **Nuclear binding energy *is not the energy holding the nucleus together*
 	- Instead, it is <mark style="background: #ADCCFFA6;">the energy that was lost in forming the nucleus</mark>
 	- It is the same amount of energy that is required to break the nucleus apart.
+- One AMU (Atomic Mass Unit) is $1/12$ the mass of a carbon-12 atom
