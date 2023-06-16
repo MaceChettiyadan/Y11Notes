@@ -1,3 +1,4 @@
+## Aggregate Expenditure
 - Statisticians and economists develop accounting systems based on the circular flow
 - Measured using <mark style="background: #ADCCFFA6;">GDP</mark>
 	- **Expenditure Approach:** addition of all final expenditures within a country given a period of time
@@ -55,3 +56,15 @@
 		- e.g. policy to make the peoples smart - education $\rightarrow$ would lead to more schools being built
 	- <mark style="background: #ADCCFFA6;">Current economic climate</mark>
 		- Decrease expenditure during high inflation, etc. 
+
+#### Net Exports
+- $X-M$ - Value of exports minus value of imports
+- **Factors affecting net exports include**
+	- <mark style="background: #ADCCFFA6;">Exchange rate</mark>
+		- If the dollar appreciates, imports become cheaper and exports become more expensive, in net leasing to less **net exports** and thus **less AE**
+	- <mark style="background: #ADCCFFA6;">Domestic and overseas economic activity</mark>
+		- If domestic activity increases then imports will increase (capital)
+		- If overseas activity increases then exports will increase (their capital)
+	- <mark style="background: #ADCCFFA6;">Tariffs and Quotas</mark>
+		- If a foreign economy places a tariff on exports, net exports would decrease
+		- Quotas are limitations
