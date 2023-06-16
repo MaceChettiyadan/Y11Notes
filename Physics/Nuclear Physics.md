@@ -10,3 +10,5 @@
 - The fact that the *mass of any given nuclide is less than the sum of the individual masses of its protons and neutrons* of which it is composed
 	- i.e. there is a <mark style="background: #ADCCFFA6;">mass defect</mark>
 	- This was **converted to energy** when the **nuclide was formed**, related by the equation $E=mc^2$
+- **Nuclear binding energy *is not the energy holding the nucleus together*
+	- Instead, it is <mark style="background: #ADCCFFA6;">the energy that was lost in forming the nucleus</mark>
