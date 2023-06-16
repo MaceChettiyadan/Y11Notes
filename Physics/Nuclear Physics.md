@@ -14,3 +14,8 @@
 	- Instead, it is <mark style="background: #ADCCFFA6;">the energy that was lost in forming the nucleus</mark>
 	- It is the same amount of energy that is required to break the nucleus apart.
 - One AMU (Atomic Mass Unit) is $1/12$ the mass of a carbon-12 atom
+
+##### Masses
+- Proton: 1.007276
+- Neutron: 1.008665
+- Boron-11: 11.009305
