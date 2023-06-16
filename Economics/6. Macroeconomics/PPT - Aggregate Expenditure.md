@@ -50,3 +50,8 @@
 	- $G1$: current government expenditure on day to day functions - rent on offices
 	- $G2:$ investment and expenditure on future needs e.g. schools and roads
 - Approximately $24\%$ of AG
+- **Factors affecting government expenditure include**
+	- <mark style="background: #ADCCFFA6;">Government policy objectives</mark>
+		- e.g. policy to make the peoples smart - education $\rightarrow$ would lead to more schools being built
+	- <mark style="background: #ADCCFFA6;">Current economic climate</mark>
+		- Decrease expenditure during high inflation, etc. 
