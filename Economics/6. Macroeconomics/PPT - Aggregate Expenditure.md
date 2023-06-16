@@ -32,3 +32,13 @@
 	- <mark style="background: #ADCCFFA6;">Fixed investment</mark> (usually on capital goods)
 	- <mark style="background: #ADCCFFA6;">Residential fixed investment</mark> (private expenditure on new housing)
 	- <mark style="background: #ADCCFFA6;">Changes in business inventories</mark> (stocks of goods that have been produced but not yet sold)
+- **Factors affecting investment include**
+	- <mark style="background: #ADCCFFA6;">Rate of interest</mark>
+		- **Nominal** - does nor account for inflation
+		- **Real** - accounts for inflation
+	- <mark style="background: #ADCCFFA6;">Business Expectations</mark>
+		- Decrease/increase investment based on how businesses expect the economy to behave in the future
+	- <mark style="background: #ADCCFFA6;">Level of past profits</mark>
+		- Like expectations
+	- <mark style="background: #ADCCFFA6;">Government policies</mark>
+		- Fiscal & Monetary once again
