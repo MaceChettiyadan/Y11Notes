@@ -12,3 +12,4 @@
 	- This was **converted to energy** when the **nuclide was formed**, related by the equation $E=mc^2$
 - **Nuclear binding energy *is not the energy holding the nucleus together*
 	- Instead, it is <mark style="background: #ADCCFFA6;">the energy that was lost in forming the nucleus</mark>
+	- It is the same amount of energy that is required to break the nucleus apart.
