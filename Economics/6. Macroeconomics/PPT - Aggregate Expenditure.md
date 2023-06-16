@@ -15,7 +15,7 @@
 	- **Services** are non-commodity items
 	- **Autonomous** vs **discretionary**
 		- Discretionary - change spending based on level of income - higher quality
-	- Approximately $58\%$ of GDP.
+- Approximately $58\%$ of AG.
 - **Factors affecting consumption include**
 	- <mark style="background: #ADCCFFA6;">Disposable income</mark> - an increase would lead to an increase in expenditure - higher purchasing power
 	- <mark style="background: #ADCCFFA6;">Interest rates</mark> - If interest rates go up, people prefer to save over spending
@@ -32,6 +32,7 @@
 	- <mark style="background: #ADCCFFA6;">Fixed investment</mark> (usually on capital goods)
 	- <mark style="background: #ADCCFFA6;">Residential fixed investment</mark> (private expenditure on new housing)
 	- <mark style="background: #ADCCFFA6;">Changes in business inventories</mark> (stocks of goods that have been produced but not yet sold)
+- Approximately $18\%$ of AG
 - **Factors affecting investment include**
 	- <mark style="background: #ADCCFFA6;">Rate of interest</mark>
 		- **Nominal** - does nor account for inflation
@@ -42,3 +43,10 @@
 		- Like expectations
 	- <mark style="background: #ADCCFFA6;">Government policies</mark>
 		- Fiscal & Monetary once again
+
+#### Government
+- $G$ - government expenditure on ***all*** the levels of government
+- 2 parts:
+	- $G1$: current government expenditure on day to day functions - rent on offices
+	- $G2:$ investment and expenditure on future needs e.g. schools and roads
+- Approximately $24\%$ of AG
