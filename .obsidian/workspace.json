@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Nuclear Physics.md",
+                "file": "Compsci/Ari's Presentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Nuclear Physics.md",
+                "file": "Compsci/Ari's Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Nuclear Physics.md",
+                "file": "Compsci/Ari's Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Nuclear Physics.md"
+                "file": "Compsci/Ari's Presentation.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "778c5ddd91ce73e2",
   "lastOpenFiles": [
-    "Compsci/ExamJanks™️.md",
     "Physics/Nuclear Physics.md",
+    "Compsci/Ari's Presentation.md",
+    "Compsci/ExamJanks™️.md",
     "Economics/6. Macroeconomics/PPT - Aggregate Expenditure.md",
     "Compsci/CyberSecoority.md",
     "Compsci/Functions (Modules).md",
@@ -187,7 +188,6 @@
     "Economics/1. Introduction/PPT.md",
     "Economics/1. Introduction/Homework.md",
     "Economics/5. Market Failure/Homework.md",
-    "Economics/5. Market Failure/PPT - Causes of Market Failure.md",
     "netlify.toml",
     "Economics/5. Market Failure",
     "WaveGraph.svg",
