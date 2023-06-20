@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Nuclear Physics.md",
+                "file": "Economics/7. GDP Growth/PPT - GDP Growth.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Nuclear Physics.md",
+                "file": "Economics/7. GDP Growth/PPT - GDP Growth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Nuclear Physics.md",
+                "file": "Economics/7. GDP Growth/PPT - GDP Growth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Nuclear Physics.md"
+                "file": "Economics/7. GDP Growth/PPT - GDP Growth.md"
               }
             }
           }
@@ -161,10 +161,12 @@
   },
   "active": "778c5ddd91ce73e2",
   "lastOpenFiles": [
-    "Compsci/Ari's Presentation.md",
-    "Physics/Nuclear Physics.md",
-    "Compsci/ExamJanks™️.md",
     "Economics/6. Macroeconomics/PPT - Aggregate Expenditure.md",
+    "Economics/7. GDP Growth/PPT - GDP Growth.md",
+    "Economics/7. GDP Growth",
+    "Physics/Nuclear Physics.md",
+    "Compsci/Ari's Presentation.md",
+    "Compsci/ExamJanks™️.md",
     "Compsci/CyberSecoority.md",
     "Compsci/Functions (Modules).md",
     "Physics/Waves.md",
@@ -187,7 +189,6 @@
     "Physics/SIS & Error in Physics.md",
     "Economics/1. Introduction/PPT.md",
     "Economics/1. Introduction/Homework.md",
-    "Economics/5. Market Failure/Homework.md",
     "netlify.toml",
     "Economics/5. Market Failure",
     "WaveGraph.svg",

@@ -23,3 +23,4 @@
 
 ## Nuclear Fission
 - Bombard large nuclei with neutrons, then they have a tendency to become unstable and can split into $2+$ fragments.
+	- 
