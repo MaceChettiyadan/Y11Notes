@@ -13,3 +13,4 @@
 
 #### Measuring economic growth
 - The economic <mark style="background: #ADCCFFA6;">growth rate is the rate of change in GDP</mark>
+	- **GDP:** the total market value of all final goods and services produced in a country during a certain time perio
