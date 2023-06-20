@@ -17,4 +17,4 @@
 	- **Nominal GDP is expressed:**$$\frac{GDP(b)-GDP(a)}{GDP(a)}\times 100$$
 - We should **refine** GDP by taking into account inflation
 	- This is **real GDP** and is simply nominal - the inflation rate
-- **Refining further,** we take into account population to have Average **real GDP per person** also known as **GDPpc**
+- **Refining further,** we take into account population to have Average **real GDP per person** known as **Real GDPpc**
