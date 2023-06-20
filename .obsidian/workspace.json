@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compsci/Ari's Presentation.md",
+                "file": "Physics/Nuclear Physics.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compsci/Ari's Presentation.md",
+                "file": "Physics/Nuclear Physics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compsci/Ari's Presentation.md",
+                "file": "Physics/Nuclear Physics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compsci/Ari's Presentation.md"
+                "file": "Physics/Nuclear Physics.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "778c5ddd91ce73e2",
   "lastOpenFiles": [
-    "Physics/Nuclear Physics.md",
     "Compsci/Ari's Presentation.md",
+    "Physics/Nuclear Physics.md",
     "Compsci/ExamJanks™️.md",
     "Economics/6. Macroeconomics/PPT - Aggregate Expenditure.md",
     "Compsci/CyberSecoority.md",
