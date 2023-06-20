@@ -18,3 +18,12 @@
 - We should **refine** GDP by taking into account inflation
 	- This is **real GDP** and is simply nominal - the inflation rate
 - **Refining further,** we take into account population to have Average **real GDP per person** known as **Real GDPpc**
+
+#### Limitations of GDP
+- Income Distribution
+- True value of public goods and merit goods is largely unknown
+- Does not account for hidden economies or non-market production
+- Understates changes in utility (ability of goods and services to satisfy wants)
+	- Doesn't capture significant technological progress that increases utility without increasing price by much
+- Does not describe non-material welfare
+- Does not account for rising productivity
