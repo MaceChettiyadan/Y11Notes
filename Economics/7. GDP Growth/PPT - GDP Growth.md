@@ -14,3 +14,7 @@
 #### Measuring economic growth
 - The economic <mark style="background: #ADCCFFA6;">growth rate is the rate of change in GDP</mark>
 	- **GDP:** the total market value of all final goods and services produced in a country during a certain time period
+	- **Nominal GDP is expressed:**$$\frac{GDP(b)-GDP(a)}{GDP(a)}\times 100$$
+- We should **refine** GDP by taking into account inflation
+	- This is **real GDP** and is simply nominal - the inflation rate
+- **Refining further,** we take into account population to have Average **real GDP per person** also known as **GDPpc**
