@@ -23,4 +23,20 @@
 
 ## Nuclear Fission
 - Bombard large nuclei with neutrons, then they have a tendency to become unstable and can split into $2+$ fragments.
+
+##### Stations
+- Fuel - $U^{235}$
+- Fuel rods
+- Moderator - slows down neutrons longer to be captured by nuclides - water, heavy water, graphite
+- Control Rods - absorb excess neutrons - boron and cadmium
+- Coolant - water, heavy water
+
+##### Waste Management
+- **Low Level**
+	- Clothing, wrappings, containers, tools
+	- Incineration - i.e. putting it into the atmosphere, the isotope isn't actually destroyed
+	- Burying - fine, don't go digging
+- **Medium Level**
+	- 
+- **High Level**
 	- 
