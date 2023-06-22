@@ -32,4 +32,8 @@
 - Does not account for rising productivity
 
 ## Determinants of Economic Growth
-- 
+### Potential Growth
+#### Population Growth
+- Increase the total size of the economy; greater demand for G+S and productive factors
+- Increase in size of the labour force - migration but also natural
+- Migration more than natural: migration promotes transfer of wealth, knowledge and skills and positive fiscal impact (tax revenue)
