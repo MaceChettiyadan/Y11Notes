@@ -82,3 +82,9 @@
 	- From structural change: <mark style="background: #ADCCFFA6;">when people want a new type of G+S</mark> and when inventions and the such make it possible also when businesses seek to reduce costs
 - **Inflationary pressure**
 	- When resources are fully employed and the economy is working near its capacity
+- **Environmental Degradation**
+	- As production and consumption increase, <mark style="background: #ADCCFFA6;">negative externalities</mark> are likely to arise, as well as the likelihood of increased depletion of non-renewable resources
+- **Social Dislocation**
+	- High rates of growth may lead to crimes, stress suicide.
+discrepancy
+you talked about dictionary bruteforce attacks while simultaneously considering a four english word jumble, which only has four dictionary words, which can be arranged in 4!=24 ways, so why would one use english words?
