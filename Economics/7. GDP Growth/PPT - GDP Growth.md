@@ -8,8 +8,11 @@
 ##### Actual Growth
 - If an economy is operating **inside** its PPF and produces more as a result of <mark style="background: #ADCCFFA6;">using previously unemployed resources, or using resources more efficiently</mark>, this is referred to as **actual growth**
 	- This is illustrated by *a movement from a point within the PPF to a point towards or on the PPF*
+	- **Demand Side**
 ##### Potential Growth
 - The productive potential of an economy may be increase by <mark style="background: #ADCCFFA6;">an increase in the quality and/or quantity of resources</mark> and, when this occurs, it is known as **potential growth**
+	- i.e. growth in the *capacity* to produce more
+	- **Supply Side**
 
 #### Measuring economic growth
 - The economic <mark style="background: #ADCCFFA6;">growth rate is the rate of change in GDP</mark>
@@ -27,3 +30,6 @@
 	- Doesn't capture significant technological progress that increases utility without increasing price by much
 - Does not describe non-material welfare
 - Does not account for rising productivity
+
+## Determinants of Economic Growth
+- 
