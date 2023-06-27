@@ -49,4 +49,10 @@
 	- It is measured in milligrays, where grays are the SI unit and calculated $=\frac{E}{m}$
 - dose equivalent accounts for the type of radiation using the *quality factor* (on the formula sheet)
 	- It is measured in millisieverts, where sieverts are the SI unit and calculated $=\frac{E\times quality \space factor}{m}$
-	- 
+
+### E=mc^2 in binding energy
+- Binding energy is the amount of energy required to bind together the nucleons in a nucleus
+- It is the same amount of energy required to break apart the nucleus
+- If we measure the mass of the nucleus and of its nuclides, the nucleus has slightly less mass
+	- This is because mass - mass defect - is lost when forming the nucleus because some of it is converted to energy - the binding energy
+
