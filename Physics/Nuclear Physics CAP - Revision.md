@@ -44,4 +44,9 @@
 - A neutron decays into a proton, electron and an *antineutrino*
 	- $$^{3}_{1}H \rightarrow ^{3}_{2}He+^{0}_{-1}e$$
 
-
+### Absorbed dose and dose equivalent
+- Absorbed dose is the amount of radiation that is absorbed by a mass
+	- It is measured in milligrays, where grays are the SI unit and measured $=\frac{E}{m}$
+- dose equivalent accounts for the type of radiation using the *quality factor* (on the formula sheet)
+	- It is measured in millisieverts, where sieverts are the SI unit and measured $\frac{E\times quality \space factor}{m}$
+	- 
