@@ -29,10 +29,12 @@
 #### Gamma
 - Relatively non-ionising
 - Stopped by lead
+- EMR
 
 #### Beta
 - Ionising
 - Stopped by aluminium
+- Extremely energised electrons
 
 
 
