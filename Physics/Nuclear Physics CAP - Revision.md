@@ -25,16 +25,23 @@
 - Very ionising
 - Stopped by paper
 - Is a helium nuclide
+	- $$^{a}_{b}X\rightarrow ^{a-4}_{b-2}Y+^{4}_{2}\alpha$$
 
 #### Gamma
 - Relatively non-ionising
 - Stopped by lead
 - EMR
+	- $$^{A*}_{Z}X\rightarrow ^{A}_{Z}X+^{0}_{0}\gamma$$
 
 #### Beta
 - Ionising
 - Stopped by aluminium
 - Extremely energised electrons
-
+##### Plus
+- A proton decays into a neutron, a positron and a *neutrino*
+	- $$^{1}_{1}P\rightarrow ^{0}_{1}\beta + ^{1}_{0}Z$$
+##### Minus
+- A neutron decays into a proton, electron and an *antineutrino*
+	- $$^{3}_{1}H \rightarrow ^{3}_{2}He+^{0}_{-1}e$$
 
 
