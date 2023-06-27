@@ -46,7 +46,7 @@
 
 ### Absorbed dose and dose equivalent
 - Absorbed dose is the amount of radiation that is absorbed by a mass
-	- It is measured in milligrays, where grays are the SI unit and measured $=\frac{E}{m}$
+	- It is measured in milligrays, where grays are the SI unit and calculated $=\frac{E}{m}$
 - dose equivalent accounts for the type of radiation using the *quality factor* (on the formula sheet)
-	- It is measured in millisieverts, where sieverts are the SI unit and measured $\frac{E\times quality \space factor}{m}$
+	- It is measured in millisieverts, where sieverts are the SI unit and calculated $=\frac{E\times quality \space factor}{m}$
 	- 
