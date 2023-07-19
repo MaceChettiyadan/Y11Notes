@@ -9,4 +9,4 @@
 		- extends to *infinity*
 		- results in other objects of charge experiencing an electric force when placed in the field
 		- has an electric field which decreases with distance from the object
-		- this force may be attraction to propulsion
+		- this force may be <mark style="background: #ADCCFFA6;">attraction</mark> or <mark style="background: #ADCCFFA6;">propulsion</mark>
