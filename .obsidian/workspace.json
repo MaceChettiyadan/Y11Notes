@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Nuclear Physics CAP - Revision.md",
+                "file": "Physics/Electricity.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Nuclear Physics CAP - Revision.md",
+                "file": "Physics/Electricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Nuclear Physics CAP - Revision.md",
+                "file": "Physics/Electricity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Nuclear Physics CAP - Revision.md"
+                "file": "Physics/Electricity.md"
               }
             }
           }
@@ -161,7 +161,11 @@
   },
   "active": "778c5ddd91ce73e2",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Physics/Electricity.md",
+    "Physics/Waves.md",
     "Economics/7. GDP Growth/Homework.md",
+    "Pasted image 20230629100451.png",
     "Physics/Nuclear Physics CAP - Revision.md",
     "Economics/7. GDP Growth/PPT - GDP Growth.md",
     "Economics/!IMPORTANT!.md",
@@ -173,7 +177,6 @@
     "Compsci/ExamJanks™️.md",
     "Compsci/CyberSecoority.md",
     "Compsci/Functions (Modules).md",
-    "Physics/Waves.md",
     "Economics/3. Elasticity/PPT - PED.md",
     "Compsci/Binary & Hexadecimal.md",
     "Physics/Momentum.md",
@@ -187,8 +190,6 @@
     "Economics/2. Supply & Demand/PPT - Supply.md",
     "Economics/3. Elasticity/PPT - PES.md",
     "Economics/5. Market Failure/PPT - Externalities.md",
-    "Economics/5. Market Failure/PPT - Market Power.md",
-    "Physics/SIS & Error in Physics.md",
     "netlify.toml",
     "Economics/5. Market Failure",
     "WaveGraph.svg",
@@ -200,7 +201,6 @@
     "Images/TaxiMarket.svg",
     "Images/QTYDWL.svg",
     "Images/LabourMarket.svg",
-    "Images/ProducerSurplus.svg",
     "Economics/4. Market Efficiency",
     "New Text Document.txt",
     "Untitled",

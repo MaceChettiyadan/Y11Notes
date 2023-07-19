@@ -25,3 +25,4 @@
 - Can be **nominal** or **real**
 	- Nominal is GDP before inflation
 	- Real is GDP after inflation is accounted for
+- This is demonstrated in the diagram below
