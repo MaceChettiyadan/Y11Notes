@@ -61,7 +61,6 @@
 - Government Expenditure
 - Net Exports (Exports less Imports)
 
-
 ## Benefits and Costs
 ### Benefits
 - Increased <mark style="background: #ADCCFFA6;">material standard of living</mark>
