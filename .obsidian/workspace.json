@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Electricity.md",
+                "file": "Economics/8. Inflation/PPT - Inflation.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Electricity.md",
+                "file": "Economics/8. Inflation/PPT - Inflation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Electricity.md",
+                "file": "Economics/8. Inflation/PPT - Inflation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Electricity.md"
+                "file": "Economics/8. Inflation/PPT - Inflation.md"
               }
             }
           }
@@ -161,13 +161,15 @@
   },
   "active": "778c5ddd91ce73e2",
   "lastOpenFiles": [
+    "Physics/Electricity.md",
+    "Economics/8. Inflation/PPT - Inflation.md",
+    "Economics/8. Inflation",
     "Physics/Waves.md",
     "Economics/6. Macroeconomics/PPT - Aggregate Expenditure.md",
     "Economics/7. GDP Growth/PPT - GDP Growth.md",
     "Economics/Unit 1 Exam Revision.md",
     "Economics/!IMPORTANT!.md",
     "Economics/6. Macroeconomics/Homework.md",
-    "Physics/Electricity.md",
     "Untitled 1.md",
     "Economics/7. GDP Growth/Homework.md",
     "Pasted image 20230629100451.png",
@@ -189,7 +191,6 @@
     "home.md",
     "Economics/2. Supply & Demand/PPT - Supply.md",
     "Economics/3. Elasticity/PPT - PES.md",
-    "Economics/5. Market Failure/PPT - Externalities.md",
     "netlify.toml",
     "Economics/5. Market Failure",
     "WaveGraph.svg",
