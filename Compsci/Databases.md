@@ -1,0 +1,2 @@
+- **Data** - facts and figures - it is raw information
+	- We create tables - primitive forms are spreadsheets
