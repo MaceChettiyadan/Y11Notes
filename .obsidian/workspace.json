@@ -56,7 +56,15 @@
             }
           },
           {
-            "id": "bb9ca833be182a30",
+            "id": "d26538bed00c4f67",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "6e19cf2898ebb8a7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -64,17 +72,9 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
-          {
-            "id": "d26538bed00c4f67",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -161,8 +161,10 @@
   },
   "active": "778c5ddd91ce73e2",
   "lastOpenFiles": [
-    "Economics/8. Inflation/PPT - Inflation.md",
+    "Untitled.md",
     "Compsci/Databases.md",
+    "Table-Entity.svg",
+    "Economics/8. Inflation/PPT - Inflation.md",
     "Physics/Electricity.md",
     "Economics/8. Inflation",
     "Physics/Waves.md",
@@ -190,11 +192,9 @@
     "Economics/6. Macroeconomics",
     "Specialist/Proofs 1.md",
     "home.md",
-    "Economics/2. Supply & Demand/PPT - Supply.md",
     "netlify.toml",
     "Economics/5. Market Failure",
     "WaveGraph.svg",
-    "Untitled Diagram.svg",
     "Images/RentNYC.svg",
     "Images/Tax.svg",
     "Images/QTYDWLb.svg",
