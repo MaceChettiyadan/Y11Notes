@@ -28,3 +28,4 @@
 	- $r (d)$ is the distance between the two objects 
 - Two point charges of $7.4mC$ and $6.4mC$ are $65.4cm$ apart. What is the force acting between them.
 	- it is $1.00N$
+$24.6=\frac{x}{5.8081}$
