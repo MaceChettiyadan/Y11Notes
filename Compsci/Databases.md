@@ -2,4 +2,4 @@
 	- We create tables - primitive forms are spreadsheets
 
 **ERD/DFD entities**
-![[Table-Entity.svg]]
+![[Table-Entity.svg|size=50px]]

@@ -18,3 +18,13 @@
 - Field lines are evenly distributed around objection
 - minimum of four field lines
 	- Must be an arrow going the right direction
+
+### Coulomb's Law
+- $Fe$ - the force of an electric field
+	- It decreases inversely proportional to the square of the distance
+- $$Fe=\frac{k \space q_{1}q_2}{r^2}$$
+	- $k$ is the constant of proportionality - $9.00\times10^9$
+	- $q_{1}...$ are the two charged objects (in $c$ - Coulombs , which measure charge)
+	- $r (d)$ is the distance between the two objects 
+- Two point charges of $7.4mC$ and $6.4mC$ are $65.4cm$ apart. What is the force acting between them.
+	- it is $1.00N$
