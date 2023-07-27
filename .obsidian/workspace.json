@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compsci/Databases.md",
+                "file": "Economics/8. Inflation/Homework.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compsci/Databases.md",
+                "file": "Economics/8. Inflation/Homework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compsci/Databases.md",
+                "file": "Economics/8. Inflation/Homework.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compsci/Databases.md"
+                "file": "Economics/8. Inflation/Homework.md"
               }
             }
           }
@@ -161,9 +161,10 @@
   },
   "active": "778c5ddd91ce73e2",
   "lastOpenFiles": [
+    "Compsci/Databases.md",
+    "Economics/8. Inflation/Homework.md",
     "Compsci/Intro & Revision.md",
     "Physics/Electricity.md",
-    "Compsci/Databases.md",
     "Table-Entity.svg",
     "Untitled.md",
     "Economics/8. Inflation/PPT - Inflation.md",
@@ -191,7 +192,6 @@
     "Compsci/Ethics & Networking.md",
     "Economics/2. Supply & Demand/Homework.md",
     "Economics/6. Macroeconomics",
-    "Specialist/Proofs 1.md",
     "netlify.toml",
     "Economics/5. Market Failure",
     "WaveGraph.svg",

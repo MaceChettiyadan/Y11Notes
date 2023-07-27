@@ -1,0 +1,2 @@
+- Inflation is a persistent and appreciable rise in the general level of prices over time
+	- On the converse, we have deflation
