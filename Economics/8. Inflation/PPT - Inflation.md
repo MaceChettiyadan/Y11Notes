@@ -64,8 +64,13 @@
 ## Questions
 1. Inflation is the persistent and appreciable rise in the general or average level of prices over time
 2. $2-3\%$
-3. The consumer price index measures changes in the price of a basket of goods and services bought by households from 1 quarter to the next through the proportion of income spent on a particular group of items
+3. The consumer price index measures changes in the price of a basket of goods and services bought by the average household from 1 quarter to the next through the proportion of income spent on a particular group of items
 4. Different commodities may have different weights, so accounting for these we should have one measure
 5. Food and N-alc beverages, Alcohol and tobacco, clothing and footwear, housing, furnishings, household equipment and services, health, transport, communication, recreation and culture, education, insurance and finance services
 6. $104.7\rightarrow 107=2.2\%$
 7.  Underlying measure can trim the sides, use a weighted median or exclude volatile items - all of which exclude some prices
+8. An economy that is growing fast will increase Aggregate Demand, leading to demand-pull inflation
+9. Cost-push inflation is caused by a fall in aggregate supply resulting from increase in wages or prices of other inputs
+10. cost-push (oil prices)
+11. Workers now demand increases in wages in anticipation of higher future inflation and as the cost of their labour increases, some businesses will reduce the number of people they employ
+12. 
