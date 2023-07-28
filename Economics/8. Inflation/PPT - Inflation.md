@@ -45,3 +45,9 @@
 	- Due to wage inflation and structural change
 - **Uncertainty for decision makers**
 	- Investment decisions, reduce output and employment opportunities
+- **Economic Efficiency**
+	- People move away form productive to speculative activities (assets, investment): negative impact on economic output
+- **Hyperinflation**
+	- Above $30\% p.a. \rightarrow$ diversion of efforts towards hoarding or non-productive activities
+- **Reduction in income inequality**
+	- Bracket creeps: As income rises with inflation, higher margin of tax leading to fewer tax brackets
