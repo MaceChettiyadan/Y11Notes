@@ -51,3 +51,12 @@
 	- Above $30\% p.a. \rightarrow$ diversion of efforts towards hoarding or non-productive activities
 - **Reduction in income inequality**
 	- Bracket creeps: As income rises with inflation, higher margin of tax leading to fewer tax brackets
+
+## Benefits
+-  it encourages borrowing and consumption
+- **Helps to maintain low interest rates**
+	- Support economic confidence
+	- Encourages higher levels of consumption and investement
+- **Creates confidence about growth of economy**
+	- Assets like houses will increase in value over time
+	- Changes in prices are predictable, allowing consumers/producers to comfortably make long term decisions
