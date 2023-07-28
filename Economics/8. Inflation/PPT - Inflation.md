@@ -60,3 +60,6 @@
 - **Creates confidence about growth of economy**
 	- Assets like houses will increase in value over time
 	- Changes in prices are predictable, allowing consumers/producers to comfortably make long term decisions
+
+## Questions
+1. Inflation is the persistent and appreciable rise in the general or average level of prices over time
