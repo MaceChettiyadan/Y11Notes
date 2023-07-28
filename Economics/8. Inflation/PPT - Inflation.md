@@ -56,10 +56,16 @@
 -  it encourages borrowing and consumption
 - **Helps to maintain low interest rates**
 	- Support economic confidence
-	- Encourages higher levels of consumption and investement
+	- Encourages higher levels of consumption and investment
 - **Creates confidence about growth of economy**
 	- Assets like houses will increase in value over time
 	- Changes in prices are predictable, allowing consumers/producers to comfortably make long term decisions
 
 ## Questions
 1. Inflation is the persistent and appreciable rise in the general or average level of prices over time
+2. $2-3\%$
+3. The consumer price index measures changes in the price of a basket of goods and services bought by households from 1 quarter to the next through the proportion of income spent on a particular group of items
+4. Different commodities may have different weights, so accounting for these we should have one measure
+5. Food and N-alc beverages, Alcohol and tobacco, clothing and footwear, housing, furnishings, household equipment and services, health, transport, communication, recreation and culture, education, insurance and finance services
+6. $104.7\rightarrow 107=2.2\%$
+7.  Underlying measure can trim the sides, use a weighted median or exclude volatile items - all of which exclude some prices
