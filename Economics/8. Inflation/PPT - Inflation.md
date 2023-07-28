@@ -38,4 +38,10 @@
 - **Affects Interest Rates**
 	- Real $IR$ (nominal $IR$-inflation) must be positive for lenders to make profit and lend
 - **International Competitiveness**
-	- Country's exports at disadvantage when domestic inflation is greater than o/s
+	- Country's exports at disadvantage when domestic inflation is greater than o/s (overseas)
+- **Currency depreciation**
+	- Less o/s demand for country's goods
+- **Capital for labour substitution**
+	- Due to wage inflation and structural change
+- **Uncertainty for decision makers**
+	- Investment decisions, reduce output and employment opportunities
