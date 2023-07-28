@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/8. Inflation/Homework.md",
+                "file": "Economics/8. Inflation/PPT - Inflation.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/8. Inflation/Homework.md",
+                "file": "Economics/8. Inflation/PPT - Inflation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/8. Inflation/Homework.md",
+                "file": "Economics/8. Inflation/PPT - Inflation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/8. Inflation/Homework.md"
+                "file": "Economics/8. Inflation/PPT - Inflation.md"
               }
             }
           }
@@ -161,11 +161,11 @@
   },
   "active": "778c5ddd91ce73e2",
   "lastOpenFiles": [
-    "Economics/8. Inflation/PPT - Inflation.md",
     "Economics/8. Inflation/Homework.md",
+    "Economics/8. Inflation/PPT - Inflation.md",
+    "Physics/Electricity.md",
     "Compsci/Databases.md",
     "Compsci/Intro & Revision.md",
-    "Physics/Electricity.md",
     "Table-Entity.svg",
     "Untitled.md",
     "Economics/8. Inflation",

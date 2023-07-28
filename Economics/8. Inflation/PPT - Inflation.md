@@ -31,3 +31,11 @@
 	- Demand-pull
 	- Demand-pull
 	- Cost-push
+
+## Costs of Inflation
+- **Reduces Real Income** (purchasing power)
+	- Buy less goods with same money
+- **Affects Interest Rates**
+	- Real $IR$ (nominal $IR$-inflation) must be positive for lenders to make profit and lend
+- **International Competitiveness**
+	- Country's exports at disadvantage when domestic inflation is greater than o/s

@@ -17,6 +17,14 @@
 		- Yet, Item, Department and Supplier are all separate entities
 		- 
 
+##### Cardinalities
+- To set up a relationship between tables, we need a **Primary Key and Foreign Key**
+- $1:1$
+	- Between entities, for example wife and husband
+- $1:N$
+- $N:N$
+
+
 **ERD/DFD entities**
 ![[Table-Entity.svg|size=50px]]
 - you will get backstabbed ? if you are a chef you will get shot ?
