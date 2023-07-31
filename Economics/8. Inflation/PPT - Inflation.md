@@ -72,5 +72,24 @@
 8. An economy that is growing fast will increase Aggregate Demand, leading to demand-pull inflation
 9. Cost-push inflation is caused by a fall in aggregate supply resulting from increase in wages or prices of other inputs
 10. cost-push (oil prices)
-11. Workers now demand increases in wages in anticipation of higher future inflation and as the cost of their labour increases, some businesses will reduce the number of people they employ
-12. 
+11. It reduces inflation as AD and supply decrease.
+12. Workers now demand increases in wages in anticipation of higher future inflation and as the cost of their labour increases, some businesses will reduce the number of people they employ
+13. Inflation reduces income inequality through tax bracket creeps
+14. Country's exports at disadvantage when domestic inflation is greater than o/s (overseas)
+15. Damn bro
+
+### True/False
+1. T
+2. T
+3. T
+4. F
+5. F
+6. T
+7. T
+8. T
+9. T
+10. F
+11. T
+12. F
+13. T
+14. T
