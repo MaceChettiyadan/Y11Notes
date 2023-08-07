@@ -15,7 +15,9 @@
 	- You split data into multiple tables based on key dependencies
 	- For example, in an *items* table, there can be a field for supplier and department
 		- Yet, Item, Department and Supplier are all separate entities
-		- 
+- $3^{rd}NF$
+	- You solve type of relationships between tables
+		- any many to many between the tables
 
 ##### Cardinalities
 - To set up a relationship between tables, we need a **Primary Key and Foreign Key**

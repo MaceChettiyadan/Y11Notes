@@ -29,3 +29,31 @@
 - Two point charges of $7.4mC$ and $6.4mC$ are $65.4cm$ apart. What is the force acting between them.
 	- it is $1.00N$
 $24.6=\frac{x}{5.8081}$
+
+
+### Electric Circuits
+- Current is a flow of at least one electron
+- **Conventional Current** is the flow of $+ve$ charge, i.e. current
+- **E circuits** transform electrical energy into other forms of useful energy - thermal, electromagnetic/photonic
+
+### Minimum components for a circuit
+- <mark style="background: #ADCCFFA6;">Power pack</mark> i.e. source of energy/potential difference e.g. battery
+- <mark style="background: #ADCCFFA6;">Wire</mark> - conducting material made of a conductor
+	- Devices/component/resistors
+
+### Potential Difference
+- When charge moves from one position to another, work is done on the change i.e. they have changed in their electric potential energy
+	- $W=\Delta E$
+	- $V=\frac{W}{q}$
+	- $V=$ potential difference/voltage ($V$)
+	- $W=$ work done (change in $Ep$) ($J$)
+	- $q=$ charge ($C$)
+
+### Current
+- The amount of charge which flows past a given point in a given unit of time
+	- $I=\frac{q}{\Delta t}$
+	- $I=$ current in amperes ($A$)
+	- $q=$ charge ($C$)
+	- $\Delta t=$ time interval ($s$)
+- 3.01c 4.05m = 243s
+- $I=3.01/243$

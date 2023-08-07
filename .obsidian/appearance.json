@@ -6,5 +6,8 @@
     "snips"
   ],
   "baseFontSize": 18,
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "interfaceFontFamily": "Curlz MT",
+  "textFontFamily": "Comic Sans MS",
+  "monospaceFontFamily": "Curlz MT"
 }

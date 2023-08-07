@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "038a52bae7feaa4f",
+        "id": "604b17d285aed81b",
         "type": "tabs",
         "children": [
           {
-            "id": "778c5ddd91ce73e2",
+            "id": "0b1b83f8401a75e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/8. Inflation/PPT - Inflation.md",
+                "file": "Economics/9. Unemployment/PPT - Unemployment.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             }
           },
           {
-            "id": "6e19cf2898ebb8a7",
+            "id": "438d45ca96f5ed53",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/8. Inflation/PPT - Inflation.md",
+                "file": "Economics/9. Unemployment/PPT - Unemployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/8. Inflation/PPT - Inflation.md",
+                "file": "Economics/9. Unemployment/PPT - Unemployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,16 +134,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/8. Inflation/PPT - Inflation.md"
+                "file": "Economics/9. Unemployment/PPT - Unemployment.md"
               }
             }
+          },
+          {
+            "id": "da719c6e81bdac2f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,12 +167,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "778c5ddd91ce73e2",
+  "active": "0b1b83f8401a75e5",
   "lastOpenFiles": [
-    "Economics/8. Inflation/Homework.md",
-    "Economics/8. Inflation/PPT - Inflation.md",
-    "Physics/Electricity.md",
     "Compsci/Databases.md",
+    "Physics/Electricity.md",
+    "Economics/9. Unemployment/Homework.md",
+    "Economics/9. Unemployment/PPT - Unemployment.md",
+    "Economics/9. Unemployment",
+    "Economics/8. Inflation/PPT - Inflation.md",
+    "Untitled Diagram.svg",
+    "Economics/8. Inflation/Homework.md",
     "Compsci/Intro & Revision.md",
     "Table-Entity.svg",
     "Untitled.md",
@@ -189,8 +201,6 @@
     "Compsci/Binary & Hexadecimal.md",
     "Physics/Momentum.md",
     "Economics/2. Supply & Demand/PPT - Demand.md",
-    "Compsci/Ethics & Networking.md",
-    "Economics/2. Supply & Demand/Homework.md",
     "Economics/6. Macroeconomics",
     "netlify.toml",
     "Economics/5. Market Failure",
@@ -201,7 +211,6 @@
     "Images/SupplyCurve.svg",
     "Images/TaxiMarket.svg",
     "Images/QTYDWL.svg",
-    "Images/LabourMarket.svg",
     "Economics/4. Market Efficiency",
     "New Text Document.txt",
     "Untitled",
