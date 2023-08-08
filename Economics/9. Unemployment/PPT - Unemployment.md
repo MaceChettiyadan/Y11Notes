@@ -67,3 +67,41 @@
 - key challenge for policymakers is to achieve **low rates of unemployment** without fuelling **excessive increases in wage growth** and **inflation**
 	- the lowest rate of unemployment that achieves this is **NAIRU**
 - difference between NAIRU and real unemployment rate is known as the **unemployment rate gap**
+
+### Impacts of full employment
+- Economy is nearing or at full capacity
+- Can lead to oversupply of labour
+- Inflationary pressure as;
+	- Producers are unable to easily increase supply to meet demand
+
+### Trade off between unemployment and inflation
+- Low unemployment $\rightarrow$ high inflation
+	- Low unemployment leads to inflationary pressure due to high levels of demand
+	- this works <mark style="background: #ADCCFFA6;">vice versa</mark>
+- Achieving the economic targets of low inflation and low unemployment would involve a trade-off as the two targets **contradict each other**
+	- This relationship is referred to as the **phillips curve**
+
+### Chapter 10 Review
+1. The participation rate is the <mark style="background: #ADCCFFA6;">proportion</mark> of the working age population who are wither working, or are actively seeking work
+2. In a boom there is higher aggregate expenditure and therefore more production and thus more demand for the factors of production, including labour
+3. Frictional unemployment is unemployment that occurs due to the job search that occurs when in transition between different jobs. Thus, we can call it search unemployment!
+4. This is a benefit. It reduces inflation.
+5. Tied to btc which is tied to demand.
+6. When there is a mismatch of available and required skills in a sector of the economy
+7. Labour -> capital
+8. It is structural, older workers exist
+9. The natural rate of unemployment is structural UE plus frictional UE and should be lowr than 5%
+10. It can never be zero for it would create blas that would. Minimum wages make input costs more expensive produce less
+11. GDP gap.
+
+A8
+B9
+C
+D4
+E3
+F10
+G7
+H1
+I4
+J2
+K5
