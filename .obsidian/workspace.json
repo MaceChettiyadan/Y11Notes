@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/9. Unemployment/PPT - Unemployment.md",
+                "file": "Physics/Electricity.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/9. Unemployment/PPT - Unemployment.md",
+                "file": "Physics/Electricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/9. Unemployment/PPT - Unemployment.md",
+                "file": "Physics/Electricity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/9. Unemployment/PPT - Unemployment.md"
+                "file": "Physics/Electricity.md"
               }
             }
           },
@@ -169,10 +169,10 @@
   },
   "active": "0b1b83f8401a75e5",
   "lastOpenFiles": [
+    "Economics/9. Unemployment/PPT - Unemployment.md",
     "Compsci/Databases.md",
     "Physics/Electricity.md",
     "Economics/9. Unemployment/Homework.md",
-    "Economics/9. Unemployment/PPT - Unemployment.md",
     "Economics/9. Unemployment",
     "Economics/8. Inflation/PPT - Inflation.md",
     "Untitled Diagram.svg",

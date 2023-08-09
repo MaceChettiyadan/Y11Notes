@@ -57,3 +57,39 @@ $24.6=\frac{x}{5.8081}$
 	- $\Delta t=$ time interval ($s$)
 - 3.01c 4.05m = 243s
 - $I=3.01/243$
+
+
+## The PRAC!
+### Series
+- **Current** is the **same** in every part of a **series** circuit
+- If more components (that is, resistors) are added, the effective current is reduced, but will still be the same everywhere
+	- $I_{tot}=I_1=I_2=I_3$
+	- $V=IR$
+- For a single component in series with the energy source, $V=emf$
+- If **more components are added** in series then the **sum of their individual drops** in voltage **add up to the sum of the voltage drops** across all of them
+	- $V_{tot}=V_1+V_2+V_3$
+### Parallel
+- Current is divided among components in different branches
+	- $I_{tot}=I_1+I_2+I_3$
+- Voltage is the same in each branch
+	- $V_{tot}=V_1=V_2=V_3$
+
+
+## Ohm's law and resistance
+- **Resistance** is the measure of the difficulty with which charge moves through a medium ($\Omega$)
+	- $V=IR$ such that $R=\frac{V}{I}$
+- Ohmic vs non-ohmic devices
+	- y-axis is I (amps) and x is volts (V)
+	- when the line is not linear it is non-ohmic
+
+### Series
+- Since total current is always equal,
+- and total voltage is the sum of individuals,
+- and $V=IR$,
+	- $Re=R_1+R_2+R_3$
+
+### Parallel
+- since total voltage is the same
+- and total current is the sum of individuals,
+- and $V=IR$,
+	- $\frac{1}{Re}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+\frac{1}{R_{3}}$
