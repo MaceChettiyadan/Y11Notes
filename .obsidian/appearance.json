@@ -5,9 +5,9 @@
     "snipps",
     "snips"
   ],
-  "baseFontSize": 18,
+  "baseFontSize": 21,
   "theme": "moonstone",
   "interfaceFontFamily": "",
   "textFontFamily": "",
-  "monospaceFontFamily": "Curlz MT"
+  "monospaceFontFamily": ""
 }

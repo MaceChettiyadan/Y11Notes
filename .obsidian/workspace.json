@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Electricity.md",
+                "file": "Economics/10. BTC/PPT - BTC.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Electricity.md",
+                "file": "Economics/10. BTC/PPT - BTC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Electricity.md",
+                "file": "Economics/10. BTC/PPT - BTC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Electricity.md"
+                "file": "Economics/10. BTC/PPT - BTC.md"
               }
             }
           },
@@ -169,10 +169,15 @@
   },
   "active": "0b1b83f8401a75e5",
   "lastOpenFiles": [
-    "Economics/9. Unemployment/PPT - Unemployment.md",
-    "Compsci/Databases.md",
     "Physics/Electricity.md",
+    "Economics/10. BTC/PPT - BTC.md",
+    "Economics/7. GDP Growth/PPT - GDP Growth.md",
     "Economics/9. Unemployment/Homework.md",
+    "Economics/9. Unemployment/PPT - Unemployment.md",
+    "Economics/10. BTC",
+    "Economics/Untitled.md",
+    "Physics/Energy & Work.md",
+    "Compsci/Databases.md",
     "Economics/9. Unemployment",
     "Economics/8. Inflation/PPT - Inflation.md",
     "Untitled Diagram.svg",
@@ -183,7 +188,6 @@
     "Economics/8. Inflation",
     "Physics/Waves.md",
     "Economics/6. Macroeconomics/PPT - Aggregate Expenditure.md",
-    "Economics/7. GDP Growth/PPT - GDP Growth.md",
     "Economics/Unit 1 Exam Revision.md",
     "Economics/!IMPORTANT!.md",
     "Economics/6. Macroeconomics/Homework.md",
@@ -198,9 +202,6 @@
     "Compsci/CyberSecoority.md",
     "Compsci/Functions (Modules).md",
     "Economics/3. Elasticity/PPT - PED.md",
-    "Compsci/Binary & Hexadecimal.md",
-    "Physics/Momentum.md",
-    "Economics/2. Supply & Demand/PPT - Demand.md",
     "Economics/6. Macroeconomics",
     "netlify.toml",
     "Economics/5. Market Failure",
@@ -213,7 +214,6 @@
     "Images/QTYDWL.svg",
     "Economics/4. Market Efficiency",
     "New Text Document.txt",
-    "Untitled",
-    "Economics/3. Elasticity"
+    "Untitled"
   ]
 }

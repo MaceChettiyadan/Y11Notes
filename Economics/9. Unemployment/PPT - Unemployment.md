@@ -92,7 +92,7 @@
 8. It is structural, older workers exist
 9. The natural rate of unemployment is structural UE plus frictional UE and should be lowr than 5%
 10. It can never be zero for it would create blas that would. Minimum wages make input costs more expensive produce less
-11. GDP gap.
+11. The difference between the actual gross domestic product (GDP) and the potential GDP of an economy as represented by the long-term trend
 
 A8
 B9
