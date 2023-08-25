@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/10. BTC/PPT - BTC.md",
+                "file": "Physics/Heat.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/10. BTC/PPT - BTC.md",
+                "file": "Physics/Heat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/10. BTC/PPT - BTC.md",
+                "file": "Physics/Heat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/10. BTC/PPT - BTC.md"
+                "file": "Physics/Heat.md"
               }
             }
           },
@@ -169,12 +169,13 @@
   },
   "active": "0b1b83f8401a75e5",
   "lastOpenFiles": [
+    "Physics/Electricity.md",
+    "Physics/Heat.md",
+    "Economics/10. BTC/PPT - BTC.md",
     "Economics/9. Unemployment/PPT - Unemployment.md",
     "Economics/8. Inflation/Homework.md",
-    "Physics/Electricity.md",
     "Economics/9. Unemployment/Homework.md",
     "Economics/8. Inflation/PPT - Inflation.md",
-    "Economics/10. BTC/PPT - BTC.md",
     "Economics/7. GDP Growth/PPT - GDP Growth.md",
     "Economics/10. BTC",
     "Economics/Untitled.md",
@@ -201,7 +202,6 @@
     "Compsci/ExamJanks™️.md",
     "Compsci/CyberSecoority.md",
     "Compsci/Functions (Modules).md",
-    "Economics/3. Elasticity/PPT - PED.md",
     "Economics/6. Macroeconomics",
     "netlify.toml",
     "Economics/5. Market Failure",
