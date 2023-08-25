@@ -22,3 +22,42 @@
 - Represents the cycle's minimum level of GDP, or the end of the contraction
 - There may now be **widespread unemployment**
 - A trough is followed by a new period of expansion/recovery, marking the beginning of a new cycle
+
+## Nature of the cycles
+- Each cycle lasts several years, but we cannot generalise and there may be irregularity in duration and intensity
+- A trend overall is desirable
+- Large cyclic fluctuations are not desirable though
+- Can use BTC to
+	- **reduce intensity** of expansions and contractions
+
+### Indicators
+- An indicator is anything that can be used to predict future financial or economic trends
+	- e.g. government data
+- Types are
+	- **Leading Indicators**
+		- signal future events - examples are new housing starts, money supply, M2, consumer confidence, share prices and bond yields
+		- not always right!
+	- **Lagging Indicators**
+		- One that follows an event, confirming an economic event
+		- *UNEMPLOYMENT* is the big one
+		- The *CPI* is also good.
+	- **Coincident Indicators**
+		- occur *approximately* at the same time as the conditions they signify
+		- *PERSONAL INCOME* is a good one but;
+		- *GDP* is the best one.
+
+
+
+leading
+- share prices, bond yields and consumer and business sentiment
+lagging
+- unemployment and cpi
+coincident
+ - personal income and gdp
+
+
+expansion, peak, contraction, trough
+in an expansion, economic activity and employment of resources is increasing, inflation is increasing and unemployment is decreasing
+in a peak, inflation is substantially high compared to the rest of the cycle, employment of resources is maximized and there is minimal unemployment
+in a contraction real gdp is falling, and if this persists for two quarters or more it is termed a recession. increases in price level will slow down and it is possible that some prices in some sectors may fall
+in a trough employment of resources is minimal, unemployment is relatively high and widespread, and this marks the start of a new cycle.

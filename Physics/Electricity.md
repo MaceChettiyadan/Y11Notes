@@ -93,3 +93,13 @@ $24.6=\frac{x}{5.8081}$
 - and total current is the sum of individuals,
 - and $V=IR$,
 	- $\frac{1}{Re}=\frac{1}{R_{1}}+\frac{1}{R_{2}}+\frac{1}{R_{3}}$
+
+
+### Electrical Safety
+- Bird on power line - bird has more resistance than line, so current won't go through it
+	- if it stands over both lines, then the circuit is completed by the bird (short-circuited), it is shocked
+- **Fuses**
+	- some houses have fuses
+	- Residual current devices - **RCD** - monitor current in active vs natural lines - might be different
+	- **Insulator** - most devices have an insulation coating
+	- 
