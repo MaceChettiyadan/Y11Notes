@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Heat.md",
+                "file": "Economics/11. Income Distribution/PPT - Income Distribution.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Heat.md",
+                "file": "Economics/11. Income Distribution/PPT - Income Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Heat.md",
+                "file": "Economics/11. Income Distribution/PPT - Income Distribution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Heat.md"
+                "file": "Economics/11. Income Distribution/PPT - Income Distribution.md"
               }
             }
           },
@@ -169,8 +169,10 @@
   },
   "active": "0b1b83f8401a75e5",
   "lastOpenFiles": [
-    "Physics/Electricity.md",
     "Physics/Heat.md",
+    "Economics/11. Income Distribution/PPT - Income Distribution.md",
+    "Economics/11. Income Distribution",
+    "Physics/Electricity.md",
     "Economics/10. BTC/PPT - BTC.md",
     "Economics/9. Unemployment/PPT - Unemployment.md",
     "Economics/8. Inflation/Homework.md",
@@ -201,7 +203,6 @@
     "Compsci/Ari's Presentation.md",
     "Compsci/ExamJanks™️.md",
     "Compsci/CyberSecoority.md",
-    "Compsci/Functions (Modules).md",
     "Economics/6. Macroeconomics",
     "netlify.toml",
     "Economics/5. Market Failure",
@@ -213,7 +214,6 @@
     "Images/TaxiMarket.svg",
     "Images/QTYDWL.svg",
     "Economics/4. Market Efficiency",
-    "New Text Document.txt",
-    "Untitled"
+    "New Text Document.txt"
   ]
 }
