@@ -22,4 +22,28 @@
 	- **Absolute poverty:** a situation where people live below a subsistence level of income
 	- **Relative poverty:** a situation where people do not achieve what our society defines as a minimum standard of living
 - **Income Inequality**
-	- a measure of the unevenness in income distribution with
+	- a measure of the unevenness in income distribution within a population
+	- Can be illustrated using <mark style="background: #ADCCFFA6;">the lorenz curve</mark> and represented using the <mark style="background: #ADCCFFA6;">gini coefficient</mark>
+
+#### Lorenz Curve
+- Population is ranked according to their income, from the lowest to highest income
+- A **model** showing <mark style="background: #ADCCFFA6;">cumulative proportion of the population</mark>, ranked by income, against <mark style="background: #ADCCFFA6;">their cumulative share of income</mark>
+- Is called the line of equality
+
+![[LorenzCurve.svg]]
+#### Gini Coefficient
+- **Measures** the degree of **income inequality** in a country
+	- between $0$ and $1$ where $1$ is absolute inequality and $0$ is income equality
+	- measured as <mark style="background: #ADCCFFA6;">(area between diagonal and lorenz curve)/(entire area under the diagonal)</mark>
+
+#### Explanation of Inequality
+- **Personal traits** e.g. personalities and talents
+- **Occupational conditions** e.g. training, education and responsibilities
+- **Opportunities**
+- **Other factors** e.g. sickness, disabilities, age and <mark style="background: #ADCCFFA6;">LUCK</mark>
+
+### Strategies for income distribution
+- **Direct taxation** - personal tax is progressive, the use of brackets and whatnot
+- **Transfer payments** - cash support for different groups
+- **Indirect government payments** - social transfers increase access to basic services which may be under consumed if provided by the market
+
