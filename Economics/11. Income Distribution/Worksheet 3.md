@@ -25,5 +25,7 @@ Income tax can be split into brackets. This means that those who earn more incom
 1. (i) 1m (ii) 0%
 2. Education. Natural Talent. Luck
 3. Direct: government services and payments. Indirect: infrastructure and health and whatnot.
-4. 
+
+
+
 

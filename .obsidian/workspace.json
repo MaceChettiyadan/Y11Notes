@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Heat.md",
+                "file": "Economics/11. Income Distribution/Worksheet 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Heat.md",
+                "file": "Economics/11. Income Distribution/Worksheet 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Heat.md",
+                "file": "Economics/11. Income Distribution/Worksheet 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Heat.md"
+                "file": "Economics/11. Income Distribution/Worksheet 3.md"
               }
             }
           },
@@ -170,9 +170,9 @@
   },
   "active": "2f8adfe52dfec140",
   "lastOpenFiles": [
-    "Economics/11. Income Distribution/Worksheet 3.md",
     "Economics/11. Income Distribution/PPT - Income Distribution.md",
     "Physics/Heat.md",
+    "Economics/11. Income Distribution/Worksheet 3.md",
     "Physics/Nuclear Physics.md",
     "Images/LorenzCurve.svg",
     "Physics/Vectors & Scalars.md",
