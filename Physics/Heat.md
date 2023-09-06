@@ -40,3 +40,9 @@
 	- c) A uranium pellet, which has not been doped.
 - 10.9
 	-  
+
+#### Thermal Conductivity & Expansion
+- Poor electrical conductors tend to be poor thermal conductors
+	- they use **mobile particles** as a mechanism to transfer energy, such as **electrons**
+- **Thermal expansion** refers to particles in a substance gaining thermal energy, leading to particles vibrating more (as per the kinetic theory of matter), thus expanding more in every dimension
+- 

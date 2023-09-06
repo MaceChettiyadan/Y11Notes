@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/11. Income Distribution/Worksheet 3.md",
+                "file": "Physics/Heat.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 314.5
   },
   "right": {
     "id": "eab940f49f2c5c33",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/11. Income Distribution/Worksheet 3.md",
+                "file": "Physics/Heat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/11. Income Distribution/Worksheet 3.md",
+                "file": "Physics/Heat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/11. Income Distribution/Worksheet 3.md"
+                "file": "Physics/Heat.md"
               }
             }
           },
@@ -170,12 +170,14 @@
   },
   "active": "2f8adfe52dfec140",
   "lastOpenFiles": [
+    "Economics/12. The role of government/Homework.md",
+    "Physics/Vectors & Scalars.md",
+    "Economics/11. Income Distribution/Worksheet 3.md",
+    "Economics/12. The role of government",
     "Economics/11. Income Distribution/PPT - Income Distribution.md",
     "Physics/Heat.md",
-    "Economics/11. Income Distribution/Worksheet 3.md",
     "Physics/Nuclear Physics.md",
     "Images/LorenzCurve.svg",
-    "Physics/Vectors & Scalars.md",
     "Untitled Diagram.svg",
     "Economics/11. Income Distribution",
     "Physics/Electricity.md",
@@ -204,7 +206,6 @@
     "Pasted image 20230629100451.png",
     "Physics/Nuclear Physics CAP - Revision.md",
     "Economics/7. GDP Growth",
-    "Compsci/Ari's Presentation.md",
     "Economics/6. Macroeconomics",
     "netlify.toml",
     "Economics/5. Market Failure",
@@ -214,7 +215,6 @@
     "Images/QTYDWLb.svg",
     "Images/SupplyCurve.svg",
     "Images/TaxiMarket.svg",
-    "Economics/4. Market Efficiency",
-    "New Text Document.txt"
+    "Economics/4. Market Efficiency"
   ]
 }
