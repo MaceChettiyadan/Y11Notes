@@ -45,4 +45,7 @@
 - Poor electrical conductors tend to be poor thermal conductors
 	- they use **mobile particles** as a mechanism to transfer energy, such as **electrons**
 - **Thermal expansion** refers to particles in a substance gaining thermal energy, leading to particles vibrating more (as per the kinetic theory of matter), thus expanding more in every dimension
-- 
+	- can cause problems - e.g. railroad tracks
+
+#### Thermal Equilibrium
+- Two substances in contact (easy to picture solids, but can be **any state**) which are of different temperatures will continuously transfer heat from hotter to colder substances until they reach thermal equilibrium i.e. **the same temperature**
