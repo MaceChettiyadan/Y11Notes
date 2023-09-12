@@ -51,7 +51,7 @@
 	- can cause problems - e.g. railroad tracks
 
 #### Thermal Equilibrium
-- Two substances in contact (easy to picture solids, but can be **any state**) which are of different temperatures will continuously transfer heat from hotter to colder substances until they reach thermal equilibrium i.e. **the same temperature**
+- Two substances in contact (easy to picture solids, but can be **any state**) which are of different temperatures will continuously transfer heat from hotter to colder substances (most likely - it can happen the other way in the zany zone) until they reach thermal equilibrium i.e. **the same temperature**
 
 #### Specific Heat Capacity
 - The amount of energy required to raise the temperature of 1kg of a substance by 1KF 
