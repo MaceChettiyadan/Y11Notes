@@ -1,6 +1,6 @@
 ## Government Policy Objectives
 #### Sustainable Economic Growth
-- **stable economic growth **that can be <mark style="background: #ADCCFFA6;">sustained over the long term</mark> (maintained for future generation)
+- **stable economic growth **that can be <mark style="background: #ADCCFFA6;">sustained over the long term</mark> (maintained for future generations)
 - **Economic growth** refers to the <mark style="background: #ADCCFFA6;">growth in the production capacity of an economy over time </mark>(usually measured in terms of GDP)
 - Estimated target range is **3-4% GDP growth** rate per annum
 
@@ -10,9 +10,9 @@
 		- Requires <mark style="background: #ADCCFFA6;">low inflation rates</mark>
 	- Target range is **2-3%** rate of **inflation p.a.**
 #### Full Employment
-- Refers to when everyone who is willing and able to work can find employment
+- Refers to z
 - This means that cyclical unemployment is zero
-- A person is considered unemployed when they are willing and able to work and in paid work for at least an hour a week
+	- A person is considered unemployed when they are willing and able to work and in paid work for at least an hour a week
 - estimated target is **4.5%**
 
 #### Equitable Income Distribution
@@ -22,11 +22,10 @@
 
 ## Taxation and Revenue
 - The two tasks of the government are to **collect revenue** and **spend money**
-- Four main taxes
+- main taxes
 	- [[#Taxes on Goods and Services]]
 	- [[#Income tax]]
 	- Excise and Customs duty
-	- Property tax
 - **know the size and composition, basically the main revenue/expenditure**
 
 ### Taxation
@@ -80,7 +79,7 @@
 - means of **protecting** Australian producers from **overseas competition**
 
 #### Taxes on property and wealth
-**Capital Gains Tax** (<mark style="background: #ADCCFFA6;">IMPORTANT</mark>)
+**Capital Gains Tax** (<mark style="background: #ADCCFFA6;">IMPORTANT</mark>) **NOT! HAHAHAHa jk**
 - progressive tax which is levied on capital gains (profits) from the sale of assets held for **longer than 12 months**
 - adjusted for **inflation**
 - applies to **shares**, etc.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/Heat.md",
+                "file": "Economics/12. The role of government/PPT - Role of Government.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Heat.md",
+                "file": "Economics/12. The role of government/PPT - Role of Government.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Heat.md",
+                "file": "Economics/12. The role of government/PPT - Role of Government.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Heat.md"
+                "file": "Economics/12. The role of government/PPT - Role of Government.md"
               }
             }
           },
@@ -144,6 +144,16 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {}
+            }
+          },
+          {
+            "id": "b6d329156a2e0ce6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
             }
           }
         ],
@@ -171,16 +181,17 @@
   "active": "2f8adfe52dfec140",
   "lastOpenFiles": [
     "Economics/12. The role of government/PPT - Role of Government.md",
+    "Economics/11. Income Distribution/PPT - Income Distribution.md",
+    "Economics/3. Elasticity/PPT - PED.md",
+    "Physics/Heat.md",
     "Economics/12. The role of government/Homework.md",
     "Physics/Waves.md",
-    "Physics/Heat.md",
     "Physics/Nuclear Physics.md",
     "Physics/SIS & Error in Physics.md",
     "Physics/Test Notes.md",
     "Physics/Vectors & Scalars.md",
     "Economics/11. Income Distribution/Worksheet 3.md",
     "Economics/12. The role of government",
-    "Economics/11. Income Distribution/PPT - Income Distribution.md",
     "Images/LorenzCurve.svg",
     "Untitled Diagram.svg",
     "Economics/11. Income Distribution",
@@ -203,7 +214,6 @@
     "Economics/6. Macroeconomics/PPT - Aggregate Expenditure.md",
     "Economics/Unit 1 Exam Revision.md",
     "Economics/!IMPORTANT!.md",
-    "Economics/6. Macroeconomics/Homework.md",
     "Pasted image 20230629100451.png",
     "Economics/7. GDP Growth",
     "Economics/6. Macroeconomics",
