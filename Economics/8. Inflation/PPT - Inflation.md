@@ -1,5 +1,5 @@
 - **Inflation** is the persistent and appreciable rise in the general or average level of prices over time
-	- Measured by the <mark style="background: #ADCCFFA6;">Consumer Price Index</mark> - a weighted index based on proportion of income spent on a particular group of itemsw
+	- Measured by the <mark style="background: #ADCCFFA6;">Consumer Price Index</mark> - a weighted index based on proportion of income spent on a particular group of items
 	- Measures changes in the price of a basket of goods and services bought by households from 1 quarter to the next
 - **CPI**
 	- Attaches weights to each commodity to reflect importance in pattern of expenditure in an average household
