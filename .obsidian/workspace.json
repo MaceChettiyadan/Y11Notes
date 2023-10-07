@@ -6,7 +6,6 @@
       {
         "id": "0818507174124341",
         "type": "tabs",
-        "dimension": 43.19371727748691,
         "children": [
           {
             "id": "2f8adfe52dfec140",
@@ -14,26 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/EOY Exam Revision.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a968691eef23ad8a",
-        "type": "tabs",
-        "dimension": 56.80628272251309,
-        "children": [
-          {
-            "id": "6c0f3011b8790e4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Heat.md",
+                "file": "Compsci/Exam Revision S2.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transfer paym",
+                "query": "price floo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Heat.md",
+                "file": "Compsci/Exam Revision S2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Heat.md",
+                "file": "Compsci/Exam Revision S2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/Heat.md"
+                "file": "Compsci/Exam Revision S2.md"
               }
             }
           },
@@ -198,40 +178,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6c0f3011b8790e4c",
+  "active": "2f8adfe52dfec140",
   "lastOpenFiles": [
-    "Economics/Unit 1 Exam Revision.md",
-    "Economics/EOY Exam Revision.md",
+    "Compsci/Databases.md",
+    "Compsci/Exam Revision S2.md",
+    "Economics/2. Supply & Demand/PPT - Equilibrium.md",
+    "Economics/2. Supply & Demand/PPT - Supply.md",
+    "Economics/2. Supply & Demand/PPT - Demand.md",
+    "Economics/7. GDP Growth/PPT - GDP Growth.md",
     "Economics/1. Introduction/PPT.md",
+    "Economics/8. Inflation/PPT - Inflation.md",
     "Economics/11. Income Distribution/PPT - Income Distribution.md",
+    "Economics/1. Introduction/Homework.md",
+    "Economics/5. Market Failure/PPT - Causes of Market Failure.md",
+    "Economics/4. Market Efficiency/PPT - Market Efficiency.md",
+    "Economics/3. Elasticity/PPT - PES.md",
+    "Economics/5. Market Failure/PPT - Market Power.md",
+    "Economics/5. Market Failure/PPT - Externalities.md",
+    "Economics/EOY Exam Revision.md",
+    "Physics/Heat.md",
+    "Economics/Unit 1 Exam Revision.md",
     "Economics/12. The role of government/PPT - Role of Government.md",
     "Economics/9. Unemployment/PPT - Unemployment.md",
-    "Economics/8. Inflation/PPT - Inflation.md",
     "Economics/11. Income Distribution/Worksheet 3.md",
     "Economics/6. Macroeconomics/Homework.md",
     "Economics/12. The role of government/Homework.md",
     "Economics/3. Elasticity/PPT - PED.md",
-    "Physics/Heat.md",
     "Physics/Waves.md",
     "Physics/Nuclear Physics.md",
-    "Physics/SIS & Error in Physics.md",
-    "Physics/Test Notes.md",
-    "Physics/Vectors & Scalars.md",
     "Economics/12. The role of government",
     "Images/LorenzCurve.svg",
     "Untitled Diagram.svg",
     "Economics/11. Income Distribution",
-    "Physics/Electricity.md",
-    "Economics/10. BTC/PPT - BTC.md",
-    "Economics/8. Inflation/Homework.md",
-    "Economics/9. Unemployment/Homework.md",
-    "Economics/7. GDP Growth/PPT - GDP Growth.md",
     "Economics/10. BTC",
-    "Economics/Untitled.md",
-    "Physics/Energy & Work.md",
-    "Compsci/Databases.md",
     "Economics/9. Unemployment",
-    "Compsci/Intro & Revision.md",
     "Table-Entity.svg",
     "Economics/8. Inflation",
     "Pasted image 20230629100451.png",

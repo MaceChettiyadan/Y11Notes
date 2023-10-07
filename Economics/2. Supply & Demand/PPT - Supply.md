@@ -26,7 +26,7 @@
 		- This is like expected future prices; expected price changes cause suppliers to alter current supply to take advantage of future prices
 	- **Technology**
 		- Improvement in technology can reduce production costs, allowing suppliers to produce more at a lower cost
-		- Increase in supply is show as a righward shift of the supply curve
+		- Increase in supply is show as a rightward shift of the supply curve
 	- **Prices of other goods**
 		- If the price of a related good increases, the supplier can shift production to increase the quantity supplied of the related good
 	- **Input prices**

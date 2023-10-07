@@ -14,3 +14,12 @@
  
 #### Economic Systems
 - exist to solve the four basic questions
+
+#### The use of models
+- Simplified representation of economic reality showing relationship between certain economic variables
+- Determine cause and effect
+- Ability to predict events accurately
+- PPF is an example
+
+##### Production Possibility Frontier
+- Used to visualise the opportunity cost of producing 
