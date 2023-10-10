@@ -85,11 +85,7 @@
 - Encryption, privileges
 #### backups of organisational data
 - RAID independent array of disks.
+#### restricting access to data
+- access cards, privileges - physical and digital
 
-# WHAT IS FIRST NORMAL FORM!!!!???
-- SCSA: all fields must be atomic and there must be no repeating attributes
-	- THIS IS ALSO THE SAME AS *THEIR* DEFINITION OF A RELATION!
-- ok lets assume that that is the 1NF definition
-	- THE TERM 'REPEATING ATTRIBUTE' IS USED MULTIPLE TIMES WITH MULTIPLE DEFINITIONS
-	- ok i guess fields and attributes are different things
-- even then
+
