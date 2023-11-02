@@ -17,7 +17,7 @@
 
 ###### Total Surplus
 - **Total Surplus** is the measure of the net benefits to society from the production and consumption of a good. It is equated $TS = PS+CS$
-- The aim of society should be to increase $TS$ in every market - it is an extremelyimportant concept because it provides us with a measure of **market efficiency.**
+- The aim of society should be to increase $TS$ in every market - it is an extremely important concept because it provides us with a measure of **market efficiency.**
 
 #### Outline the efficiency of market equilibrium i.e. maximising total surplus
 - 
