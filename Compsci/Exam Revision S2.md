@@ -13,7 +13,7 @@
 - An RDBMS provides secure and efficient storage and access to data through features such as data integrity, data security, performance optimisation and data security.
 
 #### independence of data from RDBMS
-- data independence from an RDBMS is the **capability for the database structure to be modified without having to rewrite or modify any applications that depend on the database**; while the RDBMS is an interface (API) for modification of the database, it still <mark style="background: #ADCCFFA6;">exists independently of the RDBMS</mark>.
+- data independence from an RDBMS is the **capability for the database structure to be modified without having to rewrite or modify any applications that depend on the database**; while the RDBMS is an interface (API) for modification of the database, it still <mark style="background: #ADCCFFA6;">exists independently of the RDB</mark>.
 
 ### organisation of a relational database
 #### entities
@@ -32,11 +32,11 @@
 - tables have records have fields.
 
 #### datatypes
-- **date:** represented in most SQL standards as `Date`, can specify a format default but it is usually YYYY-MM-DD
-- **text:** use `Text` or `Char` - char is obviously a lot shorter, both have sizes, char is to 255 and text is basically anything in practice.
+- **date:** represented in most SQL standards as `DATE`, can specify a format default but it is usually YYYY-MM-DD
+- **text:** use `TEXT` or `CHAR` - char is obviously a lot shorter, both have sizes, char is to 255 and text is basically anything in practice.
 - **int:** signed or unsigned `INT` has a size.
 - **float:** most sql servers determine whether to use float or double automatically so just use `FLOAT`
-- **boolean:** `Bool` **importantly,** it is a numeric value with zero false 1 true.
+- **boolean:** `BOOL` **importantly,** it is a numeric value with zero false 1 true.
 
 ### primary and foreign keys to link tables
 - Primary keys are the unique identifiers and are used by foreign keys to establish secure, integral relations between data
@@ -78,7 +78,7 @@
 #### privacy concerns
 - SQL Injection!!! Deletion of data for the company, exposure for customers, modification of data.
 #### appropriate use of data
-- data mining, how are you goi ng to use data. dont store old data.
+- data mining, how are you going to use data. dont store old data.
 
 ### Security Issues
 #### Keeping personal data private
@@ -89,3 +89,4 @@
 - access cards, privileges - physical and digital
 
 
+Format underline __Book_ID (PK)__

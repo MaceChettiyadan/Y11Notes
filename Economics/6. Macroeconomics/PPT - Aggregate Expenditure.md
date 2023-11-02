@@ -2,7 +2,7 @@
 - Statisticians and economists develop accounting systems based on the circular flow
 - Measured using <mark style="background: #ADCCFFA6;">GDP</mark>
 	- **Expenditure Approach:** addition of all final expenditures within a country given a period of time
-	- **National income Approach:** addition of all income earned from factors of production that produce goods and services given a period of time
+	- **National income Approach:** addition of all income earned from factors of production that produce goods and services agiven a period of time
 	- **Output approach**: addition of all value of goods and services produced in a country given a period of time
 - AE is
 	- *the total amount that firms, households and government plan to spend on final goods and services at each level of income*

@@ -66,3 +66,5 @@
 	- instead we have the gauze, bunsen, tripod. however we want a clap holding the test tube and stuff
 	- nestle the thermometer as deep as possible amongst the metal beads within the test tube
 - possible improvement is wooden
+
+

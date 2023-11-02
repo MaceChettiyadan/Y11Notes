@@ -7,7 +7,7 @@
 - The **demand curve** is a willingness to pay curve - it reflects the maximum price a consumer is prepared to pay for a particular good.
 - The difference between what the consumer is *prepared to pay* and what they *actually pay* is the **consumer surplus** ($CS$)
 - In the demand curve, below the equilibrium is consumer expenditure, and above is consumer surplus.
-	- At its core, consumer surplus is a measure of the economic weel-being for consumers.
+	- At its core, consumer surplus is a measure of the economic wel l-being for consumers.
 
 ###### Producer Surplus
 - The **supply curve** reflects the minimum price that producers are willing to sell their products
@@ -24,7 +24,7 @@
 
 #### Discuss how under- and overproduction in a market can result in a deadweight loss
 - When $TS$ is reduced because of either under or overproduction, it is referred to as **deadweight loss**
-	- A **deadwight loss** refers to an avodaiable decrease in $TS$ because something has prevented the market from producing the optimal output. An example could be *monopoly*.
+	- A **deadweight loss** refers to an avoidable decrease in $TS$ because something has prevented the market from producing the optimal output. An example could be *monopoly*.
 - To minimise $DWL$ is the role of government, though some government policies can reduced economic efficiency, as detailed in the next heading.
 
 #### Demonstrate and explain the effects of a tax and subsidy on a market
