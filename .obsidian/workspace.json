@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics/5. Market Failure/PPT - Externalities.md",
+                "file": "Economics/6. Macroeconomics/PPT - Aggregate Expenditure.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economics/5. Market Failure/PPT - Externalities.md",
+                "file": "Economics/6. Macroeconomics/PPT - Aggregate Expenditure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economics/5. Market Failure/PPT - Externalities.md",
+                "file": "Economics/6. Macroeconomics/PPT - Aggregate Expenditure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Economics/5. Market Failure/PPT - Externalities.md"
+                "file": "Economics/6. Macroeconomics/PPT - Aggregate Expenditure.md"
               }
             }
           },
@@ -180,17 +180,24 @@
   },
   "active": "2f8adfe52dfec140",
   "lastOpenFiles": [
-    "Economics/5. Market Failure/Homework.md",
+    "Economics/6. Macroeconomics/Homework.md",
+    "Economics/1. Introduction/PPT.md",
+    "Economics/1. Introduction/Homework.md",
     "Economics/4. Market Efficiency/Homework.md",
-    "Economics/Unit 1 Exam Revision.md",
-    "Economics/5. Market Failure/PPT - Market Power.md",
-    "Economics/4. Market Efficiency/PPT - Market Efficiency.md",
+    "Economics/5. Market Failure/Homework.md",
     "Economics/3. Elasticity/PPT - PED.md",
-    "Economics/3. Elasticity/PPT - PES.md",
-    "Economics/3. Elasticity/Test Tips.md",
+    "Economics/2. Supply & Demand/PPT - Demand.md",
     "Economics/2. Supply & Demand/PPT - Equilibrium.md",
     "Economics/2. Supply & Demand/PPT - Supply.md",
-    "Economics/2. Supply & Demand/PPT - Demand.md",
+    "Economics/5. Market Failure/PPT - Causes of Market Failure.md",
+    "Economics/5. Market Failure/PPT - Externalities.md",
+    "Economics/5. Market Failure/PPT - Market Power.md",
+    "Economics/7. GDP Growth/PPT - GDP Growth.md",
+    "Economics/7. GDP Growth/Homework.md",
+    "Economics/4. Market Efficiency/PPT - Market Efficiency.md",
+    "Economics/Unit 1 Exam Revision.md",
+    "Economics/3. Elasticity/PPT - PES.md",
+    "Economics/3. Elasticity/Test Tips.md",
     "Economics/2. Supply & Demand/Homework.md",
     "Physics/Electricity.md",
     "Physics/Waves.md",
@@ -199,13 +206,6 @@
     "Physics/Test Notes.md",
     "Physics/SIS & Error in Physics.md",
     "Physics/Exam Revision.md",
-    "Physics/Force.md",
-    "Physics/Equations of Motion.md",
-    "Physics/Energy & Work.md",
-    "Physics/Collisions.md",
-    "Physics/Momentum.md",
-    "Physics/Inclined planes.md",
-    "Physics/Nuclear Physics.md",
     "Untitled Diagram.svg",
     "Economics/12. The role of government",
     "Images/LorenzCurve.svg",

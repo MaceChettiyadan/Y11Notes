@@ -1,4 +1,4 @@
-## Aggregate Expenditure
+## Aggregate Expenditurez
 - Statisticians and economists develop accounting systems based on the circular flow
 - Measured using <mark style="background: #ADCCFFA6;">GDP</mark>
 	- **Expenditure Approach:** addition of all final expenditures within a country given a period of time
