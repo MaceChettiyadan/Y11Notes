@@ -49,7 +49,7 @@
 	- People move away form productive to speculative activities (assets, investment): negative impact on economic output
 - **Hyperinflation**
 	- Above $30\% p.a. \rightarrow$ diversion of efforts towards hoarding or non-productive activities
-- **Reduction in income inequality**
+- **Reduction in income equality**
 	- Bracket creeps: As income rises with inflation, higher margin of tax leading to fewer tax brackets
 
 ## Benefits

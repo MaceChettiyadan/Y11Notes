@@ -84,4 +84,4 @@
 - **Environmental Degradation**
 	- As production and consumption increase, <mark style="background: #ADCCFFA6;">negative externalities</mark> are likely to arise, as well as the likelihood of increased depletion of non-renewable resources
 - **Social Dislocation**
-	- High rates of growth may lead to crimes, stress suicide.\
+	- High rates of growth may lead to crimes, stress suicide.
