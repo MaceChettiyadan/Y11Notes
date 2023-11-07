@@ -13,6 +13,9 @@ do not study international competitiveness.
 	1. <mark style="background: #ADCCFFA6;">Trade</mark> - The flow of goods and services between countries
 	2. <mark style="background: #ADCCFFA6;">Tourism</mark> - The movement of people outside their places of residence for business or personal purposes.
 	3. <mark style="background: #ADCCFFA6;">Migration</mark> - The movement of people from their place of residence to a new host country for the purpose of settling there permanently 
-	4. <mark style="background: #ADCCFFA6;">Investment</mark> - the purchasing of 
+	4. <mark style="background: #ADCCFFA6;">Investment</mark> - the purchasing of assets 
 - **Linkage with Singapore**
-	- Trade. Singapore is Australia's **largest** investment and trading partner in southeast Asia, and the fifth largest overall.
+	- Trade. Singapore is Australia's **largest** investment and trading partner in southeast Asia, and the fifth largest overall ($59.2B$ in 2022)
+		- There is a free trade agreement between Singapore and Australia; this includes the elimination of tariffs.
+		- Also, the geographical proximity between Australia and Singapore aids in trade.
+		- 
