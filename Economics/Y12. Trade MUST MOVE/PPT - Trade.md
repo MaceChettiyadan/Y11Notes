@@ -57,6 +57,11 @@ do not study international competitiveness.
 - **Reasons for change**
 	- Rapid growth in <mark style="background: #ADCCFFA6;">China</mark> and other Asian economies that resulted in a major resources boom in Australia from 2001-2012
 	- Even with the<mark style="background: #ADCCFFA6;"> end of the mining boom</mark>, resources are likely to remain **dominant**
+	- So, **majorly**,
+		1. Dramatic decline in rural exports
+		2. A significant increase in resource (minerals and fuels) exports
+		3. A relative decline in manufacturing exports
+		4. The increasing importance of services exports (especially tourism and education)
 
 #### Direction
 - 
