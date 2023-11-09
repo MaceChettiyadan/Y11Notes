@@ -42,4 +42,12 @@ do not study international competitiveness.
 	3. **Domestic** Economic **Growth** - if <mark style="background: #ADCCFFA6;">we are booming</mark>, we will demand more, so imports increase
 	4. Relative **inflation** rates - <mark style="background: #ADCCFFA6;">higher inflation rates</mark> would lead to higher demand for <mark style="background: #ADCCFFA6;">imports</mark>, and less for exports
 	5. Relative **interest** rates - <mark style="background: #ADCCFFA6;">higher interest rates</mark> lead to more investment in Australia
-	6. **Productivity** and **Cost** **efficiency**
+	6. **Productivity** and **Cost** **efficiency** - if a country is <mark style="background: #ADCCFFA6;">better at producing things</mark>, they will be more competitive, and the demand for their goods would <mark style="background: #ADCCFFA6;">increase</mark>
+
+#### Composition
+- **Primary Industries** dominate Australian <mark style="background: #ADCCFFA6;">exports</mark>
+	- Manufactured goods have been Australia's most important import category
+- Changes to **composition** have been associated with rapid increase in mineral and energy exports and the decline in rural exports
+
+#### Direction
+- 
