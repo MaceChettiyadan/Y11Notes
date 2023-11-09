@@ -54,6 +54,9 @@ do not study international competitiveness.
 	- We have <mark style="background: #ADCCFFA6;">enjoyed a comparative advantage in the production of primary goods</mark> - specifically agricultural and resources
 	- However, over the **past few decades** there has been a significant <mark style="background: #ADCCFFA6;">increase</mark> in the relative importance of <mark style="background: #ADCCFFA6;">mineral and energy</mark> resources and a <mark style="background: #ADCCFFA6;">decline</mark> in the importance of <mark style="background: #ADCCFFA6;">rural exports</mark>
 		- agriculture is still large
+- **Reasons for change**
+	- Rapid growth in <mark style="background: #ADCCFFA6;">China</mark> and other Asian economies that resulted in a major resources boom in Australia from 2001-2012
+	- Even with the<mark style="background: #ADCCFFA6;"> end of the mining boom</mark>, resources are likely to remain **dominant**
 
 #### Direction
 - 
