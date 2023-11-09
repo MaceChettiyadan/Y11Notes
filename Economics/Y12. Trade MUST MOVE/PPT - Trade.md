@@ -47,7 +47,13 @@ do not study international competitiveness.
 #### Composition
 - **Primary Industries** dominate Australian <mark style="background: #ADCCFFA6;">exports</mark>
 	- Manufactured goods have been Australia's most important import category
-- Changes to **composition** have been associated with rapid increase in mineral and energy exports and the decline in rural exports
+	- Changes to **composition** have been associated with rapid increase in mineral and energy exports and the decline in rural exports
+- The **composition of Australia's trade** will reflect its **comparative advantage**
+	- Traditionally Australia has been a **major exporter of primary commodities**
+	- we have a large resource/population ratio and substantial mineral wealth
+	- We have <mark style="background: #ADCCFFA6;">enjoyed a comparative advantage in the production of primary goods</mark> - specifically agricultural and resources
+	- However, over the **past few decades** there has been a significant <mark style="background: #ADCCFFA6;">increase</mark> in the relative importance of <mark style="background: #ADCCFFA6;">mineral and energy</mark> resources and a <mark style="background: #ADCCFFA6;">decline</mark> in the importance of <mark style="background: #ADCCFFA6;">rural exports</mark>
+		- agriculture is still large
 
 #### Direction
 - 
