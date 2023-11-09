@@ -31,4 +31,15 @@ do not study international competitiveness.
 #### Trade Intensity
 - **Trade Intensity**
 	- Measures an economy's integration with the world economy. A higher trade intensity means an economy is more susceptible to external shocks in the world economy.
-	- It is the **sum of exports and imports over GDP** - $$(\frac{X+M}{GDP})\times 100$$
+	- It is the **sum of exports and imports over real GDP** - $$(\frac{X+M}{GDP})\times 100$$ (in Australia it is $40\%$)inf
+- **Factors that determine a country's trade intensity**
+	1. Relative size of the economy
+	2. Location relative to foreign markets (proximity)
+	3. Extent of barriers to trade (natural and artificial)
+- **Factors that influence economic transactions between economies**
+	1. **Exchange** rates
+	2. **World** Economic **Growth** - if the <mark style="background: #ADCCFFA6;">rest of the world is booming</mark>, there would be more demand for exports
+	3. **Domestic** Economic **Growth** - if <mark style="background: #ADCCFFA6;">we are booming</mark>, we will demand more, so imports increase
+	4. Relative **inflation** rates - <mark style="background: #ADCCFFA6;">higher inflation rates</mark> would lead to higher demand for <mark style="background: #ADCCFFA6;">imports</mark>, and less for exports
+	5. Relative **interest** rates - <mark style="background: #ADCCFFA6;">higher interest rates</mark> lead to more investment in Australia
+	6. **Productivity** and **Cost** **efficiency**
