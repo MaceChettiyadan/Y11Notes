@@ -27,3 +27,8 @@ do not study international competitiveness.
 	- the <mark style="background: #ADCCFFA6;">direction</mark> refers to the export destination and the origin of imports in terms of countries or groups of countries
 		- reflected in its **close proximity to asia**
 - **Trends** refer to <mark style="background: #ADCCFFA6;">HOW and WHY</mark> the composition and direction of exports and imports have changed over time
+
+#### Trade Intensity
+- **Trade Intensity**
+	- Measures an economy's integration with the world economy. A higher trade intensity means an economy is more susceptible to external shocks in the world economy.
+	- It is the **sum of exports and imports over GDP** - $$(\frac{X+M}{GDP})\times 100$$
