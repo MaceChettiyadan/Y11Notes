@@ -1,0 +1,2 @@
+- gravity acts towards the centre of the earth i.e. downwards. thus it is perpendicular to the horizontal velocity
+- 

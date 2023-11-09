@@ -21,8 +21,9 @@ do not study international competitiveness.
 
 ### Composition and Direction of Australia's trade
 #### Patterns and trends in global trade
-- **Trade Patterns** refer to the composition and direction of goods and services in a country's trade
+- **Trade Patterns** refer to the <mark style="background: #ADCCFFA6;">composition and direction</mark> of goods and services in a country's trade
 	- The <mark style="background: #ADCCFFA6;">composition</mark> of goods refers to the different categories of goods and services that a country can import or export
 		- reflects the **nation's natural resource wealth** - Australia is rich in natural resources
 	- the <mark style="background: #ADCCFFA6;">direction</mark> refers to the export destination and the origin of imports in terms of countries or groups of countries
 		- reflected in its **close proximity to asia**
+- **Trends** refer to <mark style="background: #ADCCFFA6;">HOW and WHY</mark> the composition and direction of exports and imports have changed over time
