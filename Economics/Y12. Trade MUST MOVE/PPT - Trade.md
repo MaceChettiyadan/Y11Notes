@@ -74,4 +74,5 @@ do not study international competitiveness.
 	- We are **heavily dependant** on other economies for manufactured and capital goods
 
 #### Direction
-- 
+- Europe $\rightarrow$ Asia over time
+- **China**, **Japan** and the **USA** are responsible for 46% of two way trade
