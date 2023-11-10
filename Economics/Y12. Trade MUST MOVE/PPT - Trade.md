@@ -45,23 +45,33 @@ do not study international competitiveness.
 	6. **Productivity** and **Cost** **efficiency** - if a country is <mark style="background: #ADCCFFA6;">better at producing things</mark>, they will be more competitive, and the demand for their goods would <mark style="background: #ADCCFFA6;">increase</mark>
 
 #### Composition
-- **Primary Industries** dominate Australian <mark style="background: #ADCCFFA6;">exports</mark>
-	- Manufactured goods have been Australia's most important import category
-	- Changes to **composition** have been associated with rapid increase in mineral and energy exports and the decline in rural exports
-- The **composition of Australia's trade** will reflect its **comparative advantage**
-	- Traditionally Australia has been a **major exporter of primary commodities**
-	- we have a large resource/population ratio and substantial mineral wealth
-	- We have <mark style="background: #ADCCFFA6;">enjoyed a comparative advantage in the production of primary goods</mark> - specifically agricultural and resources
-	- However, over the **past few decades** there has been a significant <mark style="background: #ADCCFFA6;">increase</mark> in the relative importance of <mark style="background: #ADCCFFA6;">mineral and energy</mark> resources and a <mark style="background: #ADCCFFA6;">decline</mark> in the importance of <mark style="background: #ADCCFFA6;">rural exports</mark>
-		- agriculture is still large
-- **Reasons for change**
-	- Rapid growth in <mark style="background: #ADCCFFA6;">China</mark> and other Asian economies that resulted in a major resources boom in Australia from 2001-2012
-	- Even with the<mark style="background: #ADCCFFA6;"> end of the mining boom</mark>, resources are likely to remain **dominant**
-	- So, **majorly**,
-		1. Dramatic decline in rural exports
-		2. A significant increase in resource (minerals and fuels) exports
-		3. A relative decline in manufacturing exports
-		4. The increasing importance of services exports (especially tourism and education)
+- **Exports**
+	- **Primary Industries** dominate Australian <mark style="background: #ADCCFFA6;">exports</mark>
+		- Manufactured goods have been Australia's most important import category
+		- Changes to **composition** have been associated with rapid increase in mineral and energy exports and the decline in rural exports
+	- The **composition of Australia's trade** will reflect its **comparative advantage**
+		- Traditionally Australia has been a **major exporter of primary commodities**
+		- we have a large resource/population ratio and substantial mineral wealth
+		- We have <mark style="background: #ADCCFFA6;">enjoyed a comparative advantage in the production of primary goods</mark> - specifically agricultural and resources
+		- However, over the **past few decades** there has been a significant <mark style="background: #ADCCFFA6;">increase</mark> in the relative importance of <mark style="background: #ADCCFFA6;">mineral and energy</mark> resources and a <mark style="background: #ADCCFFA6;">decline</mark> in the importance of <mark style="background: #ADCCFFA6;">rural exports</mark>
+			- agriculture is still large
+	- **Reasons for change**
+		- Rapid growth in <mark style="background: #ADCCFFA6;">China</mark> and other Asian economies that resulted in a major resources boom in Australia from 2001-2012
+		- Even with the<mark style="background: #ADCCFFA6;"> end of the mining boom</mark>, resources are likely to remain **dominant**
+		- So, **for exports**,
+			1. Dramatic decline in rural exports
+			2. A significant increase in resource (minerals and fuels) exports
+			3. A relative decline in manufacturing exports
+			4. The increasing importance of services exports (especially tourism and education)
+- **Imports**
+	- For <mark style="background: #ADCCFFA6;">imports</mark>, the largest category is intermediate goods, consisting mainly of fuels and processed industrial goods
+	- our most important **service export** is **education**
+	- our largest **import** is **personal travel** (greater than even motor vehicles!)
+		- this is how much Australians spend **overseas**
+- <mark style="background: #ADCCFFA6;">The composition of our trade is a reflection of the structure of the economy</mark>
+	- Australia has a very efficient and internationally competitive primary sector, due to both **mining and agriculture** (at least compared to **manufactured products**)
+	- The **services** category is growing for both imports and exports
+	- We are **heavily dependant** on other economies for manufactured and capital goods
 
 #### Direction
 - 
