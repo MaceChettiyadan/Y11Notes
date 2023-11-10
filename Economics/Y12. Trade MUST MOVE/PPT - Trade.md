@@ -76,3 +76,20 @@ do not study international competitiveness.
 #### Direction
 - Europe $\rightarrow$ Asia over time
 - **China**, **Japan** and the **USA** are responsible for 46% of two way trade
+
+
+**POWERPOINT WAS YAPPERVESCENT , SEE CHPTR. SUMMARY**
+
+
+#### Comparative Advantage
+- Countries gain from trade when they produce (specialise in) goods and services for which they have a comparative advantage
+	- **Comparative Advantage** has lower opportunity cost and is concerned with **what can be done** with the resource endowment
+#### Competitive Advantage
+- Producers develop an advantage over their competitors in international markets
+- Concerned with **advantages created, not given**
+- **Contributions**:
+	- Comparative Advantage
+	- Free Trade
+	- Foreign Investment
+
+Historically Australia has been more comparative advantage but is shifting to competitive.
