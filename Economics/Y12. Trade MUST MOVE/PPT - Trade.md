@@ -91,5 +91,15 @@ do not study international competitiveness.
 	- Comparative Advantage
 	- Free Trade
 	- Foreign Investment
+	- Workforce
+	- Non-price competitiveness
+	- Strong institutions
+- **Detractions**
+	- AUD
+	- Regulated economy
+	- High direct taxes
+	- Labour supply
+	- High wages and low productivity
+	- Lack of economies of scale
 
 Historically Australia has been more comparative advantage but is shifting to competitive.
