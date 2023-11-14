@@ -81,25 +81,17 @@ do not study international competitiveness.
 **POWERPOINT WAS YAPPERVESCENT , SEE CHPTR. SUMMARY**
 
 
-#### Comparative Advantage
-- Countries gain from trade when they produce (specialise in) goods and services for which they have a comparative advantage
-	- **Comparative Advantage** has lower opportunity cost and is concerned with **what can be done** with the resource endowment
-#### Competitive Advantage
-- Producers develop an advantage over their competitors in international markets
-- Concerned with **advantages created, not given**
-- **Contributions**:
-	- Comparative Advantage
-	- Free Trade
-	- Foreign Investment
-	- Workforce
-	- Non-price competitiveness
-	- Strong institutions
-- **Detractions**
-	- AUD
-	- Regulated economy
-	- High direct taxes
-	- Labour supply
-	- High wages and low productivity
-	- Lack of economies of scale
+
+### Extent and Importance of trade
+- **Australia:
+	- World's largest exporter of iron ore, coal and wool
+	- Without trade this would <mark style="background: #ADCCFFA6;">not be possible</mark>
+- **Reasons**:
+	- **Proportion of Growth**: Trade represents <mark style="background: #ADCCFFA6;">46% of GDP for Australia</mark>
+	- **Driver of growth**: Over the last 30 years the Australian economy has <mark style="background: #ADCCFFA6;">doubled</mark>, with exports accounting for over a **quarter** of this growth
+	- **Liberalisation:** over the last 30 years this has contributed to higher real GDP
+	- **Employment**: One in five Australians are employed in a trade related activity
+	- **Consumer welfare**: Access to a wider variety of goods and services at more competitive prices, improving <mark style="background: #ADCCFFA6;">standard of living</mark>
+	- **Competition:** from overseas markets, compels Australian firms to <mark style="background: #ADCCFFA6;">innovate and adopt more innovative methods</mark>
 
 Historically Australia has been more comparative advantage but is shifting to competitive.
