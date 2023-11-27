@@ -25,8 +25,36 @@
 	- **Protectionism** is the opposite of free trade
 #### Specialisation
 - Occurs when an individual, firm, or country concentrates production one one or a few goods and services
-- Countries that do not trade cannot specialise as they must produce all goods and services
+	- Countries that do not trade cannot specialise as they must produce all goods and services
+	- Specialisation is <mark style="background: #ADCCFFA6;">possible because of the uneven distribution and quality of resources between nations</mark>
+	- Differences in the distribution of resources in terms of quantity and quality will affect the cost of supplying goods a
+#### Absolute Advantage
+- A country is said to have an absolute advantage in the production of a good or service if it can **produce a greater quantity of that good with the same quantity of inputs**
+	- According to the <mark style="background: #ADCCFFA6;">theory of absolute advantage</mark>, if countries specialise in and export the good in which they have an absolute advantage, the result is increased production and consumption in each country
+	- However there are some **assumptions of the theory**
+		1. The world consists of **two countries**
+		2. Each country **produces and consumes 2 goods**
+		3. Resources are **perfectly mobile** - they can be shifted between industries with no displacement cost
+		4. **Transport** costs are **not** **considered**
+#### Demand & Supply Model
+- The demand and supply model may be used to determine the relative price of a good which is the same as opportunity cost
+- By comparing the domestic price of a good with the world price we can determine whether a country has a comparative advantage
+- If the domestic price is lower than the world price, then the country must be relatively more efficient at producing this good
 ### The benefits of trade liberalisation
+- **Free Trade** refers to the absence of government intervention of any kind in international trade, so that trade takes place without any restrictions (barriers) between individuals or firms in different countries
 ### Types of protection, including tariffs, subsidies, quotas
+- **Trade Protection** involves government intervention in international trade through the imposition of trade restrictions (barriers) to prevent the free entry of imports into a country or to protect the domestic economy from foreign competition
+- <mark style="background: #ADCCFFA6;">Three Types</mark>
+	- Those that **increase the domestic price** of a **foreign product**, such as a **tariff**
+	- Those that **provide domestic producers with a cost advantage**, such as a **subsidy**
+	- Those that **impose a quantitative restriction on imports**, such as a **quota**
 ### Arguments for protection
+- **Protection** refers to any action by the government designed to give the domestic producer an artificial advantage over a foreign producer
+	- It seeks to increase domestic production in the industries and decrease the consumption of imported goods and services
+	- Those that benefit form the protection include the owners and workers in the protected industries and sometimes the government in the case of tariff revenue
+	- Protection does, however, impose a cost/burden on the economy
+		- The industries given protection will expand their use of resources that could be used in other sectors of the economy
+	- Production in non-protected industries will fall
+	- Consumers are also disadvantaged since they will have to pay higher prices for both domestic and imported goods and the quantity of goods they consume will also decrease
+	- that is, **the losses from protection always outweigh the gains**
 ### The impact of tariffs and subsidies using the demand and supply model on trade, market efficiency and the macroeconomy

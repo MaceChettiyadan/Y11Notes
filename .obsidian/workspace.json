@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"allocative efficiency\"",
+                "query": "free trade",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,11 +177,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2f8adfe52dfec140",
+  "active": "746d681b614dedf9",
   "lastOpenFiles": [
     "Economics/Y12. Trade MUST MOVE/PPT - Trade.md",
-    "Economics/12. The role of government/PPT - Role of Government.md",
     "Economics/y12 - free trade MUST MOVE/PPT - Free Trade & Protection.md",
+    "Economics/12. The role of government/PPT - Role of Government.md",
     "Economics/y12 - free trade MUST MOVE/Untitled.md",
     "Economics/y12 - free trade MUST MOVE",
     "Physics/Y12 - Projectiles.md",
