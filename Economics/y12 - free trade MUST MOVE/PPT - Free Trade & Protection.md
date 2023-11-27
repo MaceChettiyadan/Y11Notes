@@ -57,4 +57,18 @@
 	- Production in non-protected industries will fall
 	- Consumers are also disadvantaged since they will have to pay higher prices for both domestic and imported goods and the quantity of goods they consume will also decrease
 	- that is, **the losses from protection always outweigh the gains**
+
+#### Tariffs
+- A tariff is a tax that is imposed on imported good
+- Consumers' loss more than offsets the gain to producers and the government.
+	- The higher the tariff, the greater the protection afforded to the domestic producers since imports would contract which domestic production would increase
+	- If a tariff is increased to the equilibrium, then tax revenue falls to zero as the domestic industry is completely protected (Q3-4 is ZERO)
+#### Subsidies
+- No adverse effects to consumers - they pay the same price and purchase the same quantity of the good
+	- This is why subsidies may be preferred to tariffs
+	- However consumers pay an indirect burden due to the subsidy being paid through government tax revenue
+- Because of area ABC causing a deadweight loss, there is still a welfare loss to society.
+	- Thus there is still an invisible loss
+
+**It is important to note that all forms of protection cause hamrs to world trade and are inefficient**
 ### The impact of tariffs and subsidies using the demand and supply model on trade, market efficiency and the macroeconomy
