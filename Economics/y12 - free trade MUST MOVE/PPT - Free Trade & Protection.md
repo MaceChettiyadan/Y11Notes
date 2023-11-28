@@ -79,7 +79,7 @@
 
 #### Anti-Arguments
 - **Anti-Dumping**
-	- What may be perceived as dumping may not necessarily be dumping
+	- What may be perceived as dumping may not necessarily be dumping - think Temu
 
 
 **It is important to note that all forms of protection cause harms to world trade and are inefficient**
