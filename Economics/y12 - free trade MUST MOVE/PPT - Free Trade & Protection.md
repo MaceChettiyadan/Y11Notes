@@ -74,7 +74,7 @@
 
 #### Arguments
 - **Anti-Dumping Argument** - where a producer/nation produces and then dumps a product in another nation's market - at a price which is lower than the cost of production
-- 
+	- this drives the <mark style="background: #ADCCFFA6;">domestic producer out</mark> and allows the foreign producer to actually make money
 
 
 **It is important to note that all forms of protection cause harms to world trade and are inefficient**
