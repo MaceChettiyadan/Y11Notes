@@ -69,6 +69,8 @@
 	- However consumers pay an indirect burden due to the subsidy being paid through government tax revenue
 - Because of area ABC causing a deadweight loss, there is still a welfare loss to society.
 	- Thus there is still an invisible loss
+- **Sample Paragraph**
+	- A subsidy is a payment from the government to producers to decrease the cost of production of a good. In Scenario X, the subsidy has increased supply from Sd to Ss. The world price for Good X is indicated at W where imports (which are perfectly elastic) are at W. Quantity consumed is at Q2, and Quantity produced domestically is at Q1. Thus imports are between Q1 and Q2. With the introduction of the subsidy
 
 **It is important to note that all forms of protection cause hamrs to world trade and are inefficient**
 ### The impact of tariffs and subsidies using the demand and supply model on trade, market efficiency and the macroeconomy
