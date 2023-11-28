@@ -48,15 +48,6 @@
 	- Those that **increase the domestic price** of a **foreign product**, such as a **tariff**
 	- Those that **provide domestic producers with a cost advantage**, such as a **subsidy**
 	- Those that **impose a quantitative restriction on imports**, such as a **quota**
-### Arguments for protection
-- **Protection** refers to any action by the government designed to give the domestic producer an artificial advantage over a foreign producer
-	- It seeks to increase domestic production in the industries and decrease the consumption of imported goods and services
-	- Those that benefit form the protection include the owners and workers in the protected industries and sometimes the government in the case of tariff revenue
-	- Protection does, however, impose a cost/burden on the economy
-		- The industries given protection will expand their use of resources that could be used in other sectors of the economy
-	- Production in non-protected industries will fall
-	- Consumers are also disadvantaged since they will have to pay higher prices for both domestic and imported goods and the quantity of goods they consume will also decrease
-	- that is, **the losses from protection always outweigh the gains**
 
 #### Tariffs
 - A tariff is a tax that is imposed on imported good
@@ -70,7 +61,21 @@
 - Because of area ABC causing a deadweight loss, there is still a welfare loss to society.
 	- Thus there is still an invisible loss
 - **Sample Paragraph**
-	- A subsidy is a payment from the government to producers to decrease the cost of production of a good. In Scenario X, the subsidy has increased supply from Sd to Ss. The world price for Good X is indicated at W where imports (which are perfectly elastic) are at W. Quantity consumed is at Q2, and Quantity produced domestically is at Q1. Thus imports are between Q1 and Q2. With the introduction of the subsidy
+	- A subsidy is a payment from the government to producers to decrease the cost of production of a good. In Scenario X, the subsidy has increased supply from Sd to Ss. The world price for Good X is indicated at W where imports (which are perfectly elastic) are at W. Quantity consumed is at Q2, and Quantity produced domestically is at Q1. Thus imports are between Q1 and Q2. With the introduction of the subsidy, quantity produced domestically has increased to Q3 and so imports have decreased (as consumption is constant at Q2). Area A + B is the cost of the subsidy, and area A only is the increase in producer surplus as a result of the subsidy. This means B is a deadweight loss that has introduced inefficiency in the market. There are no adverse effects on consumers as price is constant, though they pay an indirect price/burden through the fact that their taxes are used on the subsidy - money which could be used elsewhere.
+### Arguments for protection
+- **Protection** refers to any action by the government designed to give the domestic producer an artificial advantage over a foreign producer
+	- It seeks to increase domestic production in the industries and decrease the consumption of imported goods and services
+	- Those that benefit form the protection include the owners and workers in the protected industries and sometimes the government in the case of tariff revenue
+	- Protection does, however, impose a cost/burden on the economy
+		- The industries given protection will expand their use of resources that could be used in other sectors of the economy
+	- Production in non-protected industries will fall
+	- Consumers are also disadvantaged since they will have to pay higher prices for both domestic and imported goods and the quantity of goods they consume will also decrease
+	- that is, **the losses from protection always outweigh the gains**
 
-**It is important to note that all forms of protection cause hamrs to world trade and are inefficient**
+#### Arguments
+- **Anti-Dumping Argument** - where a producer/nation produces and then dumps a product in another nation's market - at a price which is lower than the cost of production
+- 
+
+
+**It is important to note that all forms of protection cause harms to world trade and are inefficient**
 ### The impact of tariffs and subsidies using the demand and supply model on trade, market efficiency and the macroeconomy
