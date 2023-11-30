@@ -82,13 +82,18 @@
 	- This is considered <mark style="background: #ADCCFFA6;">one of the strongest arguments for protection</mark>
 	- Protection **must be temporary**
 - **Diversification Argument**
-	- If you **specialise** you are <mark style="background: #ADCCFFA6;">putting your eggs in one basket</mark> - if the industry is destroyed, there are massive impacts if it is damaged
+	- If you **specialise** you are <mark style="background: #ADCCFFA6;">putting your eggs in one basket</mark> - if the industry is destroyed, there are massive impacts
+		- this often applies to **developing countries** such as Cuba with sugar/bananas
 - **Strategic trade policy**
 	- <mark style="background: #ADCCFFA6;">Closely related to infant industry</mark>
 	- Argument calls for protection of **high technology industries** to help them achieve economies of scale
 		- It is argued that these industries (semiconductors, etc.) are always growing and must be protected
 	- **JAPAN + PROTECTION = SEMICONDUCTOR OMG**
 	- Used by US/EU
+- **National Security /Defence Argument**
+	- Certain industries are <mark style="background: #ADCCFFA6;">essential for defence</mark>
+	- In times of **war, a country should not rely on imports**
+		- 'unfriendly' nations shouldn't specialise
 
 #### Anti-Arguments
 - **Anti-Dumping**
@@ -99,6 +104,9 @@
 - **Strategic Trade Policy**
 	- **Identification of industries**
 	- **Selecting policy** - also it is likely many countries will protect, which means no country has any real comparative advantage
+- **National Security/Defence Argument**
+	- Irrelevant industries (such as steel) can argue for this - it is hard to <mark style="background: #ADCCFFA6;">filter out relevant industries</mark>
+	- This argument is also non-economic, more military
 
 
 **It is important to note that all forms of protection cause harms to world trade and are inefficient**
