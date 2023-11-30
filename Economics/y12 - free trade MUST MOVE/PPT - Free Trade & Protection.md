@@ -88,6 +88,7 @@
 	- Argument calls for protection of **high technology industries** to help them achieve economies of scale
 		- It is argued that these industries (semiconductors, etc.) are always growing and must be protected
 	- **JAPAN + PROTECTION = SEMICONDUCTOR OMG**
+	- Used by US/EU
 
 #### Anti-Arguments
 - **Anti-Dumping**
@@ -95,6 +96,9 @@
 - **Infant Industry***
 	- Industries may not have a a <mark style="background: #ADCCFFA6;">strong enough incentive to become efficient</mark> because of the protection provided
 	- Hard to choose infant industry - that is, those we know will succeed
+- **Strategic Trade Policy**
+	- **Identification of industries**
+	- **Selecting policy** - also it is likely many countries will protect, which means no country has any real comparative advantage
 
 
 **It is important to note that all forms of protection cause harms to world trade and are inefficient**
