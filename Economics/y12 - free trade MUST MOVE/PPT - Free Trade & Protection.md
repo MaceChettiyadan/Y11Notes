@@ -83,6 +83,11 @@
 	- Protection **must be temporary**
 - **Diversification Argument**
 	- If you **specialise** you are <mark style="background: #ADCCFFA6;">putting your eggs in one basket</mark> - if the industry is destroyed, there are massive impacts if it is damaged
+- **Strategic trade policy**
+	- <mark style="background: #ADCCFFA6;">Closely related to infant industry</mark>
+	- Argument calls for protection of **high technology industries** to help them achieve economies of scale
+		- It is argued that these industries (semiconductors, etc.) are always growing and must be protected
+	- **JAPAN + PROTECTION = SEMICONDUCTOR OMG**
 
 #### Anti-Arguments
 - **Anti-Dumping**
