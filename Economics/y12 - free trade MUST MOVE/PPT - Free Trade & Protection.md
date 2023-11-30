@@ -94,7 +94,6 @@
 	- Certain industries are <mark style="background: #ADCCFFA6;">essential for defence</mark>
 	- In times of **war, a country should not rely on imports**
 		- 'unfriendly' nations shouldn't specialise
-
 #### Anti-Arguments
 - **Anti-Dumping**
 	- What may be perceived as dumping may not necessarily be dumping - think Temu
