@@ -94,19 +94,28 @@
 	- Certain industries are <mark style="background: #ADCCFFA6;">essential for defence</mark>
 	- In times of **war, a country should not rely on imports**
 		- 'unfriendly' nations shouldn't specialise
+- **Balance of Payments Deficit**
+- 
 #### Anti-Arguments
 - **Anti-Dumping**
 	- What may be perceived as dumping may not necessarily be dumping - think Temu
 - **Infant Industry***
 	- Industries may not have a a <mark style="background: #ADCCFFA6;">strong enough incentive to become efficient</mark> because of the protection provided
 	- Hard to choose infant industry - that is, those we know will succeed
+- **Diversification**
+	- Only really applies to developing countries
+	- Selection/Identification
 - **Strategic Trade Policy**
-	- **Identification of industries**
+	- Identification of industries
 	- **Selecting policy** - also it is likely many countries will protect, which means no country has any real comparative advantage
 - **National Security/Defence Argument**
 	- Irrelevant industries (such as steel) can argue for this - it is hard to <mark style="background: #ADCCFFA6;">filter out relevant industries</mark>
 	- This argument is also non-economic, more military
 
+#### Steps to writing Protection Questions
+- What would happen without
+- What would happen with
+- Why it won't work
 
 **It is important to note that all forms of protection cause harms to world trade and are inefficient**
 ### The impact of tariffs and subsidies using the demand and supply model on trade, market efficiency and the macroeconomy
