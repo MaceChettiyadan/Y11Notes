@@ -88,8 +88,8 @@
 - **Anti-Dumping**
 	- What may be perceived as dumping may not necessarily be dumping - think Temu
 - **Infant Industry***
-	- Industries will likely become dependant and never internationally competitive
-	- Hard to choose infant industry - that is, those we know will succbeed
+	- Industries may not have a a <mark style="background: #ADCCFFA6;">strong enough incentive to become efficient</mark> because of the protection provided
+	- Hard to choose infant industry - that is, those we know will succeed
 
 
 **It is important to note that all forms of protection cause harms to world trade and are inefficient**
