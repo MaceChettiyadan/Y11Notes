@@ -76,10 +76,16 @@
 - **Anti-Dumping Argument** - where a producer/nation produces and then dumps a product in another nation's market - at a price which is lower than the cost of production
 	- this drives the <mark style="background: #ADCCFFA6;">domestic producer out</mark> and allows the foreign producer to actually make money
 	- Also the product could be illegal in the country of production
+- **Infant industry Argument**
+	- Infant/undeveloped industries have <mark style="background: #ADCCFFA6;">higher costs</mark>, so they may be protected
+- **Diversification Argument**
+	- If you **specialise** you are <mark style="background: #ADCCFFA6;">putting your eggs in one basket</mark> - if the industry is destroyed, there are massive impacts if it is damaged
 
 #### Anti-Arguments
 - **Anti-Dumping**
 	- What may be perceived as dumping may not necessarily be dumping - think Temu
+- **Infant Industry***
+	- Industries will likely become dependant and never internationally competitive
 
 
 **It is important to note that all forms of protection cause harms to world trade and are inefficient**
