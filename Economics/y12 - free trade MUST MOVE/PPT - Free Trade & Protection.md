@@ -78,6 +78,7 @@
 	- Also the product could be illegal in the country of production
 - **Infant industry Argument**
 	- Infant/undeveloped industries have <mark style="background: #ADCCFFA6;">higher costs</mark>, so they may be protected
+		- Mature foreign firms are able to sell at lower prices so infant industries are priced out
 - **Diversification Argument**
 	- If you **specialise** you are <mark style="background: #ADCCFFA6;">putting your eggs in one basket</mark> - if the industry is destroyed, there are massive impacts if it is damaged
 
@@ -86,6 +87,7 @@
 	- What may be perceived as dumping may not necessarily be dumping - think Temu
 - **Infant Industry***
 	- Industries will likely become dependant and never internationally competitive
+	- Hard to choose infant industry
 
 
 **It is important to note that all forms of protection cause harms to world trade and are inefficient**
