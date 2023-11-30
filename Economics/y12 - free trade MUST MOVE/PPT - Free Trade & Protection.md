@@ -95,7 +95,10 @@
 	- In times of **war, a country should not rely on imports**
 		- 'unfriendly' nations shouldn't specialise
 - **Balance of Payments Deficit**
-- 
+	- We want to be in a trade surplus to minimise leakages
+		- If M > X, protection could resolve this short-term
+		- However, other countries could retaliate reducing our exports
+	- So this is a <mark style="background: #ADCCFFA6;">short-term solution at best</mark>
 #### Anti-Arguments
 - **Anti-Dumping**
 	- What may be perceived as dumping may not necessarily be dumping - think Temu
