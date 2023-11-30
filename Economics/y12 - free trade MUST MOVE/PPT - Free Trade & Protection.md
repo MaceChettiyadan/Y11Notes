@@ -42,6 +42,13 @@
 - If the domestic price is lower than the world price, then the country must be relatively more efficient at producing this good
 ### The benefits of trade liberalisation
 - **Free Trade** refers to the absence of government intervention of any kind in international trade, so that trade takes place without any restrictions (barriers) between individuals or firms in different countries
+#### The Benefits
+1. **Economic Growth**: increase real incomes and living standards
+2. **Efficiency**: increases efficiency through greater competition
+3. **Productivity**: increases productivity through efficient resource allocation
+4. **Consumer Gain**: consumers gain through lower prices and increased market access
+5. **Domestic Producers**: domestic producers gain through lower input prices as they can import
+6. **Economies of scale**: enable greater specialisation which allows economies of scale
 ### Types of protection, including tariffs, subsidies, quotas
 - **Trade Protection** involves government intervention in international trade through the imposition of trade restrictions (barriers) to prevent the free entry of imports into a country or to protect the domestic economy from foreign competition
 - <mark style="background: #ADCCFFA6;">Three Types</mark>
@@ -99,6 +106,10 @@
 		- If M > X, protection could resolve this short-term
 		- However, other countries could retaliate reducing our exports
 	- So this is a <mark style="background: #ADCCFFA6;">short-term solution at best</mark>
+- **Protection of Domestic Jobs**
+	- As the name implies- a shift towards imports decreases domestic production and thus employment
+	- Protection will increase domestic production and thus employment
+
 #### Anti-Arguments
 - **Anti-Dumping**
 	- What may be perceived as dumping may not necessarily be dumping - think Temu
