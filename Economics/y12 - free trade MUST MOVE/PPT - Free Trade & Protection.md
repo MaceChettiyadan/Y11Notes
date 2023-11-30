@@ -87,7 +87,7 @@
 	- What may be perceived as dumping may not necessarily be dumping - think Temu
 - **Infant Industry***
 	- Industries will likely become dependant and never internationally competitive
-	- Hard to choose infant industry
+	- Hard to choose infant industry - that is, those we know will succeed
 
 
 **It is important to note that all forms of protection cause harms to world trade and are inefficient**
